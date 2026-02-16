@@ -110,6 +110,14 @@ In the Streamlit UI:
 - If the model bundle isn’t found, train once (Step 3) or update the sidebar path.
 - If you see Streamlit warnings about `use_container_width`, they’re deprecation warnings and not a functional error.
 
+## GitHub note (don’t push the dataset)
+
+This repo is meant to be pushed **without** the TAME audio. Keep these out of git:
+
+- `mic1_trim_v1` (zip)
+- `mic1_trim_v2/` (extracted WAVs)
+- `.venv/` and `.cache/`
+
 ## Next steps
 
 - Split the knowledge base by patient type (adult / post-op / peds) to reduce cross-retrieval

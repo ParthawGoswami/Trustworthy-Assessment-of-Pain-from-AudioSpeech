@@ -1,0 +1,37 @@
+# ---- OS / editor ----
+.DS_Store
+.vscode/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ---- Local caches / artifacts ----
+.cache/
+
+# ---- Dataset (DO NOT COMMIT) ----
+# Original zip (huge)
+mic1_trim_v1
+
+# Extracted audio (huge)
+mic1_trim_v2/
+mic1_trim_v2/**
+
+# If you ever extract into cache
+.cache/audio/
+
+# Optional: keep metadata out if you want the repo code-only.
+# If you want to commit metadata CSVs, comment these out.
+# meta_audio.csv
+# meta_participant.csv
