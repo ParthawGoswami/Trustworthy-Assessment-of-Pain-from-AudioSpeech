@@ -1,6 +1,6 @@
 # Silent Patient — AI Pain Detector (TAME Pain Dataset)
 
-Hackathon-ready demo that predicts pain from **speech or non-speech vocalizations** (sighs / breathing / groans), visualizes pain trends, and provides a **retrieval-only** (offline) “AI Nurse Assistant”.
+Hackathon-ready demo that predicts pain from **speech or non-speech vocalizations** (sighs / breathing / groans), visualizes pain trends, and provides a **retrieval-only** “AI Nurse Assistant”.
 
 What it supports:
 
@@ -89,10 +89,10 @@ streamlit run silent_patient/app/streamlit_app.py
 ## Model choices (baseline)
 
 - Feature extraction: log-mel spectrogram + MFCC summary stats
-- Model: small **CNN regressor/classifier** (fast, hackathon-friendly)
+- Model: small **CNN regressor/classifier** (fast)
 - Optional: a wav2vec2 fine-tuning script exists for later experimentation
 
-## Retrieval-only Nurse Assistant (offline)
+## Retrieval-only Nurse Assistant
 
 The assistant is intentionally **not** a chat LLM. It uses local retrieval only:
 
