@@ -1,5 +1,7 @@
 # Silent Patient — AI Pain Detector (TAME Pain Dataset)
-
+<p align="center">
+  <img src="https://github.com/ParthawGoswami/Trustworthy-Assessment-of-Pain-from-AudioSpeech/blob/main/silent_patient/Silent_patient.png" width="1000px" alt="Silent Patient — AI Pain Detector" />
+</p>
 Hackathon-ready demo that predicts pain from **speech or non-speech vocalizations** (sighs / breathing / groans), visualizes pain trends, and provides a **retrieval-only** “AI Nurse Assistant”.
 
 What it supports:
