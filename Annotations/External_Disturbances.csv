@@ -1,0 +1,1853 @@
+PID,COND,UTTNUM,UTTID,PAIN LEVEL,REVISED PAIN,NOTES,ACTION LABEL,NOISE RELATION
+p10085,LC,13,75,4.0,4.0,slight click near end,2.0,background
+p10085,LC,17,173,5.0,5.0,slight click at end,2.0,background
+p10085,LC,19,135,5.0,5.0,buzz at end,3.0,background
+p10085,LC,20,151,5.0,5.0,airy noise at end,3.0,foreground 
+p10085,LC,21,99999,5.0,5.0,slight click at end,2.0,background
+p10085,LC,36,99999,4.0,4.0,slight click near middle,2.0,background
+p10085,LC,39,83,3.0,3.0,slight click near middle,2.0,background
+p10085,LW,3,54,1.0,1.0,slight shuffle at end,2.0,foreground 
+p10085,LW,30,79,1.0,1.0,slight click near middle,2.0,background
+p10085,RC,2,122,4.0,4.0,slight static at end,2.0,foreground 
+p10085,RC,6,99999,4.0,4.0,slight static at beginning and end,2.0,foreground 
+p10085,RC,10,70,5.0,5.0,slight static at end,2.0,foreground 
+p10085,RC,15,17,5.0,5.0,slight static near beginning and end,2.0,foreground 
+p10085,RC,22,142,6.0,6.0,slight static at end,2.0,foreground 
+p10085,RC,23,145,6.0,6.0,static near beginning and end,3.0,foreground 
+p10085,RC,24,131,6.0,6.0,"slight stutter on ""swim""; slight static at end",2.0,foreground 
+p10085,RC,25,181,6.0,6.0,slight static at end,2.0,foreground 
+p10085,RC,27,3,5.0,5.0,static at end,3.0,foreground 
+p10555,LC,2,8,3.0,3.0,"click near end; last word ""garbage"" cut out",3.0,background
+p10555,LC,3,108,3.0,3.0,click at end,3.0,background
+p10555,LC,4,75,3.0,3.0,slight click at end,2.0,background
+p10555,LC,6,99999,3.0,3.0,slight short static at end,2.0,foreground 
+p10555,LC,13,26,4.0,4.0,slight tap at end,2.0,foreground 
+p10555,LC,15,171,4.0,4.0,"first part of first word cut out (""St"" in ""Steam""); static at end",3.0,foreground 
+p10555,LC,17,96,3.0,3.0,high-pitch ring at end,3.0,background
+p10555,LC,18,70,3.0,3.0,slight click at end,2.0,background
+p10555,LC,20,4,3.0,3.0,slight click near middle and end,2.0,background
+p10555,LC,25,148,3.0,3.0,slight click at end,2.0,background
+p10555,LC,34,82,2.0,2.0,"first part of first word cut out (""S"" in ""See""); click in middle and end",3.0,background
+p10555,LC,35,46,2.0,2.0,squeak and click at end,3.0,foreground and background
+p10555,LC,36,99999,2.0,2.0,click near beginning,3.0,background
+p10555,LW,1,113,1.0,1.0,humming at end,3.0,background
+p10555,LW,7,154,1.0,1.0,slight humming at end,2.0,background
+p10555,LW,9,124,1.0,1.0,click at end,3.0,background
+p10555,LW,10,175,1.0,1.0,slight click near end,2.0,background
+p10555,LW,11,99999,1.0,1.0,airy noise at end,3.0,foreground
+p10555,LW,12,127,1.0,1.0,"first word ""It"" cut out; slap-like noise at end",3.0,background
+p10555,LW,21,99999,1.0,1.0,slight click at end,2.0,background
+p10555,LW,24,100,1.0,1.0,"stutters the word ""the""; clicks at end",3.0,background
+p10555,LW,29,50,1.0,1.0,click at end,3.0,background
+p10555,RC,4,154,3.0,3.0,zip at end,3.0,background
+p10555,RC,30,91,3.0,3.0,"first part of sentence cut out (""The s-""); click at end",3.0,background
+p10555,RC,40,92,2.0,2.0,static at end; no pain rating given so copied down rather than up,3.0,foreground
+p10555,RW,1,100,1.0,1.0,click at end,3.0,background
+p10555,RW,2,2,1.0,1.0,click at end,3.0,background
+p10555,RW,6,99999,1.0,1.0,click at beginning,3.0,background
+p11085,LC,4,175,4.0,4.0,slight audible inhale at beginning; slight click at end,2.0,background
+p11085,LC,5,18,4.0,4.0,click at end ,3.0,background
+p11085,LC,8,22,4.0,4.0,"stutters on word ""turned""; click at end",3.0,background
+p11085,LC,14,93,4.0,4.0,slight audible inhale at beginning; slight click near beginning,2.0,background
+p11085,LC,15,65,4.0,4.0,slight audible inhale at beginning; slight click at end,2.0,background
+p11085,LC,20,76,5.0,5.0,slight click at beginning,2.0,background
+p11085,LC,23,163,4.0,4.0,slap-noise near end,3.0,background
+p11085,LC,34,97,4.0,4.0,slight clicks at end; no pain rating given so copied down rather than up,2.0,background
+p11085,LW,1,37,1.0,1.0,slight shuffle at end,2.0,foreground
+p11085,LW,3,83,1.0,1.0,slight audible inhale at beginning; slight shuffle at end,2.0,foreground
+p11085,LW,6,99999,1.0,1.0,slight shuffle at end,2.0,foreground
+p11085,LW,14,59,1.0,1.0,slight shuffle at end,2.0,foreground
+p11085,LW,20,164,1.0,1.0,slight shuffle at end,2.0,foreground
+p11085,LW,21,99999,1.0,1.0,slight click near middle and end,2.0,background
+p11085,LW,23,53,1.0,1.0,slight click near beginning,2.0,background
+p11085,LW,28,23,1.0,1.0,click and ring at end ,3.0,background
+p11085,LW,30,40,1.0,1.0,slight scrape at end,2.0,foreground
+p11085,LW,36,99999,1.0,1.0,click at end ,3.0,background
+p11085,RC,11,99999,5.0,5.0,slight click at end,2.0,background
+p11085,RC,13,19,5.0,5.0,slight click at end,2.0,background
+p11085,RC,14,39,5.0,5.0,slight tap at end,2.0,foreground
+p11085,RC,19,17,5.0,5.0,short hum in middle; clicks at end,3.0,background
+p11085,RC,20,181,5.0,5.0,"pronounces ""wool"" like ""wood""; static at end",3.0,foreground
+p11085,RC,23,84,5.0,5.0,slight audible inhale at beginning; slight short hum in middle; click at end,3.0,background
+p11085,RC,25,115,5.0,5.0,slight click at end,2.0,background
+p11085,RC,32,31,6.0,6.0,slight audible inhale at beginning; slight click near middle and end,2.0,background
+p11085,RC,34,155,6.0,6.0,slight click at end,2.0,background
+p11085,RC,36,99999,6.0,6.0,slight click at end,2.0,background
+p11085,RW,2,90,1.0,1.0,slight audible inhale at beginning; click near middle and end,3.0,background
+p11085,RW,5,73,1.0,1.0,slight clicks at near end,2.0,background
+p11085,RW,6,99999,1.0,1.0,click at end ,3.0,background
+p11085,RW,7,152,1.0,1.0,"stutters before word ""this""; click at end",3.0,background
+p11085,RW,13,14,1.0,1.0,click at end ,3.0,background
+p11085,RW,22,68,1.0,1.0,slight shuffling at end,2.0,foreground
+p11085,RW,23,134,1.0,1.0,click at end ,3.0,background
+p11085,RW,28,30,1.0,1.0,slight shuffling at end,2.0,foreground
+p11085,RW,30,22,1.0,1.0,click at end ,3.0,background
+p11085,RW,33,111,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p12385,LC,3,68,3.0,3.0,click at end ,3.0,background
+p12385,LC,4,33,3.0,3.0,slight tap at end,2.0,foreground
+p12385,LC,6,99999,3.0,3.0,static at end,3.0,foreground
+p12385,LC,7,13,4.0,4.0,slight click at end,2.0,background
+p12385,LC,26,99999,3.0,3.0,slight click at end,2.0,background
+p12385,LC,28,95,4.0,4.0,slight clicks near end,2.0,background
+p12385,LC,29,119,4.0,4.0,slight click near beginning,2.0,background
+p12385,LC,31,99999,4.0,4.0,slight click at end,2.0,background
+p12385,LC,35,86,3.0,3.0,click at end ,3.0,background
+p12385,LC,37,2,3.0,3.0,"stutters the word ""background""; slight click at end; no pain rating given so copied down rather than up",2.0,background
+p12385,LC,39,43,3.0,3.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p12385,LW,1,159,1.0,1.0,slight shuffle near middle,2.0,foreground
+p12385,LW,13,40,1.0,1.0,slight click at end,2.0,background
+p12385,LW,16,99999,1.0,1.0,slight static at end,2.0,foreground
+p12385,LW,17,12,1.0,1.0,slight static at end,2.0,foreground
+p12385,LW,24,33,1.0,1.0,click at end,3.0,background
+p12385,LW,25,77,1.0,1.0,click at end,3.0,background
+p12385,LW,28,168,1.0,1.0,slight click at end,2.0,background
+p12385,LW,36,99999,1.0,1.0,slight static at end,2.0,foreground
+p12385,RC,2,6,2.0,2.0,click/zip at very end,3.0,background
+p12385,RC,4,148,2.0,2.0,click at end,3.0,background
+p12385,RC,8,109,3.0,3.0,slight shuffle near middle,2.0,foreground
+p12385,RC,10,68,3.0,3.0,click at end ,3.0,background
+p12385,RC,19,43,3.0,3.0,click at end,3.0,background
+p12385,RC,20,161,3.0,3.0,slight click at beginning,2.0,background
+p12385,RC,23,176,3.0,3.0,click at end,3.0,background
+p12385,RC,28,17,3.0,3.0,click at end,3.0,background
+p12385,RC,30,180,3.0,3.0,"slight stutter on word ""store's""; click at end",3.0,background
+p12385,RC,33,24,3.0,3.0,click at end,3.0,background
+p12385,RC,34,65,3.0,3.0,slight click at end,2.0,background
+p12385,RC,38,145,3.0,3.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p12385,RW,5,148,1.0,1.0,"first word ""The"" cut out; click at end",3.0,background
+p12385,RW,11,99999,1.0,1.0,static at end,3.0,foreground
+p12385,RW,19,115,1.0,1.0,slight click at end,2.0,background
+p12385,RW,23,159,1.0,1.0,slap noise near middle,3.0,background
+p12385,RW,26,99999,1.0,1.0,static/buzz at end,3.0,foreground
+p12385,RW,36,99999,1.0,1.0,slap noise near middle,3.0,background
+p12385,RW,37,24,1.0,1.0,"mistakenly says ""far too"", then corrects to ""far short""; click at end; no pain rating given so copied down rather than up",3.0,background
+p12460,LC,4,99,4.0,4.0,"stutters the word ""in""; airy noise at end",3.0,foreground
+p12460,LC,8,98,6.0,6.0,click at end,3.0,background
+p12460,LC,26,99999,8.0,8.0,"misses phrase ""right now""; static at end",3.0,foreground
+p12460,LC,30,102,8.0,8.0,"first part of sentence cut out (""cats and dogs""); pronounces ""each"" like ""eat""; slight stutter after word ""hate""; tap near beginning",3.0,foreground
+p12460,LC,31,99999,8.0,8.0,slight static at end,2.0,foreground
+p12460,LC,32,121,8.0,8.0,click and airy noise at end,3.0,foreground and background
+p12460,LC,33,27,8.0,8.0,click at end,3.0,background
+p12460,LC,35,81,8.0,8.0,slight click at end,2.0,background
+p12460,LC,36,99999,8.0,8.0,click at end,3.0,background
+p12460,LC,38,38,8.0,8.0,static at end,3.0,foreground
+p12460,LC,40,63,8.0,8.0,slight click at end,2.0,background
+p12460,LC,42,148,8.0,8.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p12460,LC,43,170,8.0,8.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p12460,LW,4,46,1.0,1.0,scraping at end,3.0,foreground
+p12460,LW,6,99999,1.0,1.0,static at end,3.0,foreground
+p12460,LW,7,184,1.0,1.0,click at end,3.0,background
+p12460,LW,8,53,1.0,1.0,slight airy noise at end,2.0,foreground
+p12460,LW,9,172,1.0,1.0,click at end,3.0,background
+p12460,LW,10,57,1.0,1.0,slight click near end,2.0,background
+p12460,LW,12,19,1.0,1.0,airy noise at end,3.0,foreground
+p12460,LW,13,59,1.0,1.0,click at end,3.0,background
+p12460,LW,15,34,1.0,1.0,click at end,3.0,background
+p12460,LW,16,99999,1.0,1.0,"stumbles on phrase ""I feel""; click at end",3.0,background
+p12460,LW,20,79,1.0,1.0,click at end,3.0,background
+p12460,LW,22,67,1.0,1.0,slight click at end,2.0,background
+p12460,LW,27,157,1.0,1.0,slight click at end,2.0,background
+p12460,LW,29,148,1.0,1.0,click at end,3.0,background
+p12460,LW,31,99999,1.0,1.0,click at the end,3.0,background
+p12460,LW,32,1,1.0,1.0,click at the end,3.0,background
+p12460,LW,33,8,1.0,1.0,"stutters word ""the""; click at end",3.0,background
+p12460,LW,34,61,1.0,1.0,"stutters word ""circus""; slight static at end",2.0,foreground
+p12460,LW,37,130,1.0,1.0,click at end,3.0,background
+p12460,RC,1,21,4.0,4.0,click at end,3.0,background
+p12460,RC,2,148,4.0,4.0,click at the end,3.0,background
+p12460,RC,11,99999,5.0,5.0,static in middle,3.0,foreground
+p12460,RC,15,0,7.0,7.0,slight static at end,2.0,foreground
+p12460,RC,18,142,8.0,8.0,slight static at end,2.0,foreground
+p12460,RC,20,32,8.0,8.0,"mistakenly says ""winning"", then corrects to ""winding""; click at end",3.0,background
+p12460,RC,22,15,8.0,8.0,static at the end,3.0,foreground
+p12460,RC,23,11,8.0,8.0,static at the end,3.0,foreground
+p12460,RC,28,187,9.0,9.0,click at end,3.0,background
+p12460,RC,31,99999,9.0,9.0,short static at end,2.0,foreground
+p12460,RC,32,122,8.0,8.0,slight click at end,2.0,background
+p12460,RC,35,74,8.0,8.0,buzz near beginning; static at end,3.0,foreground and background
+p12460,RC,39,129,8.0,8.0,static at the end,3.0,foreground
+p12460,RW,4,64,1.0,1.0,slight click at end,2.0,background
+p12460,RW,7,28,1.0,1.0,"slows speech on word ""tall""; tap at end",3.0,foreground
+p12460,RW,10,125,1.0,1.0,slight click at end,2.0,background
+p12460,RW,14,86,1.0,1.0,static at the end,3.0,foreground
+p12460,RW,17,26,1.0,1.0,click near end,3.0,background
+p12460,RW,18,121,1.0,1.0,slight click at end,2.0,background
+p12460,RW,19,79,1.0,1.0,slight click at end,2.0,background
+p12460,RW,23,150,1.0,1.0,static at the end,3.0,foreground
+p12460,RW,24,145,1.0,1.0,click at end,3.0,background
+p12460,RW,27,16,1.0,1.0,click at end,3.0,background
+p12460,RW,28,3,1.0,1.0,slight click near middle; static at end,3.0,foreground and background
+p12460,RW,31,99999,1.0,1.0,slight click at end,2.0,background
+p12460,RW,33,185,1.0,1.0,short static at end,2.0,foreground
+p12460,RW,36,99999,1.0,1.0,static at end,3.0,foreground
+p12460,RW,37,60,1.0,1.0,static at end; no pain rating given so copied down rather than up,3.0,foreground
+p15965,LC,1,77,6.0,6.0,airy noise at end,3.0,foreground
+p15965,LC,16,99999,8.0,8.0,static at end,3.0,foreground
+p15965,LC,22,148,7.0,7.0,click at end,3.0,background
+p15965,LC,25,171,7.0,7.0,slight scrape at end,2.0,foreground
+p15965,LC,27,7,7.0,7.0,click at end,3.0,background
+p15965,LC,39,104,7.0,7.0,click at end,3.0,background
+p15965,LC,40,23,7.0,7.0,click near middle ,3.0,background
+p15965,LC,43,154,7.0,7.0,low airy noise at end; no pain rating given so copied down rather than up,2.0,foreground
+p15965,LW,1,57,2.0,2.0,audible inhale at beginning; click at end,3.0,background
+p15965,LW,14,51,2.0,2.0,ring at the end,3.0,background
+p15965,LW,22,119,2.0,2.0,click at the end,3.0,background
+p15965,RC,26,99999,8.0,8.0,loud static throughout ,4.0,foreground
+p15965,RC,28,141,7.0,7.0,audible inhale at end; click at end,3.0,background
+p15965,RW,6,99999,2.0,2.0,scraping at end,3.0,foreground
+p15965,RW,26,99999,2.0,2.0,low buzz at end,2.0,background
+p15965,RW,31,99999,2.0,2.0,scraping at end,3.0,foreground
+p18355,LW,19,145,1.0,1.0,"pronounces ""thistles"" like ""sizzles""; click at end",3.0,background
+p18355,LW,22,100,1.0,1.0,slight shuffle at the end; no pain rating given so copied down rather than up,2.0,foreground
+p18355,LW,31,99999,1.0,1.0,"last word cut out (""[pain rating]""); buzz at end; no pain rating given so copied down rather than up",3.0,background
+p18355,RC,10,50,7.0,7.0,"stutters the word ""chicks""; click at end",3.0,background
+p18355,RC,14,106,7.0,7.0,"humming noise; stutters ""friends""; no pain rating given so copied down rather than up",3.0,background
+p18785,LC,5,56,5.0,5.0,click at end,3.0,background
+p18785,LC,15,146,10.0,10.0,buzz near beginning ,3.0,background
+p18785,LW,3,115,1.0,1.0,click near beginning,3.0,background
+p18785,LW,26,99999,1.0,1.0,slight click at end,2.0,background
+p18785,RC,9,75,5.0,5.0,small click noises at end; no pain rating given so copied down rather than up,2.0,background
+p18785,RC,10,117,5.0,5.0,"pronounces ""weave"" like ""wave""; zip at end; no pain rating given so copied down rather than up",3.0,background
+p18785,RW,32,113,1.0,1.0,"first word ""The"" cut out; slight airy noise at end; no pain rating given so copied down rather than up",2.0,foreground
+p20960,LC,8,50,5.0,5.0,faint click near beginning ,2.0,background
+p20960,LC,9,133,5.0,5.0,faint click near end; static at end,3.0,foreground and background
+p20960,LC,10,181,5.0,5.0,clicks near end,3.0,background
+p20960,LC,18,29,6.0,6.0,horn-like noise at beginning ,3.0,background
+p20960,LC,21,99999,6.0,6.0,faint clicks throughout,3.0,background
+p20960,LC,22,115,7.0,7.0,scraping at end,3.0,foreground
+p20960,LC,25,173,7.0,7.0,faint click in middle,2.0,background
+p20960,LC,26,99999,7.0,7.0,faint click at end,2.0,background
+p20960,LC,36,99999,7.0,7.0,sqeak in middle,3.0,foreground
+p20960,LW,12,64,1.0,1.0,"stutters after word ""to""; slight static at end",2.0,foreground
+p20960,LW,13,76,1.0,1.0,slight low-pitch tap in middle; click at end,3.0,foreground and background
+p20960,LW,18,182,1.0,1.0,high-pitch sqeak at end,3.0,foreground
+p20960,LW,21,99999,1.0,1.0,scrape in middle,3.0,foreground
+p20960,LW,23,146,1.0,1.0,"has difficulty pronouncing ""poodles""; static at end",3.0,foreground
+p20960,LW,24,147,1.0,1.0,loud click at end,4.0,background
+p20960,LW,30,80,1.0,1.0,short static at end,2.0,foreground
+p20960,LW,35,133,1.0,1.0,"mispronounces ""rose"" as ""nose"", but then corrects; static at end",3.0,foreground
+p20960,LW,36,99999,1.0,1.0,shuffling in middle,3.0,foreground
+p20960,RC,1,19,5.0,5.0,faint click at end,2.0,background
+p20960,RC,2,117,5.0,5.0,clicking throughout ,3.0,background
+p20960,RC,3,163,5.0,5.0,clicking throughout ,3.0,background
+p20960,RC,4,100,5.0,5.0,faint click at end,2.0,background
+p20960,RC,6,99999,5.0,5.0,faint clicks in middle,2.0,background
+p20960,RC,8,72,7.0,7.0,clicks toward end,3.0,background
+p20960,RC,9,161,7.0,7.0,scrape in middle,3.0,foreground
+p20960,RC,10,26,7.0,7.0,click at end,3.0,background
+p20960,RC,11,99999,7.0,7.0,slight click at end,2.0,background
+p20960,RC,12,120,7.0,7.0,buzz-noise in middle,3.0,background
+p20960,RC,15,153,7.0,7.0,click at end,3.0,background
+p20960,RC,18,51,7.0,7.0,slight scrape at end,2.0,foreground
+p20960,RC,21,99999,7.0,7.0,click at end,3.0,background
+p20960,RC,24,34,7.0,7.0,slight click at end,2.0,background
+p20960,RC,29,59,8.0,8.0,"says ""rose board"" instead of ""rose bush""; stutters when saying ""rose board""; click near middle; airy noise at end",3.0,foreground and background
+p20960,RC,34,168,7.0,7.0,click in middle and end,3.0,background
+p20960,RC,36,99999,7.0,7.0,click at end,3.0,background
+p20960,RC,38,183,7.0,7.0,static in middle; no pain rating given so copied down rather than up,3.0,foreground
+p20960,RW,1,58,1.0,1.0,click in middle,3.0,background
+p20960,RW,2,90,1.0,1.0,clicks near end,3.0,background
+p20960,RW,3,86,1.0,1.0,static and click near end,3.0,foreground and background
+p20960,RW,5,168,1.0,1.0,click near beginning,3.0,background
+p20960,RW,6,99999,1.0,1.0,slight click at near end,2.0,background
+p20960,RW,16,99999,1.0,1.0,click at end,3.0,background
+p20960,RW,19,150,1.0,1.0,slight click in middle and end,2.0,background
+p20960,RW,24,44,1.0,1.0,slight click near end,2.0,background
+p20960,RW,26,99999,1.0,1.0,click at end,3.0,background
+p20960,RW,28,63,1.0,1.0,slight click at end,2.0,background
+p21425,LC,9,22,8.0,8.0,"first part of sentence cut out (""The fish twisted""); click near beginning and end",3.0,background
+p21425,LC,10,102,8.0,8.0,"majority of sentence cut out (""Cats and dogs each hate""); click at end",3.0,background
+p21425,LC,11,99999,8.0,8.0,"first part of sentence cut out (""On a scale of 1-10 the""); click/clash noise at end",3.0,background
+p21425,LC,13,138,8.0,8.0,plop noise at end,3.0,background
+p21425,LC,14,112,8.0,8.0,slight static at end,2.0,foreground
+p21425,LC,16,99999,8.0,8.0,static at end,3.0,foreground
+p21425,LC,17,87,9.0,9.0,airy noise at end,3.0,foreground
+p21425,LC,20,111,9.0,9.0,"audible inhale after ""tree""; low buzz at end",2.0,background
+p21425,LC,21,99999,9.0,9.0,airy noise at end,3.0,foreground
+p21425,LC,23,28,9.0,9.0,slight static at end,2.0,foreground
+p21425,LC,25,148,9.0,9.0,static near end,3.0,foreground
+p21425,LC,26,99999,9.0,9.0,"first part of sentence cut out (""On a scale of 1-10""); slight static in middle",2.0,foreground
+p21425,LC,27,131,9.0,9.0,click in middle; no pain rating given so copied down rather than up,3.0,background
+p21425,LW,1,76,1.0,1.0,slight click at end,2.0,background
+p21425,LW,2,171,1.0,1.0,"first word ""Steam"" cut out; slight click at end",2.0,background
+p21425,LW,3,58,1.0,1.0,click at end,3.0,background
+p21425,LW,5,127,1.0,1.0,"first part of sentence cut out (""It caught its""); pronounces ""hind"" like ""hide""; slight click at end",2.0,background
+p21425,LW,9,19,1.0,1.0,click at end,3.0,background
+p21425,LW,19,167,1.0,1.0,scraping near beginning ,3.0,foreground
+p21425,LW,23,121,1.0,1.0,click in middle and end,3.0,background
+p21425,LW,24,125,1.0,1.0,"stumbles on word ""brass""; pronounces ""brass"" like ""brace""; click at end",3.0,background
+p21425,RC,2,159,5.0,5.0,"first part of sentence cut out (""She sewed""); click near beginning and end",3.0,background
+p21425,RC,4,90,5.0,5.0,"pronounces ""prone"" like ""prawn""; click at end",3.0,background
+p21425,RC,5,188,5.0,5.0,slight click at end,2.0,background
+p21425,RC,9,59,7.0,7.0,slight click at end,2.0,background
+p21425,RC,12,166,7.0,7.0,"pronounces ""toys"" as ""toy""; slight click in middle and end",2.0,background
+p21425,RC,21,99999,8.0,8.0,click at end,3.0,background
+p21425,RC,23,167,8.0,8.0,slight scraping near beginning,2.0,foreground
+p21425,RC,24,102,8.0,8.0,slight click near end,2.0,background
+p21425,RC,25,123,8.0,8.0,slight clicks at end,2.0,background
+p21425,RC,26,99999,8.0,8.0,"first part of sentence cut out (""On a scale of 1-10""); static/clicks throughout",3.0,foreground
+p21425,RW,7,104,1.0,1.0,click at end,3.0,background
+p21425,RW,8,23,1.0,1.0,"slight click at beginning and end; pronounces ""sew"" like ""saw""",2.0,background
+p21425,RW,18,26,1.0,1.0,slight click in middle; click at end,3.0,background
+p21425,RW,20,145,1.0,1.0,slight click near beginning and end,2.0,background
+p22250,LC,1,149,5.0,5.0,airy noise at end,3.0,foreground
+p22250,LC,4,158,5.0,5.0,scraping near beginning and middle,3.0,foreground
+p22250,LC,6,99999,5.0,5.0,shuffling at end,3.0,foreground
+p22250,LC,7,120,5.0,5.0,loud shuffling/static near end; audible exhale at end,4.0,foreground
+p22250,LC,9,26,5.0,5.0,crinkling noise in middle,3.0,foreground
+p22250,LC,10,148,5.0,5.0,scraping noise near beginnning; slight airy noise at end,3.0,foreground
+p22250,LC,12,73,5.0,5.0,scraping near end,3.0,foreground
+p22250,LC,13,27,5.0,5.0,"first word ""Her"" cut out; static/scraping at end",3.0,foreground
+p22250,LC,14,129,5.0,5.0,static in middle to end,3.0,foreground
+p22250,LC,15,86,5.0,5.0,"stumbles on word ""grass""; click at end",3.0,background
+p22250,LC,19,18,6.0,6.0,scraping at end,3.0,foreground
+p22250,LC,20,173,6.0,6.0,scraping in middle and end,3.0,foreground
+p22250,LC,21,99999,6.0,6.0,static at end,3.0,foreground
+p22250,LC,22,139,6.0,6.0,click in middle,3.0,background
+p22250,LC,25,135,6.0,6.0,scrape in middle,3.0,foreground
+p22250,LC,26,99999,6.0,6.0,slight shuffling throughout,3.0,foreground
+p22250,LC,28,154,5.0,5.0,slight click in middle,2.0,background
+p22250,LC,29,43,5.0,5.0,scraping noise near beginning and end,3.0,foreground
+p22250,LC,36,99999,6.0,6.0,click at end,3.0,background
+p22250,LC,38,113,5.0,5.0,static near beginning and end,3.0,foreground
+p22250,LC,41,99999,5.0,5.0,shuffliing throughout,3.0,foreground
+p22250,LC,42,55,5.0,5.0,"first part of sentence cut out (""A s-""); static at end; no pain rating given so copied down rather than up",3.0,foreground
+p22250,LW,11,99999,1.0,1.0,sharp static at end,3.0,foreground
+p22250,LW,31,99999,1.0,1.0,slight click near beginning,2.0,background
+p22250,RC,1,187,4.0,4.0,slight click near end,2.0,background
+p22250,RC,3,38,4.0,4.0,slight click near end,2.0,background
+p22250,RC,4,69,4.0,4.0,low hum near middle; slight static at end,2.0,foreground and background
+p22250,RC,5,94,4.0,4.0,static at end,3.0,foreground
+p22250,RC,12,11,5.0,5.0,static at beginning,3.0,foreground
+p22250,RC,21,99999,4.0,4.0,slight static in middle,2.0,foreground
+p22250,RC,22,109,5.0,5.0,static at end,3.0,foreground
+p22250,RC,27,98,6.0,6.0,static at end,3.0,foreground
+p22250,RC,28,95,6.0,6.0,static at end,3.0,foreground
+p22250,RC,30,73,6.0,6.0,distinct clicking near beginning and middle,4.0,background
+p22250,RC,32,127,6.0,6.0,static near middle,3.0,foreground
+p22250,RC,38,99,6.0,6.0,slight click in middle; static at end; no pain rating given so copied down rather than up,3.0,foreground and background
+p22250,RW,1,174,1.0,1.0,"first part of sentence cut out (""The sk-""); slight click in middle",2.0,background
+p22250,RW,4,162,1.0,1.0,"first word ""At"" cut out; clanking in middle",3.0,background
+p22250,RW,7,14,1.0,1.0,"first word ""Kick"" cut out; static near beginning and end",3.0,foreground
+p22250,RW,11,99999,1.0,1.0,faint constant ringing noise in background,3.0,background
+p22250,RW,12,143,1.0,1.0,"first part of sentence cut out (""A s-""); faint constant ringing noise in background",3.0,background
+p22250,RW,13,96,1.0,1.0,faint constant ringing noise in background,3.0,background
+p22250,RW,14,37,1.0,1.0,faint constant ringing noise in background,3.0,background
+p22250,RW,15,21,1.0,1.0,"first word ""The"" cut out; faint constant ringing noise in background",3.0,background
+p22250,RW,16,99999,1.0,1.0,click near beginning and end,3.0,background
+p22250,RW,21,99999,1.0,1.0,slight click in middle and end,2.0,background
+p22250,RW,24,95,1.0,1.0,"stutters word ""dull""; buzz in middle and end",3.0,background
+p22250,RW,26,99999,1.0,1.0,click near end,3.0,background
+p22250,RW,28,150,1.0,1.0,"first word ""The"" cut out; click in middle and end",3.0,background
+p22250,RW,29,53,1.0,1.0,click in middle,3.0,background
+p23900,LC,1,165,10.0,10.0,audible inhale at beginning; clicks in middle and end,3.0,background
+p23900,LC,2,128,10.0,10.0,"audible inhale at beginning; pronounces ""wharf"" like ""werf""; stutters word ""could""; slight click in middle",2.0,background
+p23900,LC,6,99999,10.0,10.0,buzz near end; audible inhale and exhale near end,3.0,background
+p23900,LC,7,122,10.0,10.0,click near end; audible exhale at end,3.0,background
+p23900,LC,8,98,10.0,10.0,click in middle and end,3.0,background
+p23900,LC,10,11,10.0,10.0,"pronounces ""boy"" like ""bow""; click at end",3.0,background
+p23900,LC,14,39,10.0,10.0,click near middle,3.0,background
+p23900,LC,18,187,9.0,9.0,slight click at end,2.0,background
+p23900,LC,22,30,9.0,9.0,airy noise at end,3.0,foreground
+p23900,LC,23,96,9.0,9.0,click and airy noise at end,3.0,foreground and background
+p23900,LC,24,153,9.0,9.0,slight click in middle; airy whisper at end,2.0,foreground and background
+p23900,LC,25,70,9.0,9.0,"short, airy noise at end",2.0,foreground
+p23900,LC,26,99999,9.0,9.0,audible inhale and exhale near end; click near end,3.0,background
+p23900,LC,28,140,8.0,8.0,clicks at end,3.0,background
+p23900,LC,30,48,8.0,8.0,click in middle; audible exhale at end,3.0,background
+p23900,LC,31,99999,8.0,8.0,"slight clicks near beginning and end; clears throat after word ""ten""; audible inhale near end",4.0,background
+p23900,LW,4,173,1.0,1.0,click at end,3.0,background
+p23900,LW,10,113,1.0,1.0,static at end,3.0,foreground
+p23900,LW,18,126,1.0,1.0,click at end,3.0,background
+p23900,LW,19,133,1.0,1.0,click near end,3.0,background
+p23900,LW,21,99999,1.0,1.0,click near beginning,3.0,background
+p23900,LW,22,180,1.0,1.0,slight clicks at end,2.0,background
+p23900,LW,23,107,1.0,1.0,clicks and static at end,3.0,foreground and background
+p23900,LW,24,137,1.0,1.0,audible inhale at beginning; click near middle and end,3.0,background
+p23900,LW,25,43,1.0,1.0,clicks near end,3.0,background
+p23900,LW,28,156,1.0,1.0,click at end,3.0,background
+p23900,LW,29,69,1.0,1.0,clicks in middle,3.0,background
+p23900,LW,30,46,1.0,1.0,loud click at end,4.0,background
+p23900,LW,31,99999,1.0,1.0,slight static in middle; click at end,3.0,background
+p23900,LW,32,44,1.0,1.0,"mispronounces ""sun"", interrupts sentence with ""i mean"", then says ""sun""; loud click at end",3.0,background
+p23900,LW,33,47,1.0,1.0,series of clicks from middle to end,4.0,background
+p23900,RC,5,67,8.0,8.0,slight click at end,2.0,background
+p23900,RC,6,99999,8.0,8.0,"stutters word ""ten""; slight click at end",2.0,background
+p23900,RC,19,40,10.0,10.0,slight static at end,2.0,foreground
+p23900,RC,25,80,10.0,10.0,click at end,3.0,background
+p23900,RC,26,99999,10.0,10.0,slight click at end,2.0,background
+p23900,RC,27,158,9.0,9.0,audible inhale at beginning; static near beginning; slight click at end,3.0,foreground and background
+p23900,RC,32,89,9.0,9.0,slight click at end,2.0,background
+p23900,RC,33,91,9.0,9.0,"audible inhale at beginning; pronounces ""deep"" like ""dip""; slight click at end",2.0,background
+p23900,RC,36,99999,9.0,9.0,audible exhale at end; slight click at end,2.0,background
+p23900,RW,3,90,1.0,1.0,airy noise at end,3.0,foreground
+p23900,RW,7,9,1.0,1.0,"majority of sentence cut out (""Four hours of steady work""); slight click at end",2.0,background
+p23900,RW,8,3,1.0,1.0,airy noise at end,3.0,foreground
+p23900,RW,9,82,1.0,1.0,"stutters word ""scared""; click at end",3.0,background
+p23900,RW,11,99999,1.0,1.0,click near end,3.0,background
+p23900,RW,15,87,1.0,1.0,click at end,3.0,background
+p23900,RW,18,59,1.0,1.0,click at end,3.0,background
+p23900,RW,23,120,1.0,1.0,slight click at end,2.0,background
+p23900,RW,25,16,1.0,1.0,slight click at end,2.0,background
+p23900,RW,33,133,1.0,1.0,slight click at end,2.0,background
+p28030,LC,11,99999,4.0,4.0,scrape at end,3.0,foreground
+p28030,LC,13,6,4.0,4.0,airy noise at end,3.0,foreground
+p28030,LC,15,24,4.0,4.0,airy noise at end,3.0,foreground
+p28030,LC,16,99999,4.0,4.0,airy noise at end,3.0,foreground
+p28030,LC,17,160,4.0,4.0,slight airy noise at end,2.0,foreground
+p28030,LC,19,147,4.0,4.0,airy noise at end,3.0,foreground
+p28030,LC,21,99999,4.0,4.0,airy noise at end,3.0,foreground
+p28030,LC,22,68,5.0,5.0,airy noise at end; slight click at end,3.0,foreground and background
+p28030,LC,23,127,5.0,5.0,"mistakenly says ""it is"" prior to reading assigned sentence; click at end",3.0,background
+p28030,LC,24,31,5.0,5.0,airy noise at end,3.0,foreground
+p28030,LC,26,99999,5.0,5.0,airy shuffling noise at end,3.0,foreground
+p28030,LC,27,120,5.0,5.0,airy noise at end,3.0,foreground
+p28030,LC,28,1,5.0,5.0,airy noise and click at end,3.0,foreground and background
+p28030,LC,29,157,5.0,5.0,airy noise at end,3.0,foreground
+p28030,LC,30,19,5.0,5.0,audible inhale at beginning; slight airy noise at end,2.0,foreground
+p28030,LC,32,84,5.0,5.0,airy noise at end,3.0,foreground
+p28030,LC,33,150,5.0,5.0,airy noise at end,3.0,foreground
+p28030,LC,34,67,5.0,5.0,airy noise at end,3.0,foreground
+p28030,LC,35,74,5.0,5.0,airy noise at end,3.0,foreground
+p28030,LC,36,99999,5.0,5.0,airy noise at beginning; slight clicks near beginning,3.0,foreground and background
+p28030,LC,37,153,5.0,5.0,scrape and airy noise near end; no pain rating given so copied down rather than up,3.0,foreground
+p28030,LW,4,93,1.0,1.0,"slight click near beginning, middle, end",3.0,background
+p28030,LW,6,99999,1.0,1.0,sqeak noise at end,3.0,foreground
+p28030,LW,12,177,1.0,1.0,airy noise at end,3.0,foreground
+p28030,LW,13,40,1.0,1.0,loud creak at end,4.0,foreground
+p28030,LW,24,41,1.0,1.0,slight click at end,2.0,background
+p28030,LW,33,134,1.0,1.0,slight tink at end,2.0,background
+p28030,LW,39,30,1.0,1.0,high-pitch hum at end,3.0,background
+p28030,LW,41,99999,1.0,1.0,sqeak noise near beginning,3.0,foreground
+p28030,RC,2,80,3.0,3.0,click at end,3.0,background
+p28030,RC,7,18,5.0,5.0,scraping at end,3.0,foreground
+p28030,RC,8,100,5.0,5.0,airy noise at end,3.0,foreground
+p28030,RC,9,172,5.0,5.0,airy noise at end,3.0,foreground
+p28030,RC,10,33,5.0,5.0,airy noise at end,3.0,foreground
+p28030,RC,11,99999,5.0,5.0,airy noise at end; slight click at end,3.0,foreground and background
+p28030,RC,12,11,5.0,5.0,airy noise at end; click at end,3.0,foreground and background
+p28030,RC,14,175,5.0,5.0,airy noise at end,3.0,foreground
+p28030,RC,15,68,5.0,5.0,click in middle and end,3.0,background
+p28030,RC,16,99999,5.0,5.0,airy noise at end,3.0,foreground
+p28030,RC,17,61,5.0,5.0,click at end,3.0,background
+p28030,RC,20,41,5.0,5.0,airy noise at end,3.0,foreground
+p28030,RC,21,99999,5.0,5.0,airy noise at end,3.0,foreground
+p28030,RC,22,149,4.0,4.0,shuffling at end,3.0,foreground
+p28030,RC,23,82,4.0,4.0,loud scraping and shuffling throughout,4.0,foreground
+p28030,RC,25,154,4.0,4.0,airy noise at end,3.0,foreground
+p28030,RC,27,20,4.0,4.0,scrape at end,3.0,foreground
+p28030,RC,32,176,5.0,5.0,"first part of first word cut out (""S"" in ""Sunday""); slight click at end",2.0,background
+p28030,RC,34,35,5.0,5.0,airy noise at end,3.0,foreground
+p28030,RC,35,116,5.0,5.0,scrape noise at end,3.0,foreground
+p28030,RC,37,126,5.0,5.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p28030,RC,38,133,5.0,5.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p28030,RW,8,170,1.0,1.0,slight click at end,2.0,background
+p28030,RW,9,139,1.0,1.0,slight airy noise at end,2.0,foreground
+p28030,RW,10,97,1.0,1.0,slight click at end,2.0,background
+p28030,RW,11,99999,1.0,1.0,slight click at end,2.0,background
+p28030,RW,17,53,1.0,1.0,click near beginning and middle,3.0,background
+p28030,RW,21,99999,1.0,1.0,slight click at end,2.0,background
+p28030,RW,23,150,1.0,1.0,click at end,3.0,background
+p28030,RW,24,176,1.0,1.0,click at end,3.0,background
+p31855,LW,12,101,3.0,3.0,slight click at end,2.0,background
+p31855,RC,6,99999,9.0,9.0,slight click at end,2.0,background
+p31855,RW,18,11,1.0,1.0,slight click at end,2.0,background
+p37540,LC,3,119,4.0,4.0,click near middle,3.0,background
+p37540,LC,7,133,5.0,5.0,creaking at end,3.0,foreground
+p37540,LC,8,168,5.0,5.0,click near beginning,3.0,background
+p37540,LC,11,99999,5.0,5.0,slight creaking near beginning,2.0,foreground
+p37540,LC,12,15,5.0,5.0,clicks near middle,3.0,background
+p37540,LC,13,56,5.0,5.0,click near beginning,3.0,background
+p37540,LC,16,99999,5.0,5.0,slight click near middle; slight static at end,2.0,foreground and background
+p37540,LC,19,22,4.0,4.0,click in middle and end,3.0,background
+p37540,LC,30,106,4.0,4.0,click at beginning,3.0,background
+p37540,LW,1,164,1.0,1.0,click and shuffling at end,3.0,foreground and background
+p37540,LW,9,135,1.0,1.0,clicks near beginning,3.0,background
+p37540,LW,26,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10""); clicks at end",3.0,background
+p37540,LW,27,72,1.0,1.0,click near end,3.0,background
+p37540,LW,31,99999,1.0,1.0,slight click at end,2.0,background
+p37540,RC,1,148,3.0,3.0,loud creaking at end,4.0,foreground
+p37540,RC,2,63,3.0,3.0,click at end,3.0,background
+p37540,RC,6,99999,3.0,3.0,slight click near beginning; static at end,3.0,foreground and background
+p37540,RC,7,82,4.0,4.0,slight clicks at end,2.0,background
+p37540,RC,19,0,4.0,4.0,slight click in middle; slight airy noise at end,2.0,foreground and background
+p37540,RC,20,27,4.0,4.0,slight airy noise in middle,2.0,foreground
+p37540,RW,1,92,1.0,1.0,click near beginning,3.0,background
+p37540,RW,5,34,1.0,1.0,click at end,3.0,background
+p37540,RW,7,132,1.0,1.0,slight click at end,2.0,background
+p37540,RW,12,114,1.0,1.0,"first part of first word cut out (""S"" in ""Split""); slight click at end",2.0,background
+p37540,RW,15,166,1.0,1.0,loud sharp static in middle,4.0,foreground
+p37540,RW,30,39,1.0,1.0,click at end,3.0,background
+p37540,RW,34,105,1.0,1.0,click at end,3.0,background
+p38510,LW,8,51,1.0,1.0,high-pitch beep at end; click at end,3.0,background
+p38510,LW,9,27,1.0,1.0,high-pitch beep at beginning,3.0,background
+p38510,LW,17,84,1.0,1.0,slight click near end,2.0,background
+p38510,LW,22,32,1.0,1.0,airy noise at end,3.0,foreground
+p38510,RC,13,105,7.0,7.0,slight zips at end,2.0,background
+p38510,RC,16,99999,7.0,7.0,loud static and water noise at end,4.0,foreground
+p38510,RW,4,44,1.0,1.0,distant bang at end,3.0,background
+p38510,RW,16,99999,1.0,1.0,slight click at end,2.0,background
+p38510,RW,17,82,1.0,1.0,click at end,3.0,background
+p38510,RW,20,75,1.0,1.0,click near beginning,3.0,background
+p38510,RW,34,146,1.0,1.0,short background voice at very end,3.0,background
+p38510,RW,36,99999,1.0,1.0,short background voice at very end,3.0,background
+p38510,RW,37,96,1.0,1.0,"majority of sentence cut out (""Bail the boat to stop it from""); slap noise at end; no pain rating given so copied down rather than up",3.0,background
+p38510,RW,38,114,1.0,1.0,slap noise at very end; no pain rating given so copied down rather than up,3.0,background
+p38510,RW,39,58,1.0,1.0,"pronounces ""fudge"" like ""fuzz""; click at end; no pain rating given so copied down rather than up",3.0,background
+p40505,LC,1,119,5.0,5.0,"click near beginning; pronounces ""score"" like ""scro""",3.0,background
+p40505,LC,2,102,5.0,5.0,"majority of sentence cut out (""Cats and dogs each hate""); slight click at end",2.0,background
+p40505,LC,3,0,5.0,5.0,slight click near middle,2.0,background
+p40505,LC,5,67,5.0,5.0,"first word ""The"" cut out; slight clicks near end",2.0,background
+p40505,LC,6,99999,5.0,5.0,slight click and static at end,3.0,foreground and background
+p40505,LC,7,172,7.0,7.0,"pronounces ""child"" like ""shal""; click in middle",3.0,background
+p40505,LC,8,47,7.0,7.0,"reads first word as ""A"" instead of ""The""; adds word ""be"" in between ""will"" and bind""; clicks at end",3.0,background
+p40505,LC,9,150,7.0,7.0,"first part of sentence cut out;(""the c-""); click at end",3.0,background
+p40505,LC,10,101,7.0,7.0,slight click in middle and end,2.0,background
+p40505,LC,12,46,8.0,8.0,"first word ""Lift"" cut out; click at end",3.0,background
+p40505,LC,13,103,8.0,8.0,clicks at end,3.0,background
+p40505,LC,15,21,8.0,8.0,"half of sentence cut out (""The small pup""); slight click at end",2.0,background
+p40505,LC,17,90,8.0,8.0,slight click near end,2.0,background
+p40505,LC,22,116,9.0,9.0,slight clicks throughout,3.0,background
+p40505,LC,23,31,9.0,9.0,"pronounces ""load"" like ""lord""; slight click at end",2.0,background
+p40505,LC,30,1,9.0,9.0,slight click at end,2.0,background
+p40505,LW,3,122,3.0,3.0,click at end,3.0,background
+p40505,LW,4,153,3.0,3.0,clicks at end,3.0,background
+p40505,LW,7,100,2.0,2.0,"first word ""The"" cut out; slight clicking throughout",3.0,background
+p40505,LW,14,82,1.0,1.0,slight click at end,2.0,background
+p40505,LW,15,119,1.0,1.0,static at end,3.0,foreground
+p40505,LW,20,105,1.0,1.0,humming near middle and end,3.0,background
+p40505,LW,21,99999,1.0,1.0,humming throughout; slight click at end,3.0,background
+p40505,LW,22,102,1.0,1.0,humming throughout,3.0,background
+p40505,LW,23,177,1.0,1.0,humming throughout,3.0,background
+p40505,LW,24,24,1.0,1.0,humming throughout; slight click at end,3.0,background
+p40505,LW,25,20,1.0,1.0,"first word ""The"" cut out; pronounces ""booth"" like ""bottom""; humming throughout",3.0,background
+p40505,LW,26,99999,1.0,1.0,humming throughout,3.0,background
+p40505,LW,27,104,1.0,1.0,humming throughout,3.0,background
+p40505,LW,28,66,1.0,1.0,humming throughout,3.0,background
+p40505,LW,29,90,1.0,1.0,humming throughout,3.0,background
+p40505,LW,30,89,1.0,1.0,humming throughout,3.0,background
+p40505,LW,31,99999,1.0,1.0,humming throughout,3.0,background
+p40505,LW,32,36,1.0,1.0,humming throughout,3.0,background
+p40505,LW,33,180,1.0,1.0,"half of sentence cut out (""Add the store's account""); humming throughout",3.0,background
+p40505,LW,34,50,1.0,1.0,humming throughout,3.0,background
+p40505,LW,35,93,1.0,1.0,humming throughout,3.0,background
+p40505,LW,36,99999,1.0,1.0,slight click at end; humming throughout,3.0,background
+p40505,LW,37,115,1.0,1.0,humming throughout; no pain rating given so copied down rather than up,3.0,background
+p40505,LW,38,70,1.0,1.0,"last part of last word cut out (""ve"" in ""leave""); static at end; humming throughout; no pain rating given so copied down rather than up",3.0,foreground and background
+p40505,RC,1,161,6.0,6.0,slight static at beginning,2.0,foreground
+p40505,RC,5,164,6.0,6.0,"first word ""A"" cut out; pronounces ""filing"" like ""failing""; static throughout; clinking at end",3.0,foreground
+p40505,RC,6,99999,6.0,6.0,slight static at end,2.0,foreground
+p40505,RC,8,56,9.0,9.0,"stutters on word ""oiled"", then corrects by repeating ""oiled""; static at end",3.0,foreground
+p40505,RC,11,99999,9.0,9.0,slight static at end,2.0,foreground
+p40505,RC,12,106,10.0,10.0,static near beginning,3.0,foreground
+p40505,RC,13,181,10.0,10.0,"loud shuffing throughout; pronounces ""cloth"" like ""cut""",4.0,foreground
+p40505,RC,15,114,10.0,10.0,"first word ""Split"" cut out; pronounces ""quick"" like ""quirk""; slight click at end",2.0,background
+p40505,RC,18,127,10.0,10.0,"first part of sentence cut out (""It caught""); slight click at end",2.0,background
+p40505,RC,19,171,10.0,10.0,"pronounces ""valve"" like ""val""; click at end",3.0,background
+p40505,RC,20,152,10.0,10.0,"first word ""A"" cut out; click at end",3.0,background
+p40505,RC,21,99999,10.0,10.0,"first part of sentence cut out (""On a""); slight click near middle; static at end",3.0,foreground and background
+p40505,RC,28,49,10.0,10.0,"first word ""The"" cut out; slight static throughout; slight zip at end",3.0,foreground and background
+p40505,RC,29,32,10.0,10.0,"first word ""Take"" cut out; stumbles on word ""winding""; pronounces ""winding"" like ""wind-ing""; static at end",3.0,foreground
+p40505,RC,30,126,10.0,10.0,"first word ""The"" cut out; slight click/zip/hum at end",2.0,background
+p40505,RC,31,99999,10.0,10.0,loud static throughout,4.0,foreground
+p40505,RC,33,115,10.0,10.0,static at end,3.0,foreground
+p40505,RW,1,182,2.0,2.0,click at end,3.0,background
+p40505,RW,2,64,2.0,2.0,"first word ""The"" cut out; click in middle and end",3.0,background
+p40505,RW,4,131,2.0,2.0,"first word ""A"" cut out; click in middle and end; airy noise at end",3.0,foreground and background
+p40505,RW,10,56,2.0,2.0,"stutters phrase ""The wagon""; pronounces ""wagon"" like ""way-gon""; loud static at end",4.0,foreground
+p40505,RW,24,105,1.0,1.0,click/static near end,3.0,foreground and background
+p40505,RW,33,10,1.0,1.0,static at end,3.0,foreground
+p40505,RW,34,87,1.0,1.0,"first part of sentence cut out (""Cut the""); click at end",3.0,background
+p47080,LC,1,134,3.0,3.0,click at middle and end,3.0,background
+p47080,LC,5,111,3.0,3.0,clicks at end,3.0,background
+p47080,LC,6,99999,3.0,3.0,slight click at end,2.0,background
+p47080,LC,14,165,9.0,9.0,slight clicks throughout,3.0,background
+p47080,LC,15,102,9.0,9.0,"leaves out word ""each""; slight click at end",2.0,background
+p47080,LC,16,99999,9.0,9.0,slight click near middle and end,2.0,background
+p47080,LC,17,78,8.0,8.0,slight click at end,2.0,background
+p47080,LC,18,168,8.0,8.0,slight click at end,2.0,background
+p47080,LC,24,115,8.0,8.0,slight click in middle,2.0,background
+p47080,LC,25,104,8.0,8.0,clicks near beginning,3.0,background
+p47080,LC,30,101,9.0,9.0,click at end,3.0,background
+p47080,LC,32,38,9.0,9.0,clank at end; no pain rating given so copied down rather than up,3.0,background
+p47080,LC,33,176,9.0,9.0,slight click at end; no pain rating given so copied down rather than up,2.0,background
+p47080,LW,2,124,1.0,1.0,slight clicks at end,2.0,background
+p47080,LW,5,188,1.0,1.0,slight click at end,2.0,background
+p47080,LW,6,99999,1.0,1.0,clicks near beginning and middle,3.0,background
+p47080,LW,9,173,1.0,1.0,slight click at end,2.0,background
+p47080,LW,13,75,1.0,1.0,slight click at end,2.0,background
+p47080,LW,16,99999,1.0,1.0,"leaves out word ""right""; slight static at end",2.0,foreground
+p47080,LW,17,7,1.0,1.0,slight click at end,2.0,background
+p47080,LW,18,163,1.0,1.0,slight click at end,2.0,background
+p47080,LW,23,176,1.0,1.0,slight click at end,2.0,background
+p47080,LW,28,144,1.0,1.0,slight click near middle and end,2.0,background
+p47080,LW,31,99999,1.0,1.0,click near beginning and middle,3.0,background
+p47080,LW,33,151,1.0,1.0,slight click at end,2.0,background
+p47080,LW,36,99999,1.0,1.0,slight clicks near middle,2.0,background
+p47080,LW,37,126,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p47080,LW,38,161,1.0,1.0,slight click at end; no pain rating given so copied down rather than up,2.0,background
+p47080,LW,39,125,1.0,1.0,slight click near middle; no pain rating given so copied down rather than up,2.0,background
+p47080,LW,40,39,1.0,1.0,click near beginning and end; no pain rating given so copied down rather than up,3.0,background
+p47080,RC,4,50,4.0,4.0,slight click at end,2.0,background
+p47080,RC,5,163,4.0,4.0,slight click at end,2.0,background
+p47080,RC,14,21,8.0,8.0,slight click at end,2.0,background
+p47080,RC,17,183,7.0,7.0,slight click near middle and end,2.0,background
+p47080,RC,18,133,7.0,7.0,slight click at end,2.0,background
+p47080,RC,19,73,7.0,7.0,slight click near middle,2.0,background
+p47080,RC,21,99999,7.0,7.0,slight clicks near beginning,2.0,background
+p47080,RC,29,41,7.0,7.0,slight click at end,2.0,background
+p47080,RC,33,47,7.0,7.0,sqeak at end,3.0,foreground
+p47080,RC,35,105,7.0,7.0,slight click at end,2.0,background
+p47080,RC,38,162,8.0,8.0,click at end,3.0,background
+p47080,RC,39,188,8.0,8.0,click near middle,3.0,background
+p47080,RC,40,2,8.0,8.0,click at end,3.0,background
+p47080,RC,41,99999,8.0,8.0,click at end,3.0,background
+p47080,RW,3,101,1.0,1.0,click at end,3.0,background
+p47080,RW,7,43,1.0,1.0,slight click at end,2.0,background
+p47080,RW,20,60,1.0,1.0,slight click at end,2.0,background
+p47080,RW,29,57,1.0,1.0,slight clicks at end,2.0,background
+p47080,RW,32,63,1.0,1.0,slight click at end,2.0,background
+p50580,LC,2,182,6.0,6.0,click near middle and at end,3.0,background
+p50580,LC,17,168,6.0,6.0,airy noise at end,3.0,foreground
+p50580,LC,20,41,6.0,6.0,loud beeping at end,4.0,background
+p50580,LC,21,99999,6.0,6.0,loud beeping throughout,4.0,background
+p50580,LC,22,54,6.0,6.0,loud beeping throughout,4.0,background
+p50580,LC,23,143,6.0,6.0,click at end,3.0,background
+p50580,LC,24,88,6.0,6.0,slight static in middle; airy noise at end,3.0,foreground
+p50580,LC,25,178,6.0,6.0,airy noise at end,3.0,foreground
+p50580,LC,33,127,6.0,6.0,slight click at end   ,2.0,background
+p50580,LW,5,150,1.0,1.0,click at end,3.0,background
+p50580,LW,9,81,1.0,1.0,scraping at end,3.0,foreground
+p50580,LW,10,132,1.0,1.0,static near middle; clash/buzz at end,3.0,foreground
+p50580,LW,11,99999,1.0,1.0,loud sqeak at beginning; slight static throughout,4.0,foreground
+p50580,LW,16,99999,1.0,1.0,clash/click near middle; click at end,3.0,background
+p50580,LW,26,99999,1.0,1.0,click near beginning and middle,3.0,background
+p50580,LW,35,182,1.0,1.0,scraping near middle,3.0,foreground
+p50580,LW,37,74,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p50580,LW,40,168,1.0,1.0,click near middle; no pain rating given so copied down rather than up,3.0,background
+p50580,RC,1,108,5.0,5.0,slight click at end,2.0,background
+p50580,RC,2,139,5.0,5.0,slight click at end,2.0,background
+p50580,RC,8,57,5.0,5.0,slight click at end,2.0,background
+p50580,RC,9,174,5.0,5.0,slight zip noise near middle,2.0,background
+p50580,RC,10,30,5.0,5.0,slight click at end,2.0,background
+p50580,RC,16,99999,6.0,6.0,clink near end,3.0,background
+p50580,RC,22,126,6.0,6.0,slight click at beginning and end,2.0,background
+p50580,RC,24,28,6.0,6.0,airy noise at end,3.0,foreground
+p50580,RC,25,99,6.0,6.0,slight click at end,2.0,background
+p50580,RC,27,52,6.0,6.0,"pronounces ""crooked"" like ""crook-ed""; clanking at end",3.0,background
+p50580,RC,31,99999,6.0,6.0,"mistakenly says ""pain right now"" then corrects to ""pain I feel right now""; slight click at end",2.0,background
+p50580,RC,32,107,6.0,6.0,slight click at end,2.0,background
+p50580,RC,34,4,6.0,6.0,slight shuffle near middle; slight click near middle and end; audible exhale at end,2.0,foreground and background
+p50580,RC,35,135,6.0,6.0,shuffling and hum at end,3.0,foreground and background
+p50580,RC,38,42,6.0,6.0,audible exhale at end; slight click at beginning,2.0,background
+p50580,RW,1,115,1.0,1.0,click near middle,3.0,background
+p50580,RW,2,127,1.0,1.0,click near beginning,3.0,background
+p50580,RW,3,119,1.0,1.0,"stutters in between ""his"" and ""score""; slight click at end",2.0,background
+p50580,RW,4,99,1.0,1.0,slight click near middle and end,2.0,background
+p50580,RW,6,99999,1.0,1.0,click near beginning and middle,3.0,background
+p50580,RW,11,99999,1.0,1.0,clicks near middle end,3.0,background
+p50580,RW,12,175,1.0,1.0,slight click at end,2.0,background
+p50580,RW,21,99999,1.0,1.0,slight clicks near end,2.0,background
+p50580,RW,26,99999,1.0,1.0,clicks near middle,3.0,background
+p50580,RW,31,99999,1.0,1.0,click near end,3.0,background
+p50635,LC,4,123,8.0,8.0,loud static at end,4.0,foreground
+p50635,LC,7,4,8.0,8.0,loud scraping at end; no pain rating given so copied down rather than up,4.0,foreground
+p50635,LW,1,174,2.0,2.0,static at beginning; slight click near middle and end,3.0,foreground and background
+p50635,LW,3,87,2.0,2.0,clicks near end,3.0,background
+p50635,LW,7,133,2.0,2.0,click at end,3.0,background
+p50635,LW,17,88,1.0,1.0,click near beginning; slight click at end,3.0,background
+p50635,LW,18,111,1.0,1.0,click at end,3.0,background
+p50635,LW,20,43,1.0,1.0,click at end,3.0,background
+p50635,LW,27,150,1.0,1.0,slight static at end,2.0,foreground
+p50635,LW,32,94,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p50635,LW,33,56,1.0,1.0,click near beginning; airy noise at end; no pain rating given so copied down rather than up,3.0,foreground and background
+p50635,RC,4,33,8.0,8.0,slight static at end,2.0,foreground
+p50635,RC,6,99999,8.0,8.0,slight click at beginning; slight sharp airy noise at end,2.0,foreground and background
+p50635,RC,9,86,8.0,8.0,click near middle; static near end; no pain rating given so copied down rather than up,3.0,foreground and background
+p50635,RW,1,32,2.0,2.0,click near middle; scraping at end,3.0,foreground and background
+p50635,RW,6,99999,2.0,2.0,slight click near beginning,2.0,background
+p50635,RW,7,25,2.0,2.0,click at end,3.0,background
+p50635,RW,9,67,2.0,2.0,click at end,3.0,background
+p50635,RW,16,99999,1.0,1.0,click near middle; scrape at end,3.0,foreground and background
+p50635,RW,21,99999,1.0,1.0,click near middle,3.0,background
+p50635,RW,25,53,1.0,1.0,short scrape at end,2.0,foreground and background
+p50635,RW,29,47,1.0,1.0,click/bloop noise at end,3.0,background
+p50635,RW,30,178,1.0,1.0,click near beginning and end,3.0,background
+p52610,LC,4,162,5.0,5.0,slight click at end,2.0,background
+p52610,LC,5,38,5.0,5.0,airy noise at end,3.0,foreground
+p52610,LC,6,99999,5.0,5.0,"slight stutter of word ""feel""; airy noise at end",3.0,foreground
+p52610,LC,8,28,7.0,7.0,click at end; short static at end,3.0,foreground and background
+p52610,LC,9,177,7.0,7.0,loud static at end,4.0,foreground
+p52610,LC,10,75,7.0,7.0,airy noise at end; slight click at end,3.0,foreground and background
+p52610,LC,11,99999,7.0,7.0,slight static throughout; click at end,3.0,foreground and background
+p52610,LC,12,58,7.0,7.0,airy noise at end; static at end,3.0,foreground
+p52610,LC,13,98,7.0,7.0,airy noise at beginning,3.0,foreground
+p52610,LC,14,71,7.0,7.0,loud static throughout; airy noise at end,4.0,foreground
+p52610,LC,15,72,7.0,7.0,loud static at end; airy noise at end,4.0,foreground
+p52610,LC,16,99999,7.0,7.0,whirring near beginning; static throughout,3.0,foreground and background
+p52610,LC,17,99,7.0,7.0,loud static at end,4.0,foreground
+p52610,LC,18,126,7.0,7.0,static throughout,3.0,foreground
+p52610,LC,19,187,7.0,7.0,static throughout; airy noise and click at end,3.0,foreground and background
+p52610,LC,20,179,7.0,7.0,airy noise and click at end,3.0,foreground and background
+p52610,LC,22,113,7.0,7.0,static throughout; airy noise at end,3.0,foreground
+p52610,LC,23,26,7.0,7.0,static throughout; airy noise at end,3.0,foreground
+p52610,LC,24,131,7.0,7.0,static near end,3.0,foreground
+p52610,LC,25,25,7.0,7.0,static throughout; slight airy noise at end,3.0,foreground
+p52610,LC,26,99999,7.0,7.0,click at end,3.0,background
+p52610,LC,27,163,6.0,6.0,static throughout; slight audible inhale at end; airy noise at end,3.0,foreground
+p52610,LC,28,86,6.0,6.0,static throughout; audible inhale at beginning; airy noise at end,3.0,foreground and background
+p52610,LC,29,123,6.0,6.0,click near beginning and end,3.0,background
+p52610,LC,30,10,6.0,6.0,click at end,3.0,background
+p52610,LC,31,99999,6.0,6.0,"first word ""On"" cut out; click at end",3.0,background
+p52610,LC,33,143,7.0,7.0,static near beginning; click near beginning and end,3.0,foreground and background
+p52610,LC,34,125,7.0,7.0,static at end,3.0,foreground
+p52610,LC,35,145,7.0,7.0,slight static at end,2.0,foreground
+p52610,LC,37,121,7.0,7.0,slight click near end; no pain rating given so copied down rather than up,2.0,background
+p52610,LC,38,127,7.0,7.0,slight click near middle; no pain rating given so copied down rather than up,2.0,background
+p52610,LC,40,161,7.0,7.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p52610,LW,1,5,2.0,2.0,clicks near middle and end,3.0,background
+p52610,LW,2,64,2.0,2.0,click at end,3.0,background
+p52610,LW,3,169,2.0,2.0,airy noise at end,3.0,foreground
+p52610,LW,5,16,2.0,2.0,click at end,3.0,background
+p52610,LW,7,180,1.0,1.0,slight click in middle and end,2.0,background
+p52610,LW,9,54,1.0,1.0,"first part of sentence cut out (""The show was a""); click near middle and end",3.0,background
+p52610,LW,10,87,1.0,1.0,slight click at end,2.0,background
+p52610,LW,12,117,1.0,1.0,click near middle and end; airy noise at end,3.0,foreground and background
+p52610,LW,16,99999,1.0,1.0,slight clicks near end,2.0,background
+p52610,LW,18,58,1.0,1.0,slight click near end,2.0,background
+p52610,LW,19,164,1.0,1.0,"elongates ""f"" in ""filing""; click at end",3.0,background
+p52610,LW,21,99999,1.0,1.0,click at end,3.0,background
+p52610,LW,22,31,1.0,1.0,clicks throughout,3.0,background
+p52610,LW,24,77,1.0,1.0,click at end,3.0,background
+p52610,LW,26,99999,1.0,1.0,click at end,3.0,background
+p52610,LW,27,70,1.0,1.0,slight static near beginning; slight click near end,2.0,foreground and background
+p52610,LW,28,26,1.0,1.0,slight clicks near end,2.0,background
+p52610,LW,29,65,1.0,1.0,slight click near beginning; click at end,3.0,background
+p52610,LW,31,99999,1.0,1.0,slight static at end,2.0,foreground
+p52610,LW,38,44,1.0,1.0,"mistakenly reads ""The road"", then corrects to ""The wide road""; slight click at end",2.0,background
+p52610,LW,39,57,1.0,1.0,slight click at end,2.0,background
+p52610,RC,1,182,3.0,3.0,slight click at end,2.0,background
+p52610,RC,6,99999,3.0,3.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); airy noise at end",3.0,foreground
+p52610,RC,12,5,6.0,6.0,clicks at end; airy noise at end,3.0,foreground and background
+p52610,RC,13,145,6.0,6.0,airy noise at end,3.0,foreground
+p52610,RC,14,184,6.0,6.0,airy noise at end,3.0,foreground
+p52610,RC,15,138,6.0,6.0,airy noise at end,3.0,foreground
+p52610,RC,16,99999,6.0,6.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); airy noise at end",3.0,foreground
+p52610,RC,20,124,6.0,6.0,airy noise and scrape at end,3.0,foreground
+p52610,RC,24,179,6.0,6.0,click at end,3.0,background
+p52610,RC,25,109,6.0,6.0,click near end,3.0,background
+p52610,RC,27,84,4.0,4.0,slight click at beginning and end,2.0,background
+p52610,RC,28,0,4.0,4.0,slight click at end,2.0,background
+p52610,RC,29,22,4.0,4.0,click at end,3.0,background
+p52610,RC,30,69,4.0,4.0,airy noise at end,3.0,foreground
+p52610,RC,31,99999,4.0,4.0,slight click at end,2.0,background
+p52610,RC,32,132,5.0,5.0,slight click at end,2.0,background
+p52610,RC,33,68,5.0,5.0,click at end,3.0,background
+p52610,RC,34,162,5.0,5.0,airy noise at end,3.0,foreground
+p52610,RC,36,99999,5.0,5.0,airy noise at end; slight click at end,3.0,foreground and background
+p52610,RC,37,33,5.0,5.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p52610,RC,38,73,5.0,5.0,airy noise near middle and at end; no pain rating given so copied down rather than up,3.0,foreground
+p52610,RW,1,15,1.0,1.0,low-pitch hum grows in intensity throughout,3.0,background
+p52610,RW,2,114,1.0,1.0,slight static at end,2.0,foreground
+p52610,RW,3,133,1.0,1.0,low-pitch noise grows in intensity at end,3.0,background
+p52610,RW,7,31,1.0,1.0,scraping at end,3.0,foreground
+p52610,RW,9,124,1.0,1.0,low-pitch noise grows in intensity at end,3.0,background
+p52610,RW,10,61,1.0,1.0,click at end,3.0,background
+p52610,RW,16,99999,1.0,1.0,slight click near middle and end,2.0,background
+p52610,RW,17,112,1.0,1.0,clicks throughout; low-pitch noise grows in intensity at end,3.0,background
+p52610,RW,18,102,1.0,1.0,"says ""hate each other"" instead of ""each hate the other""; click at end",3.0,background
+p52610,RW,20,173,1.0,1.0,low-pitch noise grows in intensity at end,3.0,background
+p52610,RW,21,99999,1.0,1.0,clicks throughout,3.0,background
+p52610,RW,24,126,1.0,1.0,click at end,3.0,background
+p52610,RW,28,185,1.0,1.0,"stutters on word ""suffer""; click at end",3.0,background
+p52610,RW,30,44,1.0,1.0,slight click near end,2.0,background
+p52610,RW,32,117,1.0,1.0,clicks throughout,3.0,background
+p52610,RW,33,115,1.0,1.0,slight click near middle; low-pitch noise grows in intensity at end,3.0,background
+p52610,RW,34,0,1.0,1.0,slight click in middle,2.0,background
+p58845,LC,2,29,3.0,3.0,click near end,3.0,background
+p58845,LC,6,99999,3.0,3.0,loud slap-noise in middle,4.0,background
+p58845,LC,7,131,4.0,4.0,"first part of sentence cut out (""A cramp is no""); click near middle; scrape at end",3.0,foreground and background
+p58845,LC,13,21,5.0,5.0,"first part of sentence cut out (""The small pup""); stumbles in between word ""gnawed"" and ""hole""; creaking at end",3.0,foreground
+p58845,LC,16,99999,5.0,5.0,"first word ""On"" cut out; loud click/slap noise at end",4.0,background
+p58845,LC,17,87,6.0,6.0,click near middle and end,3.0,background
+p58845,LC,18,108,6.0,6.0,"mistakenly says ""will great"" then corrects to ""with great""; clank at end",3.0,background
+p58845,LC,20,7,6.0,6.0,buzz at end,3.0,background
+p58845,LC,27,169,6.0,6.0,slight static throughout; creaking at end,3.0,foreground
+p58845,LC,28,62,6.0,6.0,loud scraping at end,4.0,foreground
+p58845,LC,29,34,6.0,6.0,loud scraping at beginning,4.0,foreground
+p58845,LC,32,186,5.0,5.0,slight click in middle; scraping at end,3.0,foreground and background
+p58845,LC,39,123,5.0,5.0,static at end,3.0,foreground
+p58845,LC,41,99999,5.0,5.0,crunch/click at end,3.0,background
+p58845,LW,4,0,1.0,1.0,shuffle near end,3.0,foreground
+p58845,LW,5,4,1.0,1.0,sqeak near middle; click at end,3.0,foreground and background
+p58845,LW,10,186,1.0,1.0,slight click in middle,2.0,background
+p58845,LW,11,99999,1.0,1.0,slight click near beginning; slight static near end,2.0,foreground and background
+p58845,LW,18,28,1.0,1.0,scrape near middle,3.0,foreground
+p58845,LW,25,121,1.0,1.0,slight shuffle at end,2.0,foreground
+p58845,LW,26,99999,1.0,1.0,buzz at end,3.0,background
+p58845,LW,35,127,1.0,1.0,"pronounces ""hind"" like ""hin""; slight click at end",2.0,background
+p58845,LW,37,181,1.0,1.0,"first part of sentence cut out (""Acid burns""); low buzz at end",2.0,background
+p58845,RC,1,70,3.0,3.0,slight shuffling at beginning; slight click at end,2.0,background
+p58845,RC,2,126,3.0,3.0,"first word ""The"" cut out; click at beginning",3.0,background
+p58845,RC,8,169,4.0,4.0,"pronounces ""rag"" like ""rage""; click at end",3.0,background
+p58845,RC,11,99999,4.0,4.0,"mistakenly says ""scale of 10"", then corrects to ""scale of 1 to 10""; click in middle; static at end",3.0,foreground and background
+p58845,RC,12,32,5.0,5.0,scraping at end,3.0,foreground
+p58845,RC,13,43,5.0,5.0,scraping in middle,3.0,foreground
+p58845,RC,16,99999,5.0,5.0,"loud clicks at beginning; mistakenly says ""scale of 10"", then corrects to ""1 to 10""",4.0,background
+p58845,RC,17,73,5.0,5.0,"mistakenly says ""strain"", then corrects to ""stain""; static throughout; no pain rating given so copied down rather than up",3.0,foreground
+p58845,RC,19,181,5.0,5.0,"first half of sentence cut out (""Acid burns holes""); add word ""the"" after word ""in""; loud click near middle; no pain rating given so copied down rather than up",4.0,background
+p58845,RW,1,39,1.0,1.0,click near beginning; creaking at end,3.0,foreground and background
+p58845,RW,6,99999,1.0,1.0,airy noise at end,3.0,foreground
+p58845,RW,14,17,1.0,1.0,"first part of first word cut out (""S"" in ""Smoky""); click near middle",3.0,background
+p58845,RW,16,99999,1.0,1.0,click near beginning,3.0,background
+p58845,RW,18,95,1.0,1.0,"first word ""The"" cut out; slight scrape at end",2.0,foreground
+p58845,RW,21,99999,1.0,1.0,click at end,3.0,background
+p58845,RW,22,117,1.0,1.0,"pronounces ""weave"" like ""wave""; sharp airy noise at end",3.0,foreground
+p58845,RW,25,76,1.0,1.0,ring noise at end,3.0,background
+p58845,RW,26,99999,1.0,1.0,slight click near beginning; ring noise at end,3.0,background
+p58845,RW,31,99999,1.0,1.0,click at end,3.0,background
+p58845,RW,34,18,1.0,1.0,"stutters on word ""soft""; slight beep at end",2.0,background
+p58845,RW,37,4,1.0,1.0,slight ring noise at end,2.0,background
+p58845,RW,37,4,1.0,1.0,slight ring noise at end,2.0,background
+p58845,RW,39,170,1.0,1.0,slight ring noise at end,2.0,background
+p58845,RW,40,121,1.0,1.0,slight ring noise at end,2.0,background
+p58845,RW,41,99999,1.0,1.0,slight ring noise at end,2.0,background
+p59330,LC,1,95,7.0,7.0,"first word ""The"" cut out; slight click near middle",2.0,background
+p59330,LC,2,164,7.0,7.0,obvious static at end,4.0,foreground
+p59330,LC,3,131,7.0,7.0,slight click at end,2.0,background
+p59330,LC,4,18,7.0,7.0,buzz noise at end,3.0,background
+p59330,LC,5,49,7.0,7.0,slight buzz noise and click at end,2.0,background
+p59330,LW,4,99,1.0,1.0,click at end,3.0,background
+p59330,LW,6,99999,1.0,1.0,"pronounces ""feel"" like ""here""; airy noise at end",3.0,foreground
+p59330,LW,11,99999,1.0,1.0,click and airy nosie at end,3.0,foreground and background
+p59330,LW,13,131,1.0,1.0,click near middle; slight airy noise at end,3.0,foreground and background
+p59330,LW,15,89,1.0,1.0,slight click near middle and end,2.0,background
+p59330,LW,16,99999,1.0,1.0,airy noise and click at end,3.0,foreground and background
+p59330,LW,17,132,1.0,1.0,airy noise and click at end,3.0,foreground and background
+p59330,LW,21,99999,1.0,1.0,airy noise at end,3.0,foreground
+p59330,LW,24,137,1.0,1.0,"pronounces ""the"" like ""that"" and ""cherish"" like ""cheris""; sharp static at end",3.0,foreground
+p59330,LW,25,26,1.0,1.0,airy noise at end,3.0,foreground
+p59330,LW,26,99999,1.0,1.0,click at end,3.0,background
+p59330,LW,30,177,1.0,1.0,"pronounces ""doctor"" like ""buck-ter"" and ""with"" like ""while""; airy noise at end",3.0,foreground
+p59330,LW,33,10,1.0,1.0,airy noise at end,3.0,foreground
+p59330,LW,36,99999,1.0,1.0,clicks near end,3.0,background
+p59330,LW,41,99999,1.0,1.0,click at end,3.0,background
+p59330,RC,2,76,6.0,6.0,click near middle,3.0,background
+p59330,RC,3,112,6.0,6.0,airy noise at end,3.0,foreground
+p59330,RC,4,75,6.0,6.0,airy noise at end,3.0,foreground
+p59330,RC,5,9,6.0,6.0,airy noise at end,3.0,foreground
+p59330,RC,6,99999,6.0,6.0,static near middle; airy noise at end,3.0,foreground
+p59330,RW,4,65,1.0,1.0,"first word ""A"" cut out; click at end",3.0,background
+p59330,RW,5,14,1.0,1.0,clattering/static throughout,3.0,foreground
+p59330,RW,6,99999,1.0,1.0,click at end,3.0,background
+p59330,RW,9,81,1.0,1.0,clicks near end,3.0,background
+p59330,RW,12,111,1.0,1.0,slight clicks at end,2.0,background
+p59330,RW,13,180,1.0,1.0,"says ""an"" before reading assigned sentence; slight click at end",2.0,background
+p59330,RW,14,124,1.0,1.0,slap-like noise at end,3.0,background
+p59330,RW,15,178,1.0,1.0,airy noise at end,3.0,foreground
+p59330,RW,21,99999,1.0,1.0,slight airy noise at end,2.0,foreground
+p59330,RW,26,99999,1.0,1.0,click at end,3.0,background
+p59330,RW,31,99999,1.0,1.0,airy noise/click at end,3.0,background
+p59330,RW,33,21,1.0,1.0,click near middle,3.0,background
+p59330,RW,36,99999,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p59520,LC,8,115,3.0,3.0,slight airy noise at end,2.0,foreground
+p59520,LC,9,54,3.0,3.0,slight airy noise at end,2.0,foreground
+p59520,LC,18,88,4.0,4.0,static at end,3.0,foreground
+p59520,LC,24,46,4.0,4.0,slight click at end,2.0,background
+p59520,LC,32,20,4.0,4.0,static at end,3.0,foreground
+p59520,LC,33,69,4.0,4.0,slight clicks near middle; airy click at end,3.0,background
+p59520,LC,35,127,4.0,4.0,click at beginning and end,3.0,background
+p59520,LC,37,151,4.0,4.0,static at end; no pain rating given so copied down rather than up,3.0,foreground
+p59520,LW,2,20,1.0,1.0,click at end,3.0,background
+p59520,LW,4,12,1.0,1.0,beep in middle,3.0,background
+p59520,LW,5,144,1.0,1.0,airy noise at end,3.0,foreground
+p59520,LW,7,16,1.0,1.0,slight airy noise at end,2.0,foreground
+p59520,LW,10,69,1.0,1.0,slight click at beginning and middle; airy noise at end,3.0,foreground and background
+p59520,LW,13,141,1.0,1.0,slight airy noise at end,2.0,foreground
+p59520,LW,16,99999,1.0,1.0,click in middle; slight airy noise at end,3.0,foreground and background
+p59520,LW,20,172,1.0,1.0,humming at end,3.0,background
+p59520,LW,23,153,1.0,1.0,slight airy noise and static at end,2.0,foreground
+p59520,LW,24,25,1.0,1.0,airy noise at end,3.0,foreground
+p59520,LW,25,41,1.0,1.0,click at beginning,3.0,background
+p59520,LW,26,99999,1.0,1.0,slight click at end,2.0,background
+p59520,LW,27,120,1.0,1.0,click in middle,3.0,background
+p59520,LW,28,39,1.0,1.0,slight airy noise at end,2.0,foreground
+p59520,LW,29,59,1.0,1.0,slight airy noise at end,2.0,foreground
+p59520,LW,30,124,1.0,1.0,slight airy noise at end,2.0,foreground
+p59520,LW,33,106,1.0,1.0,airy noise at end,3.0,foreground
+p59520,LW,34,145,1.0,1.0,slight static near beginning; slight click at end,2.0,foreground and background
+p59520,LW,36,99999,1.0,1.0,slight airy noise at end,2.0,foreground
+p59520,LW,37,28,1.0,1.0,humming near end; no pain rating given so copied down rather than up,3.0,background
+p59520,LW,39,148,1.0,1.0,slight airy noise at end; no pain rating given so copied down rather than up,2.0,foreground
+p59520,RC,6,99999,2.0,2.0,"first word ""On"" cut out; slight click near beginning",2.0,background
+p59520,RC,8,17,3.0,3.0,sharp airy noise at end,3.0,foreground
+p59520,RC,10,22,3.0,3.0,slight creak at beginning; click at end,3.0,foreground and background
+p59520,RC,13,152,4.0,4.0,"first word ""A"" cut out; slight click at end",2.0,background
+p59520,RC,15,186,4.0,4.0,slight clicks near beginning,2.0,background
+p59520,RC,17,97,4.0,4.0,slight click near middle,2.0,background
+p59520,RC,20,43,4.0,4.0,clicks throughout,3.0,background
+p59520,RC,30,108,5.0,5.0,slight click and airy noise at end,2.0,foreground and background
+p59520,RW,23,115,1.0,1.0,slight clicks in middle; airy noise at end,3.0,foreground and background
+p59520,RW,37,176,1.0,1.0,scraping at end; no pain rating given so copied down rather than up,3.0,foreground
+p60145,LC,3,57,6.0,6.0,static at end,3.0,foreground
+p60145,LC,5,70,6.0,6.0,"loud static at beginning; speaker makes ""uh"" sound at end",4.0,foreground
+p60145,LC,6,99999,6.0,6.0,static throughout,3.0,foreground
+p60145,LC,8,97,7.0,7.0,loud static/scraping near middle,4.0,foreground
+p60145,LC,9,152,7.0,7.0,"first part of sentence cut out (""A sp-""); speaker makes ""uh"" sound at end; scrape at end",3.0,foreground
+p60145,LC,10,176,7.0,7.0,"loud scrape at beginning; speaker makes ""uh"" sound at end",4.0,foreground
+p60145,LC,18,71,7.0,7.0,static near middle,3.0,foreground
+p60145,LC,20,35,7.0,7.0,scrape at end,3.0,foreground
+p60145,LC,38,162,5.0,5.0,slight click at end,2.0,background
+p60145,LC,40,49,5.0,5.0,click near beginning,3.0,background
+p60145,LW,8,104,1.0,1.0,slight click at end,2.0,background
+p60145,LW,18,170,1.0,1.0,"says ""fell from the"" twice; slight static at end",2.0,foreground
+p60145,LW,19,109,1.0,1.0,click at end,3.0,background
+p60145,LW,20,161,1.0,1.0,slight click near middle and end,2.0,background
+p60145,LW,25,139,1.0,1.0,slight click at end,2.0,background
+p60145,LW,26,99999,1.0,1.0,slight click at end,2.0,background
+p60145,LW,32,99,1.0,1.0,slight click near end,2.0,background
+p60145,LW,35,175,1.0,1.0,"first part of sentence cut out (""Torn s-""); slight click at end",2.0,background
+p60145,LW,36,99999,1.0,1.0,slight click at end,2.0,background
+p60145,RC,7,27,6.0,6.0,"loud scraping near middle; speaker makes ""uh"" sound at end",4.0,foreground
+p60145,RC,10,29,6.0,6.0,loud scraping throughout,4.0,foreground
+p60145,RC,12,12,7.0,7.0,loud scraping throughout; loud click at end,4.0,foreground and background
+p60145,RC,13,125,7.0,7.0,loud scraping throughout,4.0,foreground
+p60145,RC,16,99999,7.0,7.0,slight click at beginning,2.0,background
+p60145,RC,17,179,7.0,7.0,loud scraping at end,4.0,foreground
+p60145,RC,31,99999,6.0,6.0,slight click at end,2.0,background
+p60145,RC,32,50,6.0,6.0,slight click at end,2.0,background
+p60145,RW,1,103,1.0,1.0,slight click near end,2.0,background
+p60145,RW,3,77,1.0,1.0,click at end,3.0,background
+p60145,RW,5,97,1.0,1.0,low tap at end,2.0,foreground
+p60145,RW,9,139,1.0,1.0,click at end,3.0,background
+p60145,RW,11,99999,1.0,1.0,slight click near end,2.0,background
+p60145,RW,13,88,1.0,1.0,click at end,3.0,background
+p60145,RW,14,7,1.0,1.0,slight click near middle; rustle at end,3.0,foreground and background
+p60145,RW,21,99999,1.0,1.0,slight click at end,2.0,background
+p60145,RW,26,99999,1.0,1.0,slight click at end,2.0,background
+p60145,RW,36,99999,1.0,1.0,slight shuffing from middle to end,2.0,foreground
+p60145,RW,37,72,1.0,1.0,slight shuffing from middle to end,2.0,foreground
+p60145,RW,40,141,1.0,1.0,click near middle,3.0,background
+p61160,LC,1,56,6.0,6.0,"slight stutter on word ""well""; shuffling at end",3.0,foreground
+p61160,LC,12,91,9.0,9.0,"loud water noise at end; says ""k"" after saying assigned sentence; static at end; no pain rating given so copied down rather than up",4.0,foreground
+p61160,LW,1,37,1.0,1.0,loud scraping at end,4.0,foreground
+p61160,LW,2,83,1.0,1.0,click near end,3.0,background
+p61160,LW,11,99999,1.0,1.0,click near end,3.0,background
+p61160,LW,15,82,1.0,1.0,"stutters on word ""scared""; slight low click at end",2.0,background
+p61160,LW,16,99999,1.0,1.0,slight click at end,2.0,background
+p61160,LW,19,101,1.0,1.0,loud scrape/click near end,4.0,foreground and background
+p61160,LW,20,141,1.0,1.0,"stutters on word ""gate""; click at end",3.0,background
+p61160,LW,23,179,1.0,1.0,slight click at end,2.0,background
+p61160,LW,26,99999,1.0,1.0,loud scrape near middle,4.0,foreground
+p61160,LW,27,122,1.0,1.0,loud static/scrape at end,4.0,foreground
+p61160,RC,4,167,4.0,4.0,slight click at end,2.0,background
+p61160,RC,16,99999,8.0,8.0,loud click at beginning,4.0,background
+p61160,RC,17,143,10.0,10.0,click at end,3.0,background
+p61160,RC,21,99999,10.0,10.0,scrape at end,3.0,foreground
+p61160,RW,12,121,1.0,1.0,slight scrape at end,2.0,foreground
+p61160,RW,13,20,1.0,1.0,slight static at end,2.0,foreground
+p61160,RW,14,130,1.0,1.0,click at end,3.0,background
+p61160,RW,29,29,1.0,1.0,click at end,3.0,background
+p61160,RW,31,99999,1.0,1.0,slight click near end,2.0,background
+p61160,RW,35,164,1.0,1.0,slight scrape at end,2.0,foreground
+p61395,LC,1,77,4.0,4.0,click at end,3.0,background
+p61395,LC,2,51,4.0,4.0,slight click at end,2.0,background
+p61395,LC,6,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); click at end",3.0,background
+p61395,LC,7,72,4.0,4.0,slight static in middle; no pain rating given so copied down rather than up,2.0,foreground
+p61395,LC,8,40,4.0,4.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p61395,LC,10,182,4.0,4.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p61395,LC,12,106,7.0,7.0,click at end,3.0,background
+p61395,LC,13,100,7.0,7.0,click at end,3.0,background
+p61395,LC,15,116,7.0,7.0,airy noise at end,3.0,foreground
+p61395,LC,16,99999,7.0,7.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); static at end",3.0,foreground
+p61395,LC,17,89,6.0,6.0,airy noise at end,3.0,foreground
+p61395,LC,18,118,6.0,6.0,airy noise throughout,3.0,foreground
+p61395,LC,22,156,5.0,5.0,clicks near end,3.0,background
+p61395,LC,23,49,5.0,5.0,slight click at end,2.0,background
+p61395,LC,24,56,5.0,5.0,slight click in middle; airy noise at end,3.0,foreground and background
+p61395,LC,26,99999,5.0,5.0,click near beginning; slight shuffle near end,3.0,foreground and background
+p61395,LC,31,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); slight click at end",2.0,background
+p61395,LC,32,146,4.0,4.0,scraping at end,3.0,foreground
+p61395,LC,33,174,4.0,4.0,slight scraping at end,2.0,foreground
+p61395,LC,34,158,4.0,4.0,click at end,3.0,background
+p61395,LC,36,99999,4.0,4.0,slight click at beginning and end,2.0,background
+p61395,LC,37,187,3.0,3.0,short airy noise at end,2.0,foreground
+p61395,LC,38,32,3.0,3.0,short airy noise at end,2.0,foreground
+p61395,LC,39,150,3.0,3.0,short airy noise at end,2.0,foreground
+p61395,LC,42,98,3.0,3.0,sharp slap-like noise at end; no pain rating given so copied down rather than up,3.0,background
+p61395,LW,1,162,0.0,1.0,slight static near end,2.0,foreground
+p61395,LW,7,127,0.0,1.0,click and static at end,3.0,foreground and background
+p61395,LW,8,102,0.0,1.0,"says ""hate each other"" instead of ""each hate the other""; slight static at end",2.0,foreground
+p61395,LW,21,99999,1.0,1.0,click near middle,3.0,background
+p61395,LW,22,83,1.0,1.0,slight click in middle; slight static at end,2.0,foreground and background
+p61395,LW,33,152,1.0,1.0,slight click near middle,2.0,background
+p61395,LW,40,42,1.0,1.0,slight static at end; no pain rating given so copied down rather than up,2.0,foreground
+p61395,RC,1,24,6.0,6.0,slight static near end,2.0,foreground
+p61395,RC,2,129,6.0,6.0,slight static near end,2.0,foreground
+p61395,RC,3,106,6.0,6.0,slight static near end,2.0,foreground
+p61395,RC,4,29,6.0,6.0,slight static near end,2.0,foreground
+p61395,RC,5,68,6.0,6.0,loud scrape near beginning,4.0,foreground
+p61395,RC,18,35,5.0,5.0,short airy noise at end,2.0,foreground
+p61395,RC,19,151,5.0,5.0,click at end,3.0,background
+p61395,RC,20,184,5.0,5.0,click at end,3.0,background
+p61395,RC,25,125,4.0,4.0,click at end,3.0,background
+p61395,RC,29,12,4.0,4.0,slight click at end,2.0,background
+p61395,RC,35,159,3.0,3.0,"stutters on word ""coat""; click at end",3.0,background
+p61395,RC,39,101,3.0,3.0,click near middle and end; no pain rating given so copied down rather than up,3.0,background
+p61395,RC,40,87,3.0,3.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p61395,RW,10,37,1.0,1.0,slight click near end,2.0,background
+p61395,RW,13,50,1.0,1.0,click at end,3.0,background
+p61395,RW,16,99999,1.0,1.0,slight click near middle,2.0,background
+p61395,RW,20,46,1.0,1.0,slight click at end,2.0,background
+p61395,RW,22,45,1.0,1.0,short airy noise at end,2.0,foreground
+p61395,RW,30,110,1.0,1.0,distant clanking near beginning,3.0,background
+p61395,RW,35,122,1.0,1.0,slight click at end,2.0,background
+p61395,RW,37,167,1.0,1.0,loud scraping near middle; no pain rating given so copied down rather than up,4.0,foreground
+p62650,LC,3,98,,,click near end; no pain rating given,,
+p62650,LW,10,26,1.0,1.0,slight click near end,2.0,background
+p62650,LW,22,131,1.0,1.0,"pronounces ""swim"" like ""sweem""; slight click at end",2.0,background
+p62650,RC,9,168,9.0,9.0,slight click at end,2.0,background
+p62650,RC,15,15,8.0,8.0,click at beginning,3.0,background
+p62650,RC,22,188,7.0,7.0,click at end,3.0,background
+p62650,RW,9,1,1.0,1.0,click near end,3.0,background
+p62650,RW,17,169,1.0,1.0,click at end,3.0,background
+p64560,LC,3,167,5.0,5.0,"first word ""The"" cut out; slight click at end",2.0,background
+p64560,LC,5,4,5.0,5.0,slight airy noise at end,2.0,foreground
+p64560,LC,7,119,7.0,7.0,slight shuffle near beginning and end,2.0,foreground
+p64560,LC,25,112,5.0,5.0,click near end,3.0,background
+p64560,LC,30,29,4.0,4.0,"loud click near middle, slight tap at end",4.0,background
+p64560,LC,34,128,3.0,3.0,"first word ""The"" cut out; click at end",3.0,background
+p64560,LC,37,92,3.0,3.0,clank in middle; no pain rating given so copied down rather than up,3.0,background
+p64560,LW,2,76,1.0,1.0,slight scrape at end,2.0,foreground
+p64560,LW,5,53,1.0,1.0,click near beginning,3.0,background
+p64560,LW,12,172,1.0,1.0,"first word ""The"" cut out; click at end",3.0,background
+p64560,LW,14,111,1.0,1.0,click at end,3.0,background
+p64560,LW,25,6,1.0,1.0,buzz at end,3.0,background
+p64560,LW,34,133,1.0,1.0,"first part of first word cut out (""pl"" in ""pluck""); buzz at end",3.0,background
+p64560,LW,37,37,1.0,1.0,buzz at end; no pain rating given so copied down rather than up,3.0,background
+p64560,RC,2,51,4.0,4.0,squeak at end,3.0,foreground
+p64560,RC,3,182,4.0,4.0,squeak at end,3.0,foreground
+p64560,RC,7,0,5.0,5.0,scrape at end,3.0,foreground
+p64560,RC,15,96,5.0,5.0,slight click at end,2.0,background
+p64560,RC,35,150,5.0,5.0,"pronounces ""cigar"" like ""ciger"" and ""the"" like ""this""; click at end",3.0,background
+p64560,RC,38,77,5.0,5.0,"pronounces ""horn"" like ""corn""; click at end; last part of sentence cut out (""the sleeping cop""); no pain rating given so copied down rather than up",3.0,background
+p64560,RW,7,26,1.0,1.0,click at end,3.0,background
+p64560,RW,8,21,1.0,1.0,"first word ""The"" cut out; click at end",3.0,background
+p64560,RW,13,166,1.0,1.0,click at end,3.0,background
+p64560,RW,14,20,1.0,1.0,"first word ""The"" cut out; clank near beginning",3.0,background
+p64560,RW,15,32,1.0,1.0,slight click near beginning,2.0,background
+p64560,RW,17,40,1.0,1.0,slight click at end,2.0,background
+p64560,RW,21,99999,1.0,1.0,slap noise near beginning,3.0,background
+p64560,RW,22,165,1.0,1.0,slight click at end,2.0,background
+p64560,RW,26,99999,1.0,1.0,slight airy noise near beginning; slight click near end,2.0,foreground and background
+p64560,RW,28,34,1.0,1.0,slight click at end,2.0,background
+p64560,RW,32,67,1.0,1.0,slight click near beginning; slight buzz at end,2.0,background
+p65330,LC,4,115,4.0,4.0,audible inhale at begninng; airy noise at end,3.0,foreground
+p65330,LC,8,86,5.0,5.0,slight click at end,2.0,background
+p65330,LC,10,111,5.0,5.0,audible inhale at begninng; slight click at end,2.0,background
+p65330,LC,17,163,6.0,6.0,airy noise at end,3.0,foreground
+p65330,LC,18,28,6.0,6.0,airy noise at end,3.0,foreground
+p65330,LC,22,84,6.0,6.0,click at end,3.0,background
+p65330,LC,24,112,6.0,6.0,airy noise at end,3.0,foreground
+p65330,LC,28,71,6.0,6.0,click near middle,3.0,background
+p65330,LW,14,7,1.0,1.0,click at end,3.0,background
+p65330,LW,15,115,1.0,1.0,click at end,3.0,background
+p65330,LW,18,8,1.0,1.0,click at end,3.0,background
+p65330,LW,19,174,1.0,1.0,slight click at end,2.0,background
+p65330,LW,20,157,1.0,1.0,click at end,3.0,background
+p65330,LW,23,79,1.0,1.0,click at end,3.0,background
+p65330,LW,30,40,1.0,1.0,click at end,3.0,background
+p65330,LW,34,168,1.0,1.0,short airy noise at end,2.0,foreground
+p65330,LW,36,99999,1.0,1.0,slight click at end,2.0,background
+p65330,RC,1,44,3.0,3.0,clatter at end,3.0,background
+p65330,RC,2,153,3.0,3.0,slight clatter at end,2.0,background
+p65330,RC,5,24,3.0,3.0,click at end,3.0,background
+p65330,RC,7,26,4.0,4.0,short airy noise at end,2.0,foreground
+p65330,RC,8,133,4.0,4.0,click at end,3.0,background
+p65330,RC,9,108,4.0,4.0,click at end,3.0,background
+p65330,RC,12,13,6.0,6.0,click at end,3.0,background
+p65330,RC,13,49,6.0,6.0,click and airy noise at end,3.0,foreground and background
+p65330,RC,16,99999,6.0,6.0,water noise near end,3.0,foreground
+p65330,RC,25,4,7.0,7.0,click at end,3.0,background
+p65330,RC,28,87,8.0,8.0,slight static near middle; click at end,3.0,foreground and background
+p65330,RC,35,79,8.0,8.0,click and loud squeak near middle,4.0,foreground and background
+p65330,RW,2,67,1.0,1.0,click at end,3.0,background
+p65330,RW,9,140,1.0,1.0,click in middle and end,3.0,background
+p65330,RW,10,170,1.0,1.0,clicks near end,3.0,background
+p65330,RW,16,99999,1.0,1.0,chiming near end,3.0,background
+p65330,RW,19,112,1.0,1.0,slap noise at end,3.0,background
+p65330,RW,21,99999,1.0,1.0,click at end,3.0,background
+p65330,RW,23,165,1.0,1.0,slight beeping near end; click at end,3.0,background
+p65330,RW,24,38,1.0,1.0,slight beeping near end; click at end,3.0,background
+p65330,RW,25,35,1.0,1.0,beeping throughout,3.0,background
+p65330,RW,26,99999,1.0,1.0,click at beginning; slight beeping at end,3.0,background
+p65330,RW,27,75,1.0,1.0,slight click at beginning and end,2.0,background
+p65330,RW,28,113,1.0,1.0,click at beginning and end,3.0,background
+p65330,RW,30,104,1.0,1.0,click at end,3.0,background
+p65870,LC,1,177,2.0,2.0,airy noise near end,3.0,foreground
+p65870,LC,2,79,2.0,2.0,"adds word ""with"" after word ""worn""; airy noise at end",3.0,foreground
+p65870,LC,3,188,2.0,2.0,airy noise at end,3.0,foreground
+p65870,LC,4,76,2.0,2.0,airy noise at end,3.0,foreground
+p65870,LC,5,115,2.0,2.0,airy noise at end,3.0,foreground
+p65870,LC,6,99999,2.0,2.0,airy noise at end,3.0,foreground
+p65870,LC,7,29,4.0,4.0,airy noise at end,3.0,foreground
+p65870,LC,8,131,4.0,4.0,airy noise at end,3.0,foreground
+p65870,LC,9,110,4.0,4.0,airy noise at end,3.0,foreground
+p65870,LC,10,183,4.0,4.0,airy noise at end,3.0,foreground
+p65870,LC,11,99999,4.0,4.0,airy noise at end,3.0,foreground
+p65870,LC,12,16,5.0,5.0,airy noise at end,3.0,foreground
+p65870,LC,14,98,5.0,5.0,airy noise at end,3.0,foreground
+p65870,LC,15,66,5.0,5.0,slight airy noise at end,2.0,foreground
+p65870,LC,16,99999,5.0,5.0,airy noise at end,3.0,foreground
+p65870,LC,17,85,6.0,6.0,click at beginning; airy noise at end,3.0,foreground and background
+p65870,LC,18,50,6.0,6.0,airy noise at end,3.0,foreground
+p65870,LC,19,187,6.0,6.0,airy noise at end,3.0,foreground
+p65870,LC,20,179,6.0,6.0,loud click at end; airy noise at end,4.0,foreground and background
+p65870,LC,22,128,7.0,7.0,click at end; airy noise at end,3.0,foreground and background
+p65870,LC,23,102,7.0,7.0,clicks near end; slight airy noise at end,3.0,foreground and background
+p65870,LC,24,61,7.0,7.0,"first part of sentence cut out (""We talked""); click at end",3.0,background
+p65870,LC,26,99999,7.0,7.0,loud airy noise at end,4.0,foreground
+p65870,LC,28,6,6.0,6.0,auible inhale at beginning; slight clicks near end; slight airy noise at end,2.0,foreground and background
+p65870,LC,30,24,6.0,6.0,click near beginning; airy noise at end,3.0,foreground and background
+p65870,LC,31,99999,6.0,6.0,airy noise at end,3.0,foreground
+p65870,LC,32,25,6.0,6.0,slight airy noise at end; no pain rating given so copied down rather than up,2.0,foreground
+p65870,LC,33,111,6.0,6.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p65870,LW,1,21,1.0,1.0,click near middle and end; slight audible exhale at end,3.0,background
+p65870,LW,2,75,1.0,1.0,airy noise at end,3.0,foreground
+p65870,LW,3,62,1.0,1.0,slight airy noise at end,2.0,foreground
+p65870,LW,4,64,1.0,1.0,slight airy noise at end,2.0,foreground
+p65870,LW,5,172,1.0,1.0,slight airy noise at end,2.0,foreground
+p65870,LW,6,99999,1.0,1.0,airy noise at end,3.0,foreground
+p65870,LW,7,95,1.0,1.0,airy noise at end,3.0,foreground
+p65870,LW,8,116,1.0,1.0,slight click near end,2.0,background
+p65870,LW,9,136,1.0,1.0,slight airy noise at end,2.0,foreground
+p65870,LW,10,26,1.0,1.0,click at end,3.0,background
+p65870,LW,11,99999,1.0,1.0,airy noise at end,3.0,foreground
+p65870,LW,12,10,1.0,1.0,short airy noise at end,2.0,foreground
+p65870,LW,13,137,1.0,1.0,airy noise at end,3.0,foreground
+p65870,LW,15,40,1.0,1.0,airy noise at end,3.0,foreground
+p65870,LW,17,168,1.0,1.0,click near beginning; airy noise at end,3.0,foreground and background
+p65870,LW,20,49,1.0,1.0,airy noise at end,3.0,foreground
+p65870,LW,21,99999,1.0,1.0,static near beginning; click near middle; slight short airy noise at end,3.0,foreground and background
+p65870,LW,23,7,1.0,1.0,slight airy noise at end,2.0,foreground
+p65870,LW,24,72,1.0,1.0,slight short airy noises at end,2.0,foreground
+p65870,LW,26,99999,1.0,1.0,click near end,3.0,background
+p65870,LW,27,177,1.0,1.0,click at end,3.0,background
+p65870,LW,28,48,1.0,1.0,loud airy noise at end,4.0,foreground
+p65870,LW,29,6,1.0,1.0,slight clicks throughout,3.0,background
+p65870,LW,30,25,1.0,1.0,click near beginning and end,3.0,background
+p65870,LW,31,99999,1.0,1.0,clicks throughout; airy noise at end,3.0,foreground and background
+p65870,LW,32,187,1.0,1.0,click in middle; airy noise at end; no pain rating given so copied down rather than up,3.0,foreground and background
+p65870,LW,33,122,1.0,1.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p65870,LW,34,121,1.0,1.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p65870,RC,1,87,2.0,2.0,airy noise at end,3.0,foreground
+p65870,RC,3,107,2.0,2.0,click at end,3.0,background
+p65870,RC,5,28,2.0,2.0,"first word ""The"" cut out; airy noise at end",3.0,foreground
+p65870,RC,6,99999,2.0,2.0,click near beginning; airy noise at end,3.0,foreground and background
+p65870,RC,7,105,3.0,3.0,airy noise at end,3.0,foreground
+p65870,RC,8,164,3.0,3.0,airy noise at end,3.0,foreground
+p65870,RC,9,94,3.0,3.0,airy noise at end,3.0,foreground
+p65870,RC,10,135,3.0,3.0,"first part of sentence cut out (""The glow deepened""); slight airy noise at end",2.0,foreground
+p65870,RC,11,99999,3.0,3.0,click and airy noise at end,3.0,foreground and background
+p65870,RC,12,21,3.0,3.0,"stutters on word ""sock""; airy click at end",3.0,background
+p65870,RC,15,166,3.0,3.0,airy noise at end,3.0,foreground
+p65870,RC,17,163,4.0,4.0,"pronounces ""figures"" like ""fingers""; airy noise at end",3.0,foreground
+p65870,RC,18,4,4.0,4.0,airy noise at end,3.0,foreground
+p65870,RC,20,5,4.0,4.0,airy noise at end,3.0,foreground
+p65870,RC,22,34,4.0,4.0,airy noise at end,3.0,foreground
+p65870,RC,24,70,4.0,4.0,click and airy noise at end,3.0,foreground and background
+p65870,RC,25,51,4.0,4.0,"first word ""The"" cut out; click and airy noise at end",3.0,foreground and background
+p65870,RC,27,102,4.0,4.0,airy noise at end,3.0,foreground
+p65870,RC,28,97,4.0,4.0,airy noise at end,3.0,foreground
+p65870,RC,31,99999,4.0,4.0,click near middle,3.0,background
+p65870,RC,32,136,4.0,4.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p65870,RC,33,134,4.0,4.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p65870,RC,34,137,4.0,4.0,sharp static at end; no pain rating given so copied down rather than up,3.0,foreground
+p65870,RW,2,145,2.0,2.0,slight click near end; airy noise at end,3.0,foreground and background
+p65870,RW,4,172,2.0,2.0,click at end,3.0,background
+p65870,RW,5,37,2.0,2.0,sharp zip at end,3.0,background
+p65870,RW,6,99999,2.0,2.0,click near middle; airy noise at end,3.0,foreground and background
+p65870,RW,7,124,1.0,1.0,"first word ""The"" cut out; airy noise at end",3.0,foreground
+p65870,RW,8,164,1.0,1.0,slight clicks throughout; slight airy noise at end,3.0,foreground and background
+p65870,RW,9,29,1.0,1.0,airy noise at end,3.0,foreground
+p65870,RW,10,39,1.0,1.0,click near beginning; slight airy noise at end,3.0,foreground and background
+p65870,RW,11,99999,1.0,1.0,click near end; slight airy noise at end,3.0,foreground and background
+p65870,RW,12,68,1.0,1.0,airy noise at end,3.0,foreground
+p65870,RW,13,119,1.0,1.0,"majority of sentence cut out (""A lame back kept""); slight airy noise at end",2.0,foreground
+p65870,RW,15,173,1.0,1.0,airy noise at end,3.0,foreground
+p65870,RW,16,99999,1.0,1.0,click near end; slight airy noise at end,3.0,foreground and background
+p65870,RW,17,141,1.0,1.0,"stutters on word ""gate""; slight airy noise at end",2.0,foreground
+p65870,RW,18,75,1.0,1.0,airy noise at end,3.0,foreground
+p65870,RW,19,48,1.0,1.0,airy noise at end,3.0,foreground
+p65870,RW,20,138,1.0,1.0,"pronounces ""clothes"" like ""clotes""; slight click near middle",2.0,background
+p65870,RW,21,99999,1.0,1.0,slight click at end,2.0,background
+p65870,RW,22,158,1.0,1.0,airy noise at end,3.0,foreground
+p65870,RW,23,113,1.0,1.0,airy noise at end,3.0,foreground
+p65870,RW,24,101,1.0,1.0,slight click near middle; airy noise at end,3.0,foreground and background
+p65870,RW,25,114,1.0,1.0,click and airy noise at end,3.0,foreground and background
+p65870,RW,26,99999,1.0,1.0,clicks in middle and end,3.0,background
+p65870,RW,27,186,1.0,1.0,airy noise and clicks at end,3.0,foreground and background
+p65870,RW,30,3,1.0,1.0,slight airy noise at end,2.0,foreground
+p65870,RW,31,99999,1.0,1.0,slight airy noise at end,2.0,foreground
+p65870,RW,32,32,1.0,1.0,click at end; audible exhale at end; no pain rating given so copied down rather than up,3.0,background
+p65870,RW,33,140,1.0,1.0,click at beginning; no pain rating given so copied down rather than up,3.0,background
+p65870,RW,34,83,1.0,1.0,slight airy noise at end; no pain rating given so copied down rather than up,2.0,foreground
+p66385,LC,5,93,4.0,4.0,slight click at end,2.0,background
+p66385,LC,10,171,4.0,4.0,scrape at end; no pain rating given so copied down rather than up,3.0,foreground
+p66385,LW,1,163,1.0,1.0,slight pulsating noise throughout; loud click at end,4.0,background
+p66385,LW,8,152,1.0,1.0,click at end,3.0,background
+p66385,LW,21,99999,1.0,1.0,slight scrape at end,2.0,foreground
+p66385,LW,24,3,1.0,1.0,shuffling near end,3.0,foreground
+p66385,RC,5,157,5.0,5.0,slight airy noise at end,2.0,foreground
+p66385,RC,10,26,6.0,6.0,hum at end,3.0,background
+p66385,RC,13,101,7.0,7.0,click near middle,3.0,background
+p66385,RC,15,96,7.0,7.0,slight click at end,2.0,background
+p66385,RC,21,99999,7.0,7.0,click at end,3.0,background
+p66385,RW,1,113,1.0,1.0,slight shuffle in middle,2.0,background
+p66385,RW,2,76,1.0,1.0,slight ding at end,2.0,background
+p66385,RW,7,133,1.0,1.0,airy noise at end,3.0,foreground
+p66385,RW,9,117,1.0,1.0,airy noise at end,3.0,foreground
+p66385,RW,10,109,1.0,1.0,click near middle; ring at end,3.0,background
+p66385,RW,21,99999,1.0,1.0,click near beginning; slight shuffling near middle,3.0,foreground and background
+p66385,RW,26,99999,1.0,1.0,clatter at end,3.0,background
+p66385,RW,29,138,1.0,1.0,slight click near beginning,2.0,background
+p66385,RW,31,99999,1.0,1.0,background voice at end,3.0,background
+p66385,RW,34,134,1.0,1.0,background voice at end,3.0,background
+p66385,RW,38,175,1.0,1.0,background voice at end,3.0,background
+p66385,RW,40,161,1.0,1.0,"slight background voice near middle; says ""car"" instead of ""chair""",3.0,background
+p68215,LC,9,5,6.0,6.0,humming at end,3.0,background
+p68215,LC,12,32,6.0,6.0,very short scrape at very end,2.0,foreground
+p68215,LC,16,99999,6.0,6.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is ""); click at end",3.0,background
+p68215,LC,17,123,7.0,7.0,airy noise at end,3.0,foreground
+p68215,LC,19,151,7.0,7.0,slight click at end,2.0,background
+p68215,LC,21,99999,7.0,7.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is ""); click at end",3.0,background
+p68215,LC,22,0,7.0,7.0,slight click at end; audible exhale at end,2.0,background
+p68215,LC,25,73,7.0,7.0,slight click at end,2.0,background
+p68215,LC,28,183,7.0,7.0,slight clicks in middle and end,2.0,background
+p68215,LC,36,99999,7.0,7.0,airy noise at end,3.0,foreground
+p68215,LC,37,7,7.0,7.0,airy noise at end,3.0,foreground
+p68215,LC,38,105,7.0,7.0,slight static near beginning,2.0,foreground
+p68215,LW,1,21,1.0,1.0,click at end,3.0,background
+p68215,LW,4,43,1.0,1.0,click at end,3.0,background
+p68215,LW,6,99999,1.0,1.0,click at end,3.0,background
+p68215,LW,8,152,1.0,1.0,click at end,3.0,background
+p68340,LC,6,99999,2.0,2.0,click at beginning,3.0,background
+p68340,LC,7,81,2.0,2.0,click near middle,3.0,background
+p68340,LC,10,176,2.0,2.0,"first part on first word cut out (""S"" in ""Sunday""); click at end",3.0,background
+p68340,LC,12,137,3.0,3.0,tap near end; whistle at end,3.0,foreground and background
+p68340,LC,13,98,3.0,3.0,click at end,3.0,background
+p68340,LC,17,152,3.0,3.0,"first part of sentence cut out (""A s-""); click at end",3.0,background
+p68340,LC,21,99999,3.0,3.0,slight click near beginning and end,2.0,background
+p68340,LC,22,48,3.0,3.0,click at end,3.0,background
+p68340,LC,28,38,3.0,3.0,click in middle and end,3.0,background
+p68340,LC,29,88,3.0,3.0,slight click near beginning and end,2.0,background
+p68340,LC,30,53,3.0,3.0,slight click near end,2.0,background
+p68340,LC,34,15,3.0,3.0,clicks near middle and end,3.0,background
+p68340,LC,35,125,3.0,3.0,sqeak at end,3.0,foreground
+p68340,LC,37,10,3.0,3.0,slight click near middle,2.0,background
+p68340,LC,41,99999,3.0,3.0,slight click near end,2.0,background
+p68340,LW,1,38,1.0,1.0,slight static in middle,2.0,foreground
+p68340,LW,2,3,1.0,1.0,slight shuffle near middle,2.0,background
+p68340,LW,4,60,1.0,1.0,clicks near middle,3.0,background
+p68340,LW,5,151,1.0,1.0,clicks near end,3.0,background
+p68340,LW,9,129,1.0,1.0,loud clicks near beginning and middle,4.0,background
+p68340,LW,14,93,1.0,1.0,short airy noise at end,2.0,foreground
+p68340,LW,15,70,1.0,1.0,short airy noise at end,2.0,foreground
+p68340,LW,16,99999,1.0,1.0,slight clicks at end,2.0,background
+p68340,LW,20,91,1.0,1.0,airy noise at end,3.0,foreground
+p68340,LW,24,52,1.0,1.0,clicks throughout,3.0,background
+p68340,LW,30,80,1.0,1.0,short airy noise at end,2.0,foreground
+p68340,LW,31,99999,1.0,1.0,slight click at end,2.0,background
+p68340,LW,33,82,1.0,1.0,"first part of first word cut out (""S"" in ""See""); slight short airy noise at end",2.0,foreground
+p68340,LW,35,87,1.0,1.0,slight short airy noise at end,2.0,foreground
+p68340,LW,38,96,1.0,1.0,slight short airy noise at end,2.0,foreground
+p68340,RC,1,67,3.0,3.0,clicks throughout,3.0,background
+p68340,RC,3,29,3.0,3.0,"first part of sentence cut out (""It s-""); click near beginning",3.0,background
+p68340,RC,4,125,3.0,3.0,click near beginning and end; zip at end,3.0,background
+p68340,RC,5,182,3.0,3.0,click in middle and end,3.0,background
+p68340,RC,6,99999,3.0,3.0,"first part of sentence cut out (""On a s-""); click near end",3.0,background
+p68340,RC,7,158,4.0,4.0,loud clatter/scraping at end,4.0,foreground
+p68340,RC,11,99999,4.0,4.0,click near middle and end,3.0,background
+p68340,RC,16,99999,4.0,4.0,click at end,3.0,background
+p68340,RC,18,167,4.0,4.0,click at end,3.0,background
+p68340,RC,21,99999,4.0,4.0,click at end,3.0,background
+p68340,RC,24,68,3.0,3.0,click at end,3.0,background
+p68340,RC,26,99999,3.0,3.0,click near beginning,3.0,background
+p68340,RC,27,145,3.0,3.0,click near end,3.0,background
+p68340,RC,28,80,3.0,3.0,short airy noise at end,2.0,foreground
+p68340,RC,34,74,3.0,3.0,"click at beginning; pronounces ""walled"" like ""wild""",3.0,background
+p68340,RC,35,172,3.0,3.0,click near end,3.0,background
+p68340,RC,37,90,3.0,3.0,click near end,3.0,background
+p68340,RW,7,86,1.0,1.0,click at end,3.0,background
+p68340,RW,9,13,1.0,1.0,slight click near end,2.0,background
+p68340,RW,16,99999,1.0,1.0,slight click in middle,2.0,background
+p68340,RW,19,21,1.0,1.0,click at end,3.0,background
+p68340,RW,34,126,1.0,1.0,"first part of sentence cut out (""The s-""); click at beginning",3.0,background
+p68340,RW,37,32,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p68625,LC,1,178,4.0,4.0,"first word ""The"" cut out; slight click at end",2.0,background
+p68625,LC,13,145,9.0,9.0,click near end,3.0,background
+p68625,LC,15,25,9.0,9.0,scrape at end,3.0,foreground
+p68625,LC,16,99999,9.0,9.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); click in middle",3.0,background
+p68625,LC,17,1,9.0,9.0,click at end,3.0,background
+p68625,LC,19,97,9.0,9.0,"first word ""The"" cut out; slight click at end",2.0,background
+p68625,LC,21,99999,9.0,9.0,click at end,3.0,background
+p68625,LC,24,13,9.0,9.0,"first word ""The"" cut out; scrape at end",3.0,foreground
+p68625,LC,28,87,8.0,8.0,scrape at end,3.0,foreground
+p68625,LC,29,179,8.0,8.0,shuffling at end,3.0,foreground
+p68625,LC,34,54,6.0,6.0,"first word ""The"" cut out; slight click at end",2.0,background
+p68625,LW,11,99999,1.0,1.0,click near end,3.0,background
+p68625,LW,26,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10 the""); click near middle",3.0,background
+p68625,LW,38,115,1.0,1.0,slight click at end; no pain rating given so copied down rather than up,2.0,background
+p68625,RC,1,149,4.0,4.0,"begins sentence with ""duh""; click near middle",3.0,background
+p68625,RC,6,99999,4.0,4.0,slight static at end,2.0,foreground
+p68625,RC,10,153,7.0,7.0,slight static at end,2.0,foreground
+p68625,RC,11,99999,7.0,7.0,click at end,3.0,background
+p68625,RC,12,106,8.0,8.0,scrape at end,3.0,foreground
+p68625,RC,16,99999,8.0,8.0,slight audible exhale at end; slight click at end,2.0,background
+p68625,RC,19,7,9.0,9.0,slight airy noise at end,2.0,foreground
+p68625,RC,20,46,9.0,9.0,click in middle and end,3.0,background
+p68625,RC,21,99999,9.0,9.0,click at end; audible exhale at end,3.0,background
+p68625,RC,23,85,8.0,8.0,slight click at end,2.0,background
+p68625,RC,31,99999,7.0,7.0,slight click at end,2.0,background
+p68625,RC,33,173,6.0,6.0,click at end,3.0,background
+p68625,RC,38,171,7.0,7.0,click in middle and end,3.0,background
+p68625,RW,2,39,1.0,1.0,"majority of sentence cut out (The meal was cooked before the""); click near end",3.0,background
+p68625,RW,3,173,1.0,1.0,click at end,3.0,background
+p68625,RW,8,187,1.0,1.0,click near end,3.0,background
+p68625,RW,9,179,1.0,1.0,scrape at end,3.0,foreground
+p68625,RW,17,134,1.0,1.0,slight click at end,2.0,background
+p68625,RW,29,23,1.0,1.0,click at end,3.0,background
+p68625,RW,31,99999,1.0,1.0,slight click near middle and end,2.0,background
+p68625,RW,41,99999,1.0,1.0,slight click near middle,2.0,background
+p68870,LC,1,46,8.0,8.0,slight click near middle and end,2.0,background
+p68870,LC,4,130,8.0,8.0,"first word ""The"" cut out; click at end",3.0,background
+p68870,LC,5,57,8.0,8.0,slight ring in middle,2.0,background
+p68870,LC,6,99999,8.0,8.0,slight click at end,2.0,background
+p68870,LC,10,16,9.0,9.0,"first part of sentence cut out (""A p-""); airy noise at end",3.0,foreground
+p68870,LC,11,99999,9.0,9.0,rattle at end,3.0,foreground
+p68870,LC,12,49,8.0,8.0,airy noise at beginning; audible inhale near beginning,3.0,foreground
+p68870,LC,16,99999,8.0,8.0,"first part of sentence cut out (""On a""); slight click near end",2.0,background
+p68870,LC,20,124,8.0,8.0,click at end,3.0,background
+p68870,LC,22,97,7.0,7.0,clicks near beginning,3.0,background
+p68870,LC,25,81,7.0,7.0,click in middle,3.0,background
+p68870,LW,1,84,1.0,1.0,"squeak at end; pronounces ""droopy"" like ""droppy""",3.0,foreground
+p68870,LW,2,96,1.0,1.0,click at end,3.0,background
+p68870,LW,7,105,1.0,1.0,slight scrape at end,2.0,foreground
+p68870,LW,8,48,1.0,1.0,airy noise at end,3.0,foreground
+p68870,LW,14,55,1.0,1.0,slight click near middle,2.0,background
+p68870,LW,17,153,1.0,1.0,slight ring throughout,3.0,background
+p68870,LW,21,99999,1.0,1.0,"first word ""On"" cut out; slight click at end",2.0,background
+p68870,LW,24,106,1.0,1.0,"pronounces ""thieves"" like ""teeves""; slight click at end",2.0,background
+p68870,LW,26,99999,1.0,1.0,slight clicks throughout,3.0,background
+p68870,LW,36,99999,1.0,1.0,slight click at end,2.0,background
+p68870,RC,1,79,7.0,7.0,"pronounces ""pearl"" like ""pur""; static near middle",3.0,foreground
+p68870,RC,7,125,8.0,8.0,slight static at end,2.0,foreground
+p68870,RC,8,91,8.0,8.0,static click at end,3.0,foreground
+p68870,RC,11,99999,8.0,8.0,slight click at end,2.0,background
+p68870,RC,12,167,8.0,8.0,"slight click near beginning; misses word ""a"" in betwee ""was"" and ""dull""; loud click at end",4.0,background
+p68870,RC,14,175,8.0,8.0,electronic beeps at end,3.0,background
+p68870,RC,17,161,9.0,9.0,click at end,3.0,background
+p68870,RC,21,99999,9.0,9.0,slight click at end,2.0,background
+p68870,RC,33,69,6.0,6.0,static at end; no pain rating given so copied down rather than up,3.0,foreground
+p68870,RW,1,77,1.0,1.0,scrape at end,3.0,foreground
+p68870,RW,7,105,1.0,1.0,slight airy noise at end,2.0,foreground
+p68870,RW,9,6,1.0,1.0,slight click near middle,2.0,background
+p68870,RW,12,107,1.0,1.0,airy noise at end,3.0,foreground
+p68870,RW,19,47,1.0,1.0,"pronounces ""rope will bind"" like ""hope will blind""; click near middle",3.0,background
+p68870,RW,22,94,1.0,1.0,slight scrape at end,2.0,foreground
+p68870,RW,30,157,1.0,1.0,"first part of sentence cut out (""The p-""); click at end",3.0,background
+p68870,RW,31,99999,1.0,1.0,slight click at end,2.0,background
+p68870,RW,32,54,1.0,1.0,slight clicks near beginning; no pain rating given so copied down rather than up,2.0,background
+p71740,LC,1,176,3.0,3.0,static in middle,3.0,foreground
+p71740,LC,5,31,3.0,3.0,scrape and static near end,3.0,foreground
+p71740,LC,6,99999,3.0,3.0,scrape near middle; static near end,3.0,foreground
+p71740,LW,4,73,1.0,1.0,hum at end,3.0,background
+p71740,LW,5,130,1.0,1.0,click at end,3.0,background
+p71740,LW,10,118,1.0,1.0,clicks near middle; slight hum throughout,3.0,background
+p71740,LW,13,25,1.0,1.0,slight hum at end,2.0,background
+p71740,LW,15,10,1.0,1.0,slight hum throughout; slight clicks near middle,3.0,background
+p71740,LW,16,99999,1.0,1.0,click near beginning; slight hum near end,3.0,background
+p71740,LW,17,90,1.0,1.0,click near middle,3.0,background
+p71740,LW,20,170,1.0,1.0,scrape near middle,3.0,foreground
+p71740,LW,23,88,1.0,1.0,click near end,3.0,background
+p71740,LW,27,159,1.0,1.0,slight hum at end,2.0,background
+p71740,LW,31,99999,1.0,1.0,static at end,3.0,foreground
+p71740,LW,32,37,1.0,1.0,hum at end,3.0,background
+p71740,LW,34,100,1.0,1.0,hum throughout,3.0,background
+p71740,LW,35,91,1.0,1.0,static at end,3.0,foreground
+p71740,LW,37,124,1.0,1.0,slight airy noise at end; no pain rating given so copied down rather than up,2.0,foreground
+p71740,LW,38,5,1.0,1.0,slight airy noise at end; no pain rating given so copied down rather than up,2.0,foreground
+p71740,RC,1,120,6.0,6.0,slight click near middle,2.0,background
+p71740,RC,3,41,6.0,6.0,slight click near end,2.0,background
+p71740,RC,4,72,6.0,6.0,click at end,3.0,background
+p71740,RC,5,2,6.0,6.0,click at end,3.0,background
+p71740,RC,10,186,8.0,8.0,static at end,3.0,foreground
+p71740,RC,15,80,9.0,9.0,sharp airy noise at end,3.0,foreground
+p71740,RC,18,160,10.0,10.0,"mistakenly says ""and light"", then corrects to ""and of light""; loud click at end",4.0,background
+p71740,RC,21,99999,10.0,10.0,short static at end,2.0,foreground
+p71740,RC,24,156,10.0,10.0,slight click near beginning,2.0,background
+p71740,RC,26,99999,10.0,10.0,click at end,3.0,background
+p71740,RC,28,170,10.0,10.0,slight airy noise near middle,2.0,foreground
+p71740,RC,35,53,10.0,10.0,slight scrape near beginning and at end,2.0,foreground
+p71740,RC,39,94,9.0,9.0,scrape at end,3.0,foreground
+p71740,RC,40,67,9.0,9.0,scrape at end,3.0,foreground
+p71740,RC,41,99999,9.0,9.0,scrape at end,3.0,foreground
+p71740,RW,2,145,1.0,1.0,click at end,3.0,background
+p71740,RW,13,148,1.0,1.0,"first part of sentence cut out (The s-""); hum at end",3.0,background
+p71740,RW,26,99999,1.0,1.0,slight click at end,2.0,background
+p72315,LC,2,79,5.0,5.0,"first word ""The"" cut out; slight click at end",2.0,background
+p72315,LC,5,9,5.0,5.0,click at end,3.0,background
+p72315,LC,7,56,6.0,6.0,slight clicks at end,2.0,background
+p72315,LC,9,65,6.0,6.0,click in middle and end,3.0,background
+p72315,LC,10,67,6.0,6.0,slight clicks at end,2.0,background
+p72315,LC,11,99999,6.0,6.0,slight click near beginning and end,2.0,background
+p72315,LC,12,14,7.0,7.0,slight clicks near middle,2.0,background
+p72315,LC,13,80,7.0,7.0,"first word ""The"" cut out; click in middle; slight click at end",3.0,background
+p72315,LC,14,21,7.0,7.0,"first word ""The"" cut out; clicks throughout",3.0,background
+p72315,LC,15,171,7.0,7.0,"first part of first word cut out (""S"" in ""Steam""); slight click near middle",2.0,background
+p72315,LC,16,99999,7.0,7.0,"first part of sentence cut out (""On a s-""); click near middle and end",3.0,background
+p72315,LC,17,140,6.0,6.0,click at end,3.0,background
+p72315,LC,19,170,6.0,6.0,click near end,3.0,background
+p72315,LC,21,99999,6.0,6.0,slight click in middle,2.0,background
+p72315,LC,22,162,6.0,6.0,low hum at end,2.0,background
+p72315,LC,24,48,6.0,6.0,click at end,3.0,background
+p72315,LC,26,99999,6.0,6.0,slight click near middle and end,2.0,background
+p72315,LC,27,111,6.0,6.0,slight click near middle,2.0,background
+p72315,LC,28,63,6.0,6.0,click at end,3.0,background
+p72315,LC,29,184,6.0,6.0,click in middle,3.0,background
+p72315,LC,34,178,6.0,6.0,slight clicks near middle,2.0,background
+p72315,LC,36,99999,6.0,6.0,slight click near middle,2.0,background
+p72315,LC,37,44,6.0,6.0,"first word ""The"" cut out; slight click at end; no pain rating given so copied down rather than up",2.0,background
+p72315,LC,38,161,6.0,6.0,"last part of sentence cut out (""of the wide chair""); click at end; no pain rating given so copied down rather than up",3.0,background
+p72315,LW,10,44,2.0,2.0,slight click near middle,2.0,background
+p72315,LW,20,185,2.0,2.0,click at end,3.0,background
+p72315,LW,27,159,2.0,2.0,clicks near middle,3.0,background
+p72315,RC,2,46,4.0,4.0,slight click near end,2.0,background
+p72315,RC,4,3,4.0,4.0,slight click near end,2.0,background
+p72315,RC,5,100,4.0,4.0,slight click near end,2.0,background
+p72315,RC,9,8,5.0,5.0,slight click near end,2.0,background
+p72315,RC,12,54,5.0,5.0,click at end,3.0,background
+p72315,RC,14,52,5.0,5.0,slight click near end,2.0,background
+p72315,RC,17,27,6.0,6.0,slight shuffle near middle,2.0,foreground
+p72315,RC,21,99999,6.0,6.0,clicks near end,3.0,background
+p72315,RC,22,160,6.0,6.0,click at end,3.0,background
+p72315,RC,24,166,6.0,6.0,click at end,3.0,background
+p72315,RC,25,111,6.0,6.0,click at end,3.0,background
+p72315,RC,29,115,6.0,6.0,click at end,3.0,background
+p72315,RW,1,117,2.0,2.0,slight click near beginning,2.0,background
+p72315,RW,8,6,2.0,2.0,slight click at end,2.0,background
+p72315,RW,14,62,2.0,2.0,click at end,3.0,background
+p72315,RW,22,30,2.0,2.0,slight click at end,2.0,background
+p72315,RW,30,11,2.0,2.0,slight click at end,2.0,background
+p72315,RW,33,160,2.0,2.0,"first word ""The"" cut out; click at end",3.0,background
+p72315,RW,35,72,2.0,2.0,"first word ""The"" cut out; click at end",3.0,background
+p74405,LC,7,43,4.0,4.0,click at end,3.0,background
+p74405,LC,11,99999,4.0,4.0,slight static at end,2.0,foreground
+p74405,LC,16,99999,4.0,4.0,slight scrape at end,2.0,foreground
+p74405,LC,17,187,4.0,4.0,click at end,3.0,background
+p74405,LC,24,106,3.0,3.0,static at end,3.0,foreground
+p74405,LW,30,148,0.0,1.0,click at end,3.0,background
+p74405,RC,19,179,4.0,4.0,click in middle,3.0,background
+p74405,RC,38,106,5.0,5.0,static at end; no pain rating given so copied down rather than up,3.0,foreground
+p74405,RC,39,1,5.0,5.0,slight scrape at end; no pain rating given so copied down rather than up,2.0,foreground
+p74405,RW,7,16,0.0,1.0,scrape at end,3.0,foreground
+p74405,RW,8,86,0.0,1.0,slight sharp airy noise at end,2.0,foreground
+p74405,RW,15,49,0.0,1.0,static in middle,3.0,foreground
+p74405,RW,17,52,0.0,1.0,static near middle,3.0,foreground
+p74405,RW,18,186,0.0,1.0,slight click near middle,2.0,background
+p74405,RW,27,119,0.0,1.0,static near beginning,3.0,foreground
+p74405,RW,31,99999,0.0,1.0,click at beginning,3.0,background
+p77220,LC,14,179,8.0,8.0,static at end; no pain rating given so copied down rather than up,3.0,foreground
+p77220,LW,1,149,2.0,2.0,click at end,3.0,background
+p77220,LW,6,99999,2.0,2.0,click at end,3.0,background
+p77220,LW,9,89,2.0,2.0,click at end,3.0,background
+p77220,LW,13,60,3.0,3.0,slight buzz at end,2.0,background
+p77220,LW,18,138,4.0,4.0,click at end,3.0,background
+p77220,LW,22,99,4.0,4.0,"first part of sentence cut out (""Ten pins""); click in middle",3.0,background
+p77220,LW,23,95,4.0,4.0,"stutters on word ""seems""; click at end",3.0,background
+p77220,LW,24,158,4.0,4.0,slight scrape at end,2.0,foreground
+p77220,LW,29,71,5.0,5.0,"stutters on word ""around""; click at end",3.0,background
+p77220,LW,34,154,5.0,5.0,clicks at end,3.0,background
+p77220,RC,2,20,7.0,7.0,slight high-pitch hum at end,2.0,background
+p77220,RC,4,23,7.0,7.0,slight high-pitch hum at end,2.0,background
+p77220,RC,6,99999,7.0,7.0,slight high-pitch hum at end,2.0,background
+p77220,RC,13,56,9.0,9.0,loud water noise near end; audible exhale at end; no pain rating given so copied down rather than up,4.0,foreground
+p77220,RW,10,33,2.0,2.0,click at end,3.0,background
+p77220,RW,11,99999,2.0,2.0,click at end,3.0,background
+p77220,RW,15,75,3.0,3.0,slight click at end,2.0,background
+p77220,RW,18,2,4.0,4.0,click at end,3.0,background
+p77220,RW,19,149,4.0,4.0,click at end,3.0,background
+p77220,RW,20,10,4.0,4.0,slight click at end,2.0,background
+p77220,RW,28,160,4.0,4.0,click at end,3.0,background
+p77220,RW,32,100,4.0,4.0,click at end,3.0,background
+p77220,RW,33,76,4.0,4.0,click at end,3.0,background
+p77220,RW,35,61,4.0,4.0,click near beginning,3.0,background
+p77220,RW,36,99999,4.0,4.0,click at end,3.0,background
+p77220,RW,37,148,4.0,4.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p77220,RW,38,62,4.0,4.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p77560,LC,6,99999,3.0,3.0,slight shuffling near middle and end; slight click at end,2.0,foreground and background
+p77560,LC,8,68,4.0,4.0,slight shuffle at end,2.0,foreground
+p77560,LC,13,122,4.0,4.0,click near end,3.0,background
+p77560,LC,18,127,5.0,5.0,hum noise at end,3.0,background
+p77560,LC,19,32,5.0,5.0,click at end,3.0,background
+p77560,LC,20,74,5.0,5.0,click at end,3.0,background
+p77560,LC,23,176,6.0,6.0,click at end,3.0,background
+p77560,LC,24,54,6.0,6.0,"stutters on word ""flop""; click at end",3.0,background
+p77560,LC,31,99999,6.0,6.0,slight click at end,2.0,background
+p77560,LC,35,35,6.0,6.0,click at end,3.0,background
+p77560,LW,6,99999,1.0,1.0,slight static at end,2.0,foreground
+p77560,LW,8,51,1.0,1.0,click at end,3.0,background
+p77560,LW,12,62,1.0,1.0,click and hum at end,3.0,background
+p77560,LW,19,182,2.0,2.0,click at end,3.0,background
+p77560,LW,20,33,2.0,2.0,"says ""Note closely the"" twice; click at end",3.0,background
+p77560,LW,22,54,2.0,2.0,click at end,3.0,background
+p77560,LW,25,25,2.0,2.0,slight scrape at end,2.0,foreground
+p77560,LW,26,99999,2.0,2.0,slight scrape at end,2.0,foreground
+p77560,LW,27,129,2.0,2.0,click near end,3.0,background
+p77560,LW,28,89,2.0,2.0,"says ""right"" instead of ""tight""; click at end",3.0,background
+p77560,LW,32,152,2.0,2.0,click at end,3.0,background
+p77560,LW,33,175,2.0,2.0,static at end,3.0,foreground
+p77560,LW,35,120,2.0,2.0,slight airy noise at end,2.0,foreground
+p77560,RC,3,50,3.0,3.0,shuffle in middle; click/buzz at end,3.0,foreground and background
+p77560,RC,6,99999,3.0,3.0,static at end,3.0,foreground
+p77560,RC,9,14,4.0,4.0,click near end,3.0,background
+p77560,RC,15,2,4.0,4.0,slight click at end,2.0,background
+p77560,RC,18,115,5.0,5.0,click at end,3.0,background
+p77560,RC,19,65,5.0,5.0,click at end,3.0,background
+p77560,RC,22,121,6.0,6.0,scrape at end,3.0,foreground
+p77560,RC,23,47,6.0,6.0,scrape at end,3.0,foreground
+p77560,RC,25,66,6.0,6.0,airy noise at end,3.0,foreground
+p77560,RC,27,86,6.0,6.0,airy noise at end,3.0,foreground
+p77560,RC,29,38,6.0,6.0,slight click at beginning; slight static at end,2.0,foreground and background
+p77560,RC,30,56,6.0,6.0,"stutters on word ""moved""; slight static at end",2.0,foreground
+p77560,RC,34,92,6.0,6.0,scrape at end,3.0,foreground
+p77560,RW,4,111,1.0,1.0,click at end,3.0,background
+p77560,RW,6,99999,1.0,1.0,slight click at end,2.0,background
+p77560,RW,7,180,1.0,1.0,click at end,3.0,background
+p77560,RW,12,173,2.0,2.0,slight click at end,2.0,background
+p77560,RW,15,68,2.0,2.0,click near beginning,3.0,background
+p77560,RW,16,99999,2.0,2.0,crunch at end,3.0,foreground
+p77560,RW,17,145,2.0,2.0,click at end,3.0,background
+p77560,RW,18,165,2.0,2.0,crunch at end,3.0,foreground
+p77560,RW,23,74,2.0,2.0,click at end,3.0,background
+p77560,RW,25,77,2.0,2.0,slight click at end,2.0,background
+p77560,RW,28,19,3.0,3.0,"misses word ""from"" after ""across""; click at end",3.0,background
+p77560,RW,31,99999,3.0,3.0,rumbling at end,3.0,background
+p79550,LC,3,164,4.0,4.0,slight click at end,2.0,background
+p79550,LC,5,89,4.0,4.0,airy noise at end,3.0,foreground
+p79550,LC,12,107,7.0,7.0,click at end,3.0,background
+p79550,LW,4,150,0.0,1.0,buzz at end,3.0,background
+p79550,LW,8,89,1.0,1.0,airy noise at end,3.0,foreground
+p79550,LW,16,99999,1.0,1.0,slight click at end,2.0,background
+p79550,LW,30,120,1.0,1.0,slight click at end,2.0,background
+p79550,LW,34,30,1.0,1.0,scrape at end; no pain rating given so copied down rather than up,3.0,foreground
+p79550,RC,1,71,4.0,4.0,loud knock near middle,4.0,background
+p79550,RC,12,47,6.0,6.0,short ring/buzz at end,2.0,background
+p79550,RC,34,83,7.0,7.0,airy noise at end; no pain rating given so copied down rather than up,3.0,foreground
+p79550,RW,7,108,1.0,1.0,slight click at end,2.0,background
+p79665,LC,1,156,4.0,4.0,slight clicks near beginning and end,2.0,background
+p79665,LC,2,67,4.0,4.0,slight click at end,2.0,background
+p79665,LC,17,163,5.0,5.0,slight click at end,2.0,background
+p79665,LC,18,49,5.0,5.0,"first word ""The"" cut out; clicks near middle and end",3.0,background
+p79665,LC,20,184,5.0,5.0,"first word ""The"" cut out; slight click at end",2.0,background
+p79665,LC,23,181,6.0,6.0,slight click near end,2.0,background
+p79665,LC,24,83,6.0,6.0,slight click near beginning,2.0,background
+p79665,LC,29,158,6.0,6.0,click at end,3.0,background
+p79665,LC,33,29,6.0,6.0,slight click at end; no pain rating given so copied down rather than up,2.0,background
+p79665,LW,2,148,1.0,1.0,"last part of last word cut out (""k"" in ""ink""); click at end",3.0,background
+p79665,LW,7,157,1.0,1.0,"first word ""The"" cut out; stutters on word ""seized""; click at end",3.0,background
+p79665,LW,8,22,1.0,1.0,"first word ""The"" cut out; click at end",3.0,background
+p79665,LW,10,102,1.0,1.0,click near end,3.0,background
+p79665,LW,14,33,1.0,1.0,click at end,3.0,background
+p79665,LW,22,28,1.0,1.0,slight click near end,2.0,background
+p79665,LW,23,40,1.0,1.0,slight click near end,2.0,background
+p79665,RC,2,4,6.0,6.0,airy noise at end,3.0,foreground
+p79665,RC,12,171,7.0,7.0,click near middle,3.0,background
+p79665,RC,13,32,7.0,7.0,"pronounces ""winding"" like ""wind-ing""; click at end",3.0,background
+p79665,RC,28,36,6.0,6.0,slight click at end,2.0,background
+p79665,RC,29,183,6.0,6.0,slight click at end,2.0,background
+p79665,RC,32,40,6.0,6.0,click near middle; no pain rating given so copied down rather than up,3.0,background
+p79665,RW,3,17,1.0,1.0,click at end,3.0,background
+p79665,RW,7,170,1.0,1.0,slight click at end,2.0,background
+p79665,RW,8,119,1.0,1.0,slight click at end,2.0,background
+p79665,RW,9,97,1.0,1.0,slight click in middle and end,2.0,background
+p79665,RW,12,114,1.0,1.0,slight click at end,2.0,background
+p79665,RW,14,160,1.0,1.0,click at end,3.0,background
+p79665,RW,20,64,1.0,1.0,"first word ""The"" cut out; slight click near middle",2.0,background
+p79665,RW,22,124,1.0,1.0,click near beginning,3.0,background
+p79665,RW,32,22,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p79665,RW,33,187,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p80330,LC,7,34,2.0,2.0,slight click at end,2.0,background
+p80330,LC,22,79,4.0,4.0,click at end,3.0,background
+p80330,LC,34,180,4.0,4.0,click at end,3.0,background
+p80330,LW,11,99999,1.0,1.0,click near end,3.0,background
+p80330,LW,13,68,1.0,1.0,click at end,3.0,background
+p80330,LW,21,99999,1.0,1.0,click near middle,3.0,background
+p80330,LW,22,72,1.0,1.0,click at end,3.0,background
+p80330,LW,31,99999,1.0,1.0,click in middle,3.0,background
+p80330,LW,37,160,1.0,1.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p80330,LW,40,26,1.0,1.0,"stutters on word ""fish""; click at end; no pain rating given so copied down rather than up",3.0,background
+p80330,RC,3,56,3.0,3.0,click near middle and end,3.0,background
+p80330,RC,7,32,5.0,5.0,slight shuffling near beginning; click at end,3.0,foreground and background
+p80330,RC,8,185,5.0,5.0,"click at beginning and end; pronounces ""fright"" like ""fried""",3.0,background
+p80330,RC,10,39,5.0,5.0,click near middle and end,3.0,background
+p80330,RC,15,6,4.0,4.0,scrape at end,3.0,foreground
+p80330,RC,23,147,3.0,3.0,slight click at end,2.0,background
+p80330,RC,25,141,3.0,3.0,slight click near middle and end,2.0,background
+p80330,RC,26,99999,3.0,3.0,slight click near beginning and middle,2.0,background
+p80330,RC,30,61,4.0,4.0,click near beginning and end,3.0,background
+p80330,RC,31,99999,4.0,4.0,scrape near middle,3.0,foreground
+p80330,RC,33,7,4.0,4.0,"pronounces ""truck"" like ""trunk""; click at end",3.0,background
+p80330,RC,34,172,4.0,4.0,click at end,3.0,background
+p80330,RC,37,90,3.0,3.0,click at end,3.0,background
+p80330,RC,38,54,3.0,3.0,static at end,3.0,foreground
+p80330,RC,39,104,3.0,3.0,click at end,3.0,background
+p80330,RW,3,83,1.0,1.0,scrape in middle; slight static at end,3.0,foreground
+p80330,RW,4,26,1.0,1.0,click at end,3.0,background
+p80330,RW,6,99999,1.0,1.0,clicks near end,3.0,background
+p80330,RW,7,21,1.0,1.0,click at end,3.0,background
+p80330,RW,10,102,1.0,1.0,"mistakenly says ""hate each hate each other"", then starts to correct , saying ""hate the"", then audio cuts out; static at end",3.0,foreground
+p80330,RW,13,127,1.0,1.0,slight click at end,2.0,background
+p80330,RW,14,105,1.0,1.0,click near middle,3.0,background
+p80330,RW,15,100,1.0,1.0,click at end,3.0,background
+p80330,RW,22,160,1.0,1.0,"first word ""The"" cut out; click at end",3.0,background
+p80330,RW,23,172,1.0,1.0,click at end,3.0,background
+p80330,RW,30,118,1.0,1.0,"adds word ""the"" in between ""in"" and ""parts""; static at end",3.0,foreground
+p80330,RW,33,93,1.0,1.0,click at end,3.0,background
+p86910,LC,2,57,7.0,7.0,clicks at end,3.0,background
+p86910,LC,5,179,7.0,7.0,"crinkling at beginning; says ""um"" after word ""when""; shuffling near end; audible exhale at end",3.0,foreground
+p86910,LC,6,99999,7.0,7.0,slight crinkling noise near end; background voice at end,3.0,foreground and background
+p86910,LC,8,39,8.0,8.0,click at beginning; slight click at end; audible exhale at end,3.0,background
+p86910,LC,9,142,8.0,8.0,click in middle and end,3.0,background
+p86910,LC,10,137,8.0,8.0,"first half of sentence cut out (""Write a fond note""); click at end; audible exhale at end",3.0,background
+p86910,LC,11,99999,8.0,8.0,click at end; audible exhale at end,3.0,background
+p86910,LC,12,35,9.0,9.0,scrape at end,3.0,foreground
+p86910,LC,13,21,9.0,9.0,"first part of sentence cut out (""The small pup"");  starts sentence with ""uh""; adds word ""on"" after ""gnawed""; says ""um"" after word ""hole""; click at end",3.0,background
+p86910,LC,14,169,9.0,9.0,click at end; audible exhale at end,3.0,background
+p86910,LC,15,60,9.0,9.0,click at end; audible exhale at end,3.0,background
+p86910,LC,16,99999,9.0,9.0,click at end,3.0,background
+p86910,LW,1,106,1.0,1.0,click at end,3.0,background
+p86910,LW,3,143,1.0,1.0,slight click at end,2.0,background
+p86910,LW,4,157,1.0,1.0,"says ""eh"" before word ""crew""; misses word ""the"" before word ""lost"";  click at end",3.0,background
+p86910,LW,5,26,1.0,1.0,"pronounces ""blue"" like ""woo""; click at end",3.0,background
+p86910,LW,7,29,1.0,1.0,"stumbles heavily after word ""hailed""; scraping at end",3.0,foreground
+p86910,LW,12,134,1.0,1.0,click near middle,3.0,background
+p86910,LW,14,149,1.0,1.0,"says ""on the front"" twice, seperated by an ""um""; slight click at end",2.0,background
+p86910,LW,15,168,1.0,1.0,"says ""a"" instead of ""the""; click near end",3.0,background
+p86910,LW,17,124,1.0,1.0,slight click at end,2.0,background
+p86910,LW,18,121,1.0,1.0,slight click at end,2.0,background
+p86910,LW,19,101,1.0,1.0,slight click at end,2.0,background
+p86910,LW,22,36,1.0,1.0,slight click at end,2.0,background
+p86910,LW,23,182,1.0,1.0,slight click at end,2.0,background
+p86910,LW,24,185,1.0,1.0,slight clicks throughout,3.0,background
+p86910,LW,25,23,1.0,1.0,"says ""uh"" after word ""and"", pronounces ""sew"" like ""sue""; slight click at end",2.0,background
+p86910,LW,29,161,1.0,1.0,"says ""um"" before word ""back""; slight click at end",2.0,background
+p86910,LW,31,99999,1.0,1.0,click near end,3.0,background
+p86910,LW,32,144,1.0,1.0,click and scrape at end; no pain rating given so copied down rather than up,3.0,foreground and background
+p86910,LW,33,128,1.0,1.0,"majority of sentence cut out (""The wharf could be seen at""); click at end; no pain rating given so copied down rather than up",3.0,background
+p86910,LW,34,80,1.0,1.0,"says ""slice"" instead of ""slices""; click at end; no pain rating given so copied down rather than up",3.0,background
+p86910,RC,1,54,4.0,4.0,click in middle; airy noise at end,3.0,foreground and background
+p86910,RC,3,1,4.0,4.0,"first word ""The"" cut out; pronounces ""slid"" like ""slide""; click in middle",3.0,background
+p86910,RC,4,32,4.0,4.0,"pronounces ""winding"" like ""wind-ing""; static at end",3.0,foreground
+p86910,RC,5,103,4.0,4.0,"first word ""The"" cut out; click near middle and end; buzz at end",3.0,background
+p86910,RC,6,99999,4.0,4.0,clicks near end,3.0,background
+p86910,RC,7,71,5.0,5.0,"pronounces ""yacht"" like ""yatch; says ""um"" after ""slid""; click at end",3.0,background
+p86910,RC,8,65,5.0,5.0,click at end; slight airy noise at end,3.0,foreground and background
+p86910,RC,9,186,5.0,5.0,slight clicks at end,2.0,background
+p86910,RC,10,146,5.0,5.0,"pronounces ""poodles"" like ""puddles"" and ""curls"" like ""cures""; slight click near end",2.0,background
+p86910,RC,11,99999,5.0,5.0,clicks at throughout,3.0,background
+p86910,RC,12,26,6.0,6.0,"slight whir near beginning; stutters before word ""tank""; clicks at end",3.0,background
+p86910,RC,13,21,6.0,6.0,"first part of sentence cut out (""The small pup""); says ""um"" before ""gnawed""; pronounces ""gnawed"" like ""g-nowed""; adds word ""in"" after ""gnawed""; says ""um"" after ""hole""; stutters on word ""sock"", then corrects by repeating phrase ""in the sock""; clicks at end",3.0,background
+p86910,RC,14,74,6.0,6.0,"audible exhale after word ""The""; click at end",3.0,background
+p86910,RC,15,36,6.0,6.0,clicks near middle and end,3.0,background
+p86910,RC,16,99999,6.0,6.0,click near middle and end,3.0,background
+p86910,RC,17,85,8.0,8.0,airy noise at end,3.0,foreground
+p86910,RC,18,58,8.0,8.0,slight click at end,2.0,background
+p86910,RC,19,133,8.0,8.0,"pronounces ""pluck"" like ""plunk""; airy noise and click at end",3.0,foreground and background
+p86910,RC,20,132,8.0,8.0,click at beginning; click and slight whir at end,3.0,background
+p86910,RC,21,99999,8.0,8.0,click near middle and end,3.0,background
+p86910,RC,22,167,8.0,8.0,"majority of sentence cut out (""The office paint was a dull, sad tan""); click",3.0,background
+p86910,RC,23,99,8.0,8.0,clicks throughout,3.0,background
+p86910,RC,24,6,8.0,8.0,"stutters on word ""makes""; clicks throughout",3.0,background
+p86910,RC,25,155,8.0,8.0,slight click at end; audible exhale at end,2.0,background
+p86910,RC,26,99999,8.0,8.0,click near middle and end,3.0,background
+p86910,RC,27,3,7.0,7.0,"says ""um"" after ""tell""; stutters heavily on ""of a""; click near middle and end; airy noise at end",3.0,foreground and background
+p86910,RC,28,185,7.0,7.0,click in middle and end,3.0,background
+p86910,RC,29,19,7.0,7.0,"first part of sentence cut out (""The s-""); click near middle and end; audible exhale at end",3.0,background
+p86910,RC,30,83,7.0,7.0,click near middle and end; airy nosie at end,3.0,foreground and background
+p86910,RC,31,99999,7.0,7.0,clicks throughout,3.0,background
+p86910,RC,32,173,7.0,7.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p86910,RC,33,135,7.0,7.0,"mistakenly says ""sweat girl"", then corrects to ""sweet girl""; clicks at end; no pain rating given so copied down rather than up",3.0,background
+p86910,RC,34,168,7.0,7.0,"begins sentence with ""He knew he um s-""; says ""a"" instead of ""the""; clicks near beginning and end; no pain rating given so copied down rather than up",3.0,background
+p86910,RC,35,15,7.0,7.0,click at end; no pain rating given so copied down rather than up,3.0,background
+p86910,RW,1,39,1.0,1.0,click near beginning; sharp hum at end,3.0,background
+p86910,RW,2,65,1.0,1.0,"mjority of sentence cut out; (""A small creek cut across""); pronounces ""field"" like ""filled""; clicks",3.0,background
+p86910,RW,3,186,1.0,1.0,click near end,3.0,background
+p86910,RW,4,5,1.0,1.0,"stutters on word ""bowls""; click at end",3.0,background
+p86910,RW,5,76,1.0,1.0,click at end,3.0,background
+p86910,RW,6,99999,1.0,1.0,"stutters after word ""feel""; clicks near end",3.0,background
+p86910,RW,7,127,1.0,1.0,"first word ""It"" cut out; pronounces ""hind"" like ""heend""; misses word ""a"" before ""rusty""; click at end",3.0,background
+p86910,RW,8,16,1.0,1.0,click at end; slight airy noise at end,3.0,foreground and background
+p86910,RW,13,132,1.0,1.0,click at end,3.0,background
+p86910,RW,14,11,1.0,1.0,slight click at end,2.0,background
+p86910,RW,15,137,1.0,1.0,"begins sentence with ""Write a fo- um""; slight click at end",2.0,background
+p86910,RW,16,99999,1.0,1.0,slight clicks near end,2.0,background
+p86910,RW,17,139,1.0,1.0,slight click at end,2.0,background
+p86910,RW,18,172,1.0,1.0,slight click at end,2.0,background
+p86910,RW,21,99999,1.0,1.0,slight click at end,2.0,background
+p86910,RW,22,35,1.0,1.0,"says ""um"" after ""coat""; slight airy noise at end",2.0,foreground
+p86910,RW,25,165,1.0,1.0,"says ""start"" twice, interrupted by an ""um""; slight click near end",2.0,background
+p86910,RW,26,99999,1.0,1.0,clicks near middle,3.0,background
+p86910,RW,27,68,1.0,1.0,"mistakenly says ""session"", then corrects to ""season""; slight click at end",2.0,background
+p86910,RW,28,9,1.0,1.0,click at end,3.0,background
+p86910,RW,29,112,1.0,1.0,click at end,3.0,background
+p86910,RW,30,159,1.0,1.0,"pronounces ""sewed"" like ""sued""; slight click near middle;  mistakenly says ""nicely"" then correccts to ""neatly""",2.0,background
+p86910,RW,31,99999,1.0,1.0,slight click at end,2.0,background
+p86910,RW,32,75,1.0,1.0,slight click at end; no pain rating given so copied down rather than up,2.0,background
+p86910,RW,33,109,1.0,1.0,"begins sentence with ""The hog craw- uh""; click at end; no pain rating given so copied down rather than up",4.0,background
+p86910,RW,34,81,1.0,1.0,slight click at end; no pain rating given so copied down rather than up,2.0,background
+p88575,LC,7,56,9.0,9.0,static at end,3.0,foreground
+p88575,LC,15,128,9.0,9.0,distant click at end,3.0,background
+p88575,LC,16,99999,9.0,9.0,slight click near middle,2.0,background
+p88575,LC,17,185,9.0,9.0,click at end,3.0,background
+p88575,LC,18,97,9.0,9.0,click near middle; static at end,3.0,foreground and background
+p88575,LC,19,99,9.0,9.0,static at end,3.0,foreground
+p88575,LC,22,131,9.0,9.0,static at end,3.0,foreground
+p88575,LC,23,24,9.0,9.0,click at end,3.0,background
+p88575,LC,25,132,9.0,9.0,static at end,3.0,foreground
+p88575,LC,28,7,8.0,8.0,click near middle,3.0,background
+p88575,LC,32,22,7.0,7.0,click at end,3.0,background
+p88575,LC,34,69,7.0,7.0,scrape at end,3.0,foreground
+p88575,LC,40,152,7.0,7.0,"first word ""A"" cut out; click at end",3.0,background
+p88575,LW,10,117,1.0,1.0,click at end,3.0,background
+p88575,LW,25,182,1.0,1.0,"says ""mm"" before ""fun""; slight click at end",2.0,background
+p88575,LW,28,157,1.0,1.0,click at end,3.0,background
+p88575,LW,29,43,1.0,1.0,click at end,3.0,background
+p88575,LW,32,173,1.0,1.0,slight click at end,2.0,background
+p88575,RC,3,91,4.0,4.0,slight click at end,2.0,background
+p88575,RC,4,16,4.0,4.0,slight click at end,2.0,background
+p88575,RC,10,32,8.0,8.0,click at end,3.0,background
+p88575,RC,13,18,9.0,9.0,click near beginning,3.0,background
+p88575,RC,15,77,9.0,9.0,click at end,3.0,background
+p88575,RC,25,3,9.0,9.0,clicks at end,3.0,background
+p88575,RC,26,99999,9.0,9.0,slight short scrape at end,2.0,foreground
+p88575,RC,29,182,8.0,8.0,click at end,3.0,background
+p88575,RC,37,81,8.0,8.0,slight click at end,2.0,background
+p88575,RC,38,65,8.0,8.0,click at end,3.0,background
+p88575,RC,39,54,8.0,8.0,click at end,3.0,background
+p88575,RW,3,180,1.0,1.0,click at end,3.0,background
+p88575,RW,9,82,1.0,1.0,airy noise at end,3.0,foreground
+p88575,RW,14,65,1.0,1.0,click at end,3.0,background
+p88575,RW,26,99999,1.0,1.0,click at end,3.0,background
+p88775,LC,8,149,7.0,7.0,"says ""oh"" at end; obvious water noise at end; no pain rating given so copied down rather than up",4.0,foreground
+p88775,LW,1,31,3.0,3.0,scraping at end,3.0,foreground
+p88775,LW,4,182,3.0,3.0,"first half of sentence cut out (""Fairy tales should""); slight click at end",2.0,background
+p88775,LW,8,54,3.0,3.0,shuffling in middle to end; slight click at end,3.0,foreground and background
+p88775,LW,9,173,3.0,3.0,shuffling at beginning,3.0,foreground
+p88775,LW,10,141,3.0,3.0,buzz in middle,3.0,background
+p88775,LW,24,149,2.0,2.0,click at beginning and end,3.0,background
+p88775,LW,33,185,2.0,2.0,slight click at end,2.0,background
+p88775,LW,38,35,2.0,2.0,shuffling in middle; hum at end,3.0,foreground and background
+p88775,RC,5,80,6.0,6.0,"stutters on word ""fruit""; shuffle near middle; mistakenly says ""thin"", then corrects to ""thick""",3.0,foreground
+p88775,RC,8,150,6.0,6.0,"whispers ""ow sorry"" at end; obvious water noise at end; no pain rating given so copied down rather than up",4.0,foreground
+p88775,RW,12,172,2.0,2.0,"stutters on word ""the"" and ""dog""; click at end",3.0,background
+p88775,RW,15,138,2.0,2.0,"pronounces ""clothes"" like ""clothe""; adds word ""the"" before ""lodging""; clatter at end",3.0,background
+p88775,RW,17,49,3.0,3.0,static in middle,3.0,foreground
+p88775,RW,23,107,2.0,2.0,shuffling at beginning; click near middle,3.0,foreground and background
+p88775,RW,29,41,2.0,2.0,"click near middle and end; mistakenly says ""in ear-"", then corrects to ""in the early""",3.0,background
+p88775,RW,33,69,2.0,2.0,click in middle,3.0,background
+p88775,RW,34,168,2.0,2.0,distant slap near middle,3.0,background
+p91315,LC,4,79,4.0,4.0,"first word ""The"" cut out; slight click at end",2.0,background
+p91315,LC,6,99999,4.0,4.0,loud click at end; static at end,4.0,foreground and background
+p91315,LC,10,146,6.0,6.0,static at end,3.0,foreground
+p91315,LC,12,8,5.0,5.0,static at end,3.0,foreground
+p91315,LC,18,29,4.0,4.0,"stutters word ""and""; slight static at end",2.0,foreground
+p91315,LC,23,87,4.0,4.0,slight static at beginning,2.0,foreground
+p91315,LC,30,9,3.0,3.0,slight static in middle,2.0,foreground
+p91315,LW,2,181,1.0,1.0,slight click near middle,2.0,background
+p91315,LW,3,142,1.0,1.0,"first word ""Guess"" cut out; humming at end",3.0,background
+p91315,LW,6,99999,1.0,1.0,"first part of sentence cut out (""On a s-""); hum at end",3.0,background
+p91315,LW,14,161,1.0,1.0,slight hum at beginning,2.0,background
+p91315,LW,18,11,1.0,1.0,slight hum at end,2.0,background
+p91315,LW,28,90,1.0,1.0,"slight stumble on ""prone""; click at end",3.0,background
+p91315,LW,36,99999,1.0,1.0,click at end,3.0,background
+p91315,RC,8,38,6.0,6.0,static at end,3.0,foreground
+p91315,RC,9,122,6.0,6.0,static at end,3.0,foreground
+p91315,RC,10,152,6.0,6.0,"first word ""A"" cut out; loud water noise at end",4.0,foreground
+p91315,RC,11,99999,6.0,6.0,slight static at end,2.0,foreground
+p91315,RC,12,71,7.0,7.0,scrape at end,3.0,foreground
+p91315,RC,14,123,7.0,7.0,scrape at end,3.0,foreground
+p91315,RC,15,175,7.0,7.0,loud scraping at end,4.0,foreground
+p91315,RC,16,99999,7.0,7.0,click near beginning and end; static near end,3.0,foreground and background
+p91315,RC,17,47,6.0,6.0,loud clicks near middle,4.0,background
+p91315,RC,18,112,6.0,6.0,click in middle,3.0,background
+p91315,RC,21,99999,6.0,6.0,sqeaking near end,3.0,foreground
+p91315,RC,25,101,6.0,6.0,loud scraping near middle,4.0,foreground
+p91315,RC,38,171,5.0,5.0,obvious voice different from speaker's is heard at end; no pain rating given so copied down rather than up,4.0,background
+p91315,RW,5,152,1.0,1.0,"first word ""A"" cut out; click at end",3.0,background
+p91315,RW,14,175,1.0,1.0,slight click at end,2.0,background
+p91315,RW,15,74,1.0,1.0,slight click at end,2.0,background
+p91315,RW,16,99999,1.0,1.0,slight click at end,2.0,background
+p91315,RW,22,31,1.0,1.0,slight click at end,2.0,background
+p93975,LW,17,171,1.0,1.0,slight click at end,2.0,background
+p93975,LW,22,84,1.0,1.0,click at end,3.0,background
+p93975,LW,32,34,1.0,1.0,"first word ""Wipe"" cut out; loud whistle at end",4.0,foreground
+p93975,RC,1,105,6.0,6.0,obvious grunting noise (not by speaker) at end,4.0,background
+p93975,RC,13,188,7.0,7.0,sharp hum at end,3.0,background
+p93975,RC,14,11,7.0,7.0,sharp hum at end,3.0,background
+p93975,RC,27,47,8.0,8.0,static at end,3.0,foreground
+p93975,RC,28,43,8.0,8.0,"first part of first word cut out (""S"" in ""Sickness""); sharp hum at end",3.0,background
+p93975,RC,38,2,8.0,8.0,"pronounces ""background"" like ""blackground""; click at end",3.0,background
+p93975,RW,25,7,1.0,1.0,slight static at end,2.0,foreground
+p93975,RW,32,181,1.0,1.0,slight click near middle and end,2.0,background
+p94215,LC,8,52,4.0,4.0,slight shuffle near end,2.0,foreground
+p94215,LC,9,62,4.0,4.0,shuffling near end,3.0,foreground
+p94215,LC,11,99999,4.0,4.0,slight shuffle near end,2.0,foreground
+p94215,LC,12,49,4.0,4.0,slight click near middle,2.0,background
+p94215,LC,19,100,4.0,4.0,click at end,3.0,background
+p94215,LW,1,53,1.0,1.0,slight click at end,2.0,background
+p94215,LW,3,19,1.0,1.0,slight click near end,2.0,background
+p94215,LW,10,96,1.0,1.0,clatter at end,3.0,background
+p94215,LW,16,99999,1.0,1.0,click near middle,3.0,background
+p94215,LW,18,149,1.0,1.0,hum at end,3.0,background
+p94215,LW,20,115,1.0,1.0,clink at end,3.0,background
+p94215,LW,24,89,1.0,1.0,clink at end,3.0,background
+p94215,LW,36,99999,1.0,1.0,scrape at end,3.0,foreground
+p94215,RC,2,22,2.0,2.0,loud shuffle at end,4.0,foreground
+p94215,RC,8,3,4.0,4.0,shuffling and knock at end,3.0,foreground
+p94215,RC,9,44,4.0,4.0,slight click at end,2.0,background
+p94215,RC,10,33,4.0,4.0,click at end,3.0,background
+p94215,RC,14,172,5.0,5.0,click at end,3.0,background
+p94215,RC,18,7,4.0,4.0,click at end,3.0,background
+p94215,RC,22,176,4.0,4.0,click at end,3.0,background
+p94215,RC,23,43,4.0,4.0,click at end,3.0,background
+p94215,RC,24,173,4.0,4.0,click at end,3.0,background
+p94215,RW,5,56,1.0,1.0,swish at end,3.0,foreground
+p94215,RW,8,72,1.0,1.0,slight click at end,2.0,background
+p94215,RW,9,173,1.0,1.0,slight click at end,2.0,background
+p94215,RW,12,125,1.0,1.0,slight shuffle near beginning,2.0,foreground
+p94215,RW,17,33,1.0,1.0,click at end,3.0,background
+p94215,RW,22,21,1.0,1.0,click at end,3.0,background
+p94215,RW,27,108,1.0,1.0,click at end,3.0,background
+p94215,RW,41,99999,1.0,1.0,"last word of sentence cut out (""[pain rating]""); buzz at end; no pain rating given so copied down rather than up",3.0,background
+p97630,LC,1,166,2.0,2.0,loud scraping at end,4.0,foreground
+p97630,LC,2,188,2.0,2.0,slight click at end,2.0,background
+p97630,LC,7,1,4.0,4.0,click at end; obvious scraping at end,4.0,foreground and background
+p97630,LC,11,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now""); slight click at end",2.0,background
+p97630,LW,6,99999,1.0,1.0,static at end,3.0,foreground
+p97630,LW,13,187,1.0,1.0,slight click at end,2.0,background
+p97630,LW,19,90,1.0,1.0,slight click at end,2.0,background
+p97630,LW,27,188,1.0,1.0,click near middle,3.0,background
+p97630,LW,30,95,1.0,1.0,"first word ""The"" cut out; slight click near middle",2.0,background
+p97630,RC,10,180,4.0,4.0,high-pitch ring near end; slight click at end,3.0,background
+p97630,RC,17,17,4.0,4.0,slight click at end,2.0,background
+p97630,RC,18,152,4.0,4.0,click at end,3.0,background
+p97630,RC,27,165,4.0,4.0,static at end,3.0,foreground
+p97630,RW,3,105,1.0,1.0,slight click at end,2.0,background
+p97630,RW,9,142,1.0,1.0,click at end,3.0,background
+p97630,RW,9,142,1.0,1.0,click at end,3.0,background
+p97630,RW,23,148,1.0,1.0,clicks at end,3.0,background
+p97630,RW,30,113,1.0,1.0,slight click in middle,2.0,background
+p97630,RW,31,99999,1.0,1.0,slight click at end,2.0,background
+p97630,RW,33,112,1.0,1.0,click in middle; no pain rating given so copied down rather than up,3.0,background
+p97630,RW,35,15,1.0,1.0,"first word ""Help"" cut out; slight click at end; no pain rating given so copied down rather than up",2.0,background

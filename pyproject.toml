@@ -1,0 +1,47 @@
+[project]
+name = "silent-patient"
+version = "0.1.0"
+description = "Hackathon demo: pain level estimation from speech/vocal audio using the TAME Pain Dataset."
+readme = "silent_patient/README.md"
+requires-python = ">=3.9"
+license = { text = "PhysioNet Restricted Health Data License 1.5.0 (see LICENSE.txt)" }
+authors = [{ name = "Hackathon" }]
+dependencies = [
+  "numpy>=1.23",
+  "pandas>=2.0",
+  "scikit-learn>=1.3",
+  "torch>=2.1",
+  "torchaudio>=2.1",
+  "librosa>=0.10",
+  "soundfile>=0.12",
+  "matplotlib>=3.7",
+  "streamlit>=1.31",
+  "streamlit-audiorec>=0.1.3",
+  "captum>=0.7.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.4",
+  "ruff>=0.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["silent_patient/tests"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "silent_patient/src"}
+
+[tool.setuptools.packages.find]
+where = ["silent_patient/src"]
+include = ["silent_patient*"]

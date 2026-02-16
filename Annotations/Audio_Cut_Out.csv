@@ -1,0 +1,526 @@
+PID,COND,UTTNUM,UTTID,PAIN LEVEL,REVISED PAIN,NOTES,ACTION LABEL
+p10085,LC,15,111,4.0,4.0,"first word ""The"" cut out",0.0
+p10085,LW,16,99999,1.0,1.0,"first part of sentence cut out (""On a sc-"")",1.0
+p10085,RC,7,115,5.0,5.0,"first word ""Burn"" cut out",0.0
+p10555,LC,2,8,3.0,3.0,"click near end; last word ""garbage"" cut out",3.0
+p10555,LC,15,171,4.0,4.0,"first part of first word cut out (""St"" in ""Steam""); static at end",3.0
+p10555,LC,22,23,3.0,3.0,"first word ""Press"" cut out ",0.0
+p10555,LC,34,82,2.0,2.0,"first part of first word cut out (""S"" in ""See""); click in middle and end",3.0
+p10555,LC,40,156,2.0,2.0,"majority of sentence cut out (""-cils have all been used""); no pain rating given so copied down rather than up",2.0
+p10555,LW,12,127,1.0,1.0,"first word ""It"" cut out; slap-like noise at end",3.0
+p10555,LW,39,84,1.0,1.0,"last word ""droopy"" cut out; no pain rating given so copied down rather than up",0.0
+p10555,RC,16,99999,4.0,4.0,"first part of sentence cut out (""On a s-"")",1.0
+p10555,RC,27,67,3.0,3.0,"first word ""The"" cut out ",0.0
+p10555,RC,30,91,3.0,3.0,"first part of sentence cut out (""The s-""); click at end",3.0
+p10555,RC,35,31,2.0,2.0,"first word ""Hoist"" cut out ",0.0
+p10555,RC,38,82,2.0,2.0,"first part of first word cut out (""S"" in ""See""); stutters the word ""cat""; no pain rating given so copied down rather than up",1.0
+p10555,RC,41,99999,2.0,2.0,"last part of sentence cut out (""I feel right now is X""); no pain rating given so copied down rather than up",1.0
+p10555,RW,34,6,1.0,1.0,"first half of sentence cut out (""The juice of lemons"")",1.0
+p10555,RW,40,157,1.0,1.0,"last half of sentence cut out (""crew of the lost ship""); no pain rating so copied down rather than up",1.0
+p12385,LC,40,12,3.0,3.0,"last half of sentence cut out (""catch pink salmon""); no pain rating given so copied down rather than up",1.0
+p12385,LW,38,86,1.0,1.0,"last part of last word cut out (""st"" in ""post""); no pain rating given so copied down rather than up",0.0
+p12385,RC,39,113,3.0,3.0,"majority of sentence cut out (""waved when the wind blew""); no pain rating given so copied down rather than up",2.0
+p12385,RW,5,148,1.0,1.0,"first word ""The"" cut out; click at end",3.0
+p12460,LC,17,171,7.0,7.0,"first part of first word cut out (""St"" in ""Steam"") ",0.0
+p12460,LC,30,102,8.0,8.0,"first part of sentence cut out (""cats and dogs""); slight stutter after word ""hate""; tap near beginning",3.0
+p12460,RC,42,28,8.0,8.0,"majority of sentence cut out (""and thrw the tall rider""); no pain rating given so copied down rather than up",2.0
+p12460,RW,41,99999,1.0,1.0,"last part of sentence cut out (""now is X""); no pain rating given so copied down rather than up",1.0
+p15965,LC,8,19,7.0,7.0,"first word ""The"" cut out ",0.0
+p15965,LC,28,54,7.0,7.0,"first word ""The"" cut out; missing word ""a"" after ""was""",0.0
+p15965,LC,45,150,7.0,7.0,"first word ""The"" cut out; last part of sentence cut out (""in the desk top""); no pain rating given so copied down rather than up",1.0
+p15965,LW,10,113,3.0,3.0,"first word ""The"" cut out",0.0
+p15965,LW,29,158,2.0,2.0,"first word ""We"" cut out",0.0
+p15965,RW,16,99999,3.0,3.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p18355,LC,3,188,3.0,3.0,"majority of sentence cut out (""There the flood mark is"")",2.0
+p18355,LC,10,81,5.0,5.0,"majority of sentence cut out (""The Navy attacked the big task"")",2.0
+p18355,LC,12,126,5.0,5.0,"first part of sentence cut out (""The s-""); no pain rating given so copied down rather than up",1.0
+p18355,LW,1,113,1.0,1.0,"majority of sentence cut out (""The pennant waved when the"")",2.0
+p18355,LW,8,171,1.0,1.0,"first part of first word cut out (""St"" in ""Steam"")",0.0
+p18355,LW,9,35,1.0,1.0,"first half of sentence cut out (""Mend the coat"")",1.0
+p18355,LW,11,99999,1.0,1.0,"first part of sentence cut out (""On a sc-"")",1.0
+p18355,LW,13,79,1.0,1.0,"first word ""The"" cut out; no pain rating given so copied down rather than up",0.0
+p18355,LW,15,80,1.0,1.0,"majority of sentence cut out (""The fruit peel was cut in""); no pain rating given so copied down rather than up",2.0
+p18355,LW,16,99999,1.0,1.0,"last word of sentence cut out (""[pain rating]""); no pain rating given so copied down rather than up",0.0
+p18355,LW,20,61,1.0,1.0,"first half of sentence cut out (""We talked of the side"")",1.0
+p18355,LW,23,2,1.0,1.0,"last word ""background"" cut out; no pain rating given so copied down rather than up",0.0
+p18355,LW,24,4,1.0,1.0,"first word ""These"" cut out; no pain rating given so copied down rather than up",0.0
+p18355,LW,26,99999,1.0,1.0,"last word cut out (""[pain rating]""); no pain rating given so copied down rather than up",0.0
+p18355,LW,27,19,1.0,1.0,"first word ""The"" cut out; no pain rating given so copied down rather than up",0.0
+p18355,LW,31,99999,1.0,1.0,"last word cut out (""[pain rating]""); buzz at end; no pain rating given so copied down rather than up",3.0
+p18355,LW,34,121,1.0,1.0,"latter half of sentence cut out (""lists of orders""); no pain rating given so copied down rather than up",1.0
+p18355,RC,1,115,3.0,3.0,"majority of sentence cut out (""Burn peat after the"")",2.0
+p18355,RC,6,99999,3.0,3.0,"first part of sentence cut out (""On a sc-"")",1.0
+p18355,RC,11,99999,7.0,7.0,"first part of sentence cut out (""On a sc-"")",1.0
+p18355,RW,2,19,1.0,1.0,"first part cut out (""The salt""); no pain rating given so copied up from p18355.RW.11.14",1.0
+p18355,RW,16,99999,1.0,1.0,"last word cut out (""[pain rating]""); no pain rating given so copied down rather than up",0.0
+p18355,RW,18,133,1.0,1.0,"first half of sentence cut out (""Pluck the bright"")",1.0
+p18355,RW,21,99999,1.0,1.0,"first part of sentence cut out (""On a sc-"")",1.0
+p18355,RW,22,21,1.0,1.0,"first part of sentence cut out (""The small""); pronouces ""pup"" like ""gup""",1.0
+p18355,RW,26,99999,1.0,1.0,"first part of sentence cut out (""On a sc-"")",1.0
+p18355,RW,28,176,1.0,1.0,"first part of first word cut out (""S"" in ""Sunday"") ",0.0
+p18355,RW,29,142,1.0,1.0,"first word ""Guess"" cut out",0.0
+p18355,RW,31,99999,1.0,1.0,"first part of sentence cut out (""On a sc-"")",1.0
+p18355,RW,32,134,1.0,1.0,"first part of sentence cut out (""Two plus s-"")",1.0
+p18785,LC,3,169,5.0,5.0,"majority of sentence cut out (""A rag will soak up spilled"")",2.0
+p18785,LW,4,13,1.0,1.0,"first part of sentence cut out (""The source"")",1.0
+p18785,LW,13,74,1.0,1.0,"majority of sentence cut out (""The walled town was seized"")",2.0
+p18785,LW,14,65,1.0,1.0,"first half of sentence cut out (""A small creek"")",1.0
+p18785,LW,18,111,1.0,1.0,"first word ""The"" cut out",0.0
+p18785,LW,20,109,1.0,1.0,"first half of sentence cut out (""The hog crawled"")",1.0
+p18785,LW,21,99999,1.0,1.0,"first part of sentence cut out (""On a sc-"")",1.0
+p18785,LW,24,152,1.0,1.0,"first part of sentence cut out (""The speedy"")",1.0
+p18785,RC,6,99999,5.0,5.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p18785,RC,7,33,5.0,5.0,"majority of sentence cut out (""Note closely the size of""); no pain rating given so copied down rather than up",2.0
+p18785,RC,8,171,5.0,5.0,"majority of sentence cut out (""Steam hissed from the broken valve""); no pain rating given so copied down rather than up",2.0
+p18785,RC,11,99999,5.0,5.0,"last word cut out (""[pain rating]""); audible inhale at beginning; no pain rating given so copied down rather than up",0.0
+p18785,RC,16,99999,10.0,10.0,"first part of sentence cut out (""On a sc-"")",1.0
+p18785,RW,4,28,1.0,1.0,"majority of sentence cut out (""The colt reared and threw the tall"")",2.0
+p18785,RW,23,172,1.0,1.0,"first word ""The"" cut out",0.0
+p18785,RW,32,113,1.0,1.0,"first word ""The"" cut out; slight airy noise at end; no pain rating given so copied down rather than up",2.0
+p20960,LC,4,107,3.0,3.0,"first word ""The"" cut out",0.0
+p20960,LC,41,99999,7.0,7.0,"majority of sentence cut out (""10 the pain I feel right now is X""); no pain rating given so copied down rather than up",2.0
+p20960,LW,14,174,1.0,1.0,"first word ""The"" cut out",0.0
+p20960,LW,32,130,1.0,1.0,"first word ""The"" cut out",0.0
+p20960,LW,40,141,1.0,1.0,"latter half of sentence cut out (""jumped the rusty gate""); no pain rating given so copied down rather than up",1.0
+p20960,RC,41,99999,7.0,7.0,"majority of sentence cut out (""to 10 the pain I feel right now is X""); no pain rating given so copied down rather than up",2.0
+p20960,RW,27,34,1.0,1.0,"majority of sentence cut out (""Wipe the grease off his"")",2.0
+p21425,LC,1,18,7.0,7.0,"first part of sentence cut out (""The soft"")",1.0
+p21425,LC,3,1,7.0,7.0,"first part of sentence cut out (""The birch""); stutters word ""canoe""; pronounces ""slid"" like ""sleet""",1.0
+p21425,LC,5,175,7.0,7.0,"first half of sentence cut out (""Torn scraps littered')",1.0
+p21425,LC,9,22,8.0,8.0,"first part of sentence cut out (""The fish twisted""); click near beginning and end",3.0
+p21425,LC,10,102,8.0,8.0,"majority of sentence cut out (""Cats and dogs each hate""); click at end",3.0
+p21425,LC,11,99999,8.0,8.0,"first part of sentence cut out (""On a scale of 1-10 the""); click/clash noise at end",3.0
+p21425,LC,18,145,9.0,9.0,"first word ""These"" cut out; pronounces ""thistles"" like ""this those""",1.0
+p21425,LC,26,99999,9.0,9.0,"first part of sentence cut out (""On a scale of 1-10""); slight static in middle",2.0
+p21425,LC,28,90,9.0,9.0,"majority of sentence cut out (""He lay prone and hardly moved""); no pain rating given so copied down rather than up",2.0
+p21425,LC,29,3,9.0,9.0,"majority of sentence cut out (""...easy to tell the depth of a well""); no pain rating given so copied down rather than up",2.0
+p21425,LW,2,171,1.0,1.0,"first word ""Steam"" cut out; slight click at end",2.0
+p21425,LW,4,168,1.0,1.0,"majority of sentence cut out (""He knew the skill of the great young"")",2.0
+p21425,LW,5,127,1.0,1.0,"first part of sentence cut out (""It caught its""); pronounces ""hind"" like ""hide""; slight click at end",2.0
+p21425,LW,11,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p21425,LW,16,99999,1.0,1.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now"")",2.0
+p21425,LW,17,82,1.0,1.0,"first part of sentence cut out (""See the cat"")",1.0
+p21425,LW,20,21,1.0,1.0,"first part of sentence cut out (""The small pup""); pronounces ""gnawed"" like ""nowed""",1.0
+p21425,LW,21,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10 the"")",1.0
+p21425,LW,22,141,1.0,1.0,"majority of sentence cut out (""The young kid jumped"")",2.0
+p21425,LW,26,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p21425,RC,2,159,5.0,5.0,"first part of sentence cut out (""She sewed""); click near beginning and end",3.0
+p21425,RC,26,99999,8.0,8.0,"first part of sentence cut out (""On a scale of 1-10""); static/clicks throughout",3.0
+p21425,RC,30,46,8.0,8.0,"stumbles over word ""the"" then repeats the sentence; latter half of sentence cut out (""over the fence""); no pain rating given so copied down rather than up",1.0
+p21425,RW,6,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p21425,RW,11,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p21425,RW,12,128,1.0,1.0,"first part of sentence cut out (""The wharf"")",1.0
+p21425,RW,16,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p21425,RW,21,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p21425,RW,22,139,1.0,1.0,"majority of sentence cut out (""We frown when events take a"")",2.0
+p21425,RW,23,57,1.0,1.0,"first half of sentence cut out (""March the soliders"")",1.0
+p22250,LC,3,160,5.0,5.0,"first part of sentence cut out (""The s-""); audible exhale at end",1.0
+p22250,LC,13,27,5.0,5.0,"first word ""Her"" cut out; static/scraping at end",3.0
+p22250,LC,24,150,6.0,6.0,"half of sentence cut out (""The cigar burned""); misspeaks slightly in between ""a"" and ""hole""",1.0
+p22250,LC,35,142,6.0,6.0,"first word ""Guess"" cut out",0.0
+p22250,LC,42,55,5.0,5.0,"first part of sentence cut out (""A s-""); static at end; no pain rating given so copied down rather than up",3.0
+p22250,LW,4,150,1.0,1.0,"first part of sentence cut out (""The c-"")",1.0
+p22250,LW,27,46,1.0,1.0,"first part of sentence cut out (""Lift the sq-"")",1.0
+p22250,LW,35,67,1.0,1.0,"first word ""The"" cut out",0.0
+p22250,LW,38,78,1.0,1.0,"last part of last word cut out (""kes"" in ""strokes""); no pain rating given so copied down rather than up",0.0
+p22250,RC,6,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10, the pain I feel right now is a f-"")",2.0
+p22250,RC,7,147,5.0,5.0,"first word ""The"" cut out",0.0
+p22250,RC,35,143,6.0,6.0,"first word ""A"" cut out",0.0
+p22250,RC,36,99999,6.0,6.0,"first part of sententce cut out (""On a sc-""); stumbles on word ""pain""",1.0
+p22250,RC,40,68,6.0,6.0,"first part of sentence cut out (""This is""); no pain rating given so copied down rather than up",1.0
+p22250,RC,41,99999,6.0,6.0,"stumbles on word ""pain""; last word of sentence cut out (""[pain rating]""); no pain rating given so copied down rather than up",1.0
+p22250,RW,1,174,1.0,1.0,"first part of sentence cut out (""The sk-""); slight click in middle",2.0
+p22250,RW,4,162,1.0,1.0,"first word ""At"" cut out; clanking in middle",3.0
+p22250,RW,7,14,1.0,1.0,"first word ""Kick"" cut out; static near beginning and end",3.0
+p22250,RW,12,143,1.0,1.0,"first part of sentence cut out (""A s-""); faint constant ringing noise in background",3.0
+p22250,RW,15,21,1.0,1.0,"first word ""The"" cut out; faint constant ringing noise in background",3.0
+p22250,RW,17,176,1.0,1.0,"first part of first word cut out (""S"" in ""Sunday"")",0.0
+p22250,RW,19,152,1.0,1.0,"first part of sentence cut out (""A sp-"")",1.0
+p22250,RW,23,94,1.0,1.0,"first part of sentence cut out (""The f-"")",1.0
+p22250,RW,28,150,1.0,1.0,"first word ""The"" cut out; click in middle and end",3.0
+p22250,RW,35,98,1.0,1.0,"first word ""A"" cut out",0.0
+p23900,LC,29,42,8.0,8.0,"majority of sentence cut out (""The ship was torn apart on the sharp"")",2.0
+p23900,LC,33,145,7.0,7.0,"first word ""These"" cut out",0.0
+p23900,LC,37,49,7.0,7.0,"last part of sentence cut out (""drug store""); no pain rating given so copied down rather than up",1.0
+p23900,RC,31,99999,9.0,9.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p23900,RW,2,21,1.0,1.0,"first part of sentence cut out (""The small pup"")",1.0
+p23900,RW,6,99999,1.0,1.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p23900,RW,7,9,1.0,1.0,"majority of sentence cut out (""Four hours of steady work""); slight click at end",2.0
+p23900,RW,26,99999,1.0,1.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p23900,RW,29,114,1.0,1.0,"first part of first word cut out (""S"" in ""Split"")",0.0
+p23900,RW,37,22,1.0,1.0,"slight audible inhale at beginning; last word of sentence cut out (""hook""); no pain rating given so copied down rather than up",0.0
+p28030,LC,39,81,5.0,5.0,"majority of sentence cut out (""attacked the big task force""); no pain rating given so copied down rather than up",2.0
+p28030,RC,32,176,5.0,5.0,"first part of first word cut out (""S"" in ""Sunday""); slight click at end",2.0
+p28030,RC,40,74,5.0,5.0,"last word ""fight"" cut out; no pain rating given so copied down rather than up",0.0
+p28030,RW,22,138,1.0,1.0,"first part of first word cut out (""cl"" in ""clothes"")",0.0
+p31855,LW,6,99999,2.0,2.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p31855,LW,9,50,2.0,2.0,"first half of sentence cut out (""Mesh wire keeps"")",1.0
+p31855,LW,15,153,3.0,3.0,"first half of sentence cut out (""He broke a new"")",1.0
+p31855,LW,16,99999,3.0,3.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p31855,LW,21,99999,3.0,3.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"") ",2.0
+p31855,RW,6,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p31855,RW,8,138,1.0,1.0,"first word ""Clothes"" cut out; pronounces ""lodging"" like ""lugging""",1.0
+p31855,RW,16,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p31855,RW,19,2,1.0,1.0,"first word ""Glue"" cut out",0.0
+p31855,RW,21,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p31855,RW,26,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p31855,RW,31,99999,2.0,2.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p37540,LC,32,65,3.0,3.0,"majority of sentence cut out (""A small creek cut across"")",2.0
+p37540,LW,7,38,1.0,1.0,"majority of sentence cut out (""The young girl gave no clear"")",2.0
+p37540,LW,8,21,1.0,1.0,"first part of sentence cut out (""The small pup""); add word ""on"" in between ""gnawed"" and ""a""",1.0
+p37540,LW,10,66,1.0,1.0,"majority of sentence cut out (""Cars and busses stalled in"")",2.0
+p37540,LW,26,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10""); click at end",3.0
+p37540,LW,35,124,1.0,1.0,"last part of last word cut out (""tents"" in ""contents""); no pain rating given so copied down rather than up",0.0
+p37540,RC,37,21,4.0,4.0,"majority of sentence cut out (""...pup gnawed a hole in the sock""); no pain rating given so copied down rather than up",2.0
+p37540,RW,12,114,1.0,1.0,"first part of first word cut out (""S"" in ""Split""); slight click at end",2.0
+p38510,LC,11,99999,6.0,6.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p38510,LC,12,168,7.0,7.0,"last word ""actress"" cut out",0.0
+p38510,LC,18,148,7.0,7.0,"majority of sentence cut out (""The spot on the blotter was made by""); no pain rating given so copied down rather than up",2.0
+p38510,LW,6,99999,1.0,1.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p38510,LW,7,127,1.0,1.0,"first half of sentence cut out (""It caught its hind"")",1.0
+p38510,LW,37,89,1.0,1.0,"last half of sentence cut out (""barn door tight""); no pain rating given so copied down rather than up",1.0
+p38510,RW,30,152,1.0,1.0,"half of sentence cut out (""A speedy man can"")",1.0
+p38510,RW,37,96,1.0,1.0,"majority of sentence cut out (""Bail the boat to stop it from""); slap noise at end; no pain rating given so copied down rather than up",3.0
+p40505,LC,2,102,5.0,5.0,"majority of sentence cut out (""Cats and dogs each hate""); slight click at end",2.0
+p40505,LC,5,67,5.0,5.0,"first word ""The"" cut out; slight clicks near end",2.0
+p40505,LC,9,150,7.0,7.0,"first part of sentence cut out;(""the c-""); click at end",3.0
+p40505,LC,12,46,8.0,8.0,"first word ""Lift"" cut out; click at end",3.0
+p40505,LC,15,21,8.0,8.0,"half of sentence cut out (""The small pup""); slight click at end",2.0
+p40505,LC,21,99999,8.0,8.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p40505,LC,34,131,10.0,10.0,"first word ""A"" cut out",0.0
+p40505,LC,36,99999,10.0,10.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p40505,LW,7,100,2.0,2.0,"first word ""The"" cut out; slight clicking throughout",3.0
+p40505,LW,9,184,2.0,2.0,"majority of sentence cut out (""The third act was dull and tired the"")",2.0
+p40505,LW,10,46,2.0,2.0,"first part of sentence cut out (""Lift the"")",1.0
+p40505,LW,12,23,1.0,1.0,"first word ""Press"" cut out; pronounces ""sew"" like ""sue"" and ""vest"" like ""west""",1.0
+p40505,LW,18,163,1.0,1.0,"first word ""Drop"" cut out",0.0
+p40505,LW,25,20,1.0,1.0,"first word ""The"" cut out; pronounces ""booth"" like ""bottom""; humming throughout",3.0
+p40505,LW,33,180,1.0,1.0,"half of sentence cut out (""Add the store's account""); humming throughout",3.0
+p40505,LW,38,70,1.0,1.0,"last part of last word cut out (""ve"" in ""leave""); static at end; humming throughout; no pain rating given so copied down rather than up",3.0
+p40505,RC,5,164,6.0,6.0,"first word ""A"" cut out; pronounces ""filing"" like ""failing""; static throughout; clinking at end",3.0
+p40505,RC,9,20,9.0,9.0,"first word ""The"" cut out",0.0
+p40505,RC,14,160,10.0,10.0,"first word ""The"" cut out; pronounces ""soft"" like ""sofa"";",1.0
+p40505,RC,15,114,10.0,10.0,"first word ""Split"" cut out; pronounces ""quick"" like ""quirk""; slight click at end",2.0
+p40505,RC,18,127,10.0,10.0,"first part of sentence cut out (""It caught""); slight click at end",2.0
+p40505,RC,20,152,10.0,10.0,"first word ""A"" cut out; click at end",3.0
+p40505,RC,21,99999,10.0,10.0,"first part of sentence cut out (""On a""); slight click near middle; static at end",3.0
+p40505,RC,23,143,10.0,10.0,"first half of sentence cut out (""A salt pickle tastes"")",1.0
+p40505,RC,25,27,10.0,10.0,"first word ""Her"" cut out",0.0
+p40505,RC,27,50,10.0,10.0,"majority of sentence cut out (""Mesh wire keeps chicks ins"")",2.0
+p40505,RC,28,49,10.0,10.0,"first word ""The"" cut out; slight static throughout; slight zip at end",3.0
+p40505,RC,29,32,10.0,10.0,"first word ""Take"" cut out; stumbles on word ""winding""; pronounces ""winding"" like ""wind-ing""; static at end",3.0
+p40505,RC,30,126,10.0,10.0,"first word ""The"" cut out; slight click/zip/hum at end",2.0
+p40505,RC,34,23,10.0,10.0,"first word ""Press"" cut out; pronounces ""sew"" like""sue"" and ""vest"" like ""west""",1.0
+p40505,RW,2,64,2.0,2.0,"first word ""The"" cut out; click in middle and end",3.0
+p40505,RW,3,152,2.0,2.0,"first word ""A"" cut out",0.0
+p40505,RW,4,131,2.0,2.0,"first word ""A"" cut out; click in middle and end; airy noise at end",3.0
+p40505,RW,17,15,1.0,1.0,"first word ""Help"" cut out",0.0
+p40505,RW,21,99999,1.0,1.0,"first part of sentence cut out (""On a"")",1.0
+p40505,RW,23,46,1.0,1.0,"first word ""Lift"" cut out",0.0
+p40505,RW,26,99999,1.0,1.0,"first part of sentence cut out (""On a sc"")",1.0
+p40505,RW,28,126,1.0,1.0,"first word ""The"" cut out",0.0
+p40505,RW,34,87,1.0,1.0,"first part of sentence cut out (""Cut the""); click at end",3.0
+p40505,RW,39,73,1.0,1.0,"first part of sentence cut out (""The ink""); last part of sentence cut out (""-ed page""); no pain rating given so copied down rather than up",1.0
+p50580,RW,40,158,1.0,1.0,"last part of sentence cut out (""but failed""); no pain rating given so copied down rather than up",1.0
+p50635,LW,16,99999,2.0,2.0,"last word cut out (""[pain rating]""); no pain rating given so copied down rather than up",0.0
+p50635,LW,30,28,1.0,1.0,"first half of sentence cut out (""The colt reared"")",1.0
+p50635,LW,34,82,1.0,1.0,"majority of sentence cut out (""-ing at the scared mouse""); no pain rating given so copied down rather than up",2.0
+p50635,RW,5,172,2.0,2.0,"majority of sentence cut out (""The child almost hurt"")",2.0
+p50635,RW,15,65,1.0,1.0,"first part of sentence cut out (""A small creek"")",1.0
+p50635,RW,27,124,1.0,1.0,"last part of last word cut out (""tents"" in ""contents"")",0.0
+p50635,RW,33,77,1.0,1.0,"first half of sentence cut out (""The horn of the car""); no pain rating given so copied down rather than up",1.0
+p50635,RW,34,170,1.0,1.0,"last part of sentence cut out (""hot pipes""); no pain rating given so copied down rather than up",1.0
+p52610,LC,21,99999,7.0,7.0,"first part of sentence cut out (""On a s-"")",1.0
+p52610,LC,31,99999,6.0,6.0,"first word ""On"" cut out; click at end",3.0
+p52610,LW,9,54,1.0,1.0,"first part of sentence cut out (""The show was a""); click near middle and end",3.0
+p52610,LW,41,99999,1.0,1.0,"majority of sentence cut out (""10 the pain I feel right now is X""); no pain rating given so copied down rather than up",2.0
+p52610,RC,6,99999,3.0,3.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); airy noise at end",3.0
+p52610,RC,7,172,5.0,5.0,"last part of last word cut out (""g"" in ""dog"")",0.0
+p52610,RC,16,99999,6.0,6.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); airy noise at end",3.0
+p58845,LC,7,131,4.0,4.0,"first part of sentence cut out (""A cramp is no""); click near middle; scrape at end",3.0
+p58845,LC,11,99999,4.0,4.0,"first word ""On"" cut out; slight stutter after word ""of"" and on word ""four""",1.0
+p58845,LC,13,21,5.0,5.0,"first part of sentence cut out (""The small pup""); stumbles in between word ""gnawed"" and ""hole""; creaking at end",3.0
+p58845,LC,16,99999,5.0,5.0,"first word ""On"" cut out; loud click/slap noise at end",4.0
+p58845,LC,34,58,5.0,5.0,"first word ""A"" cut out",0.0
+p58845,LW,22,165,1.0,1.0,"first word ""An"" cut out",0.0
+p58845,LW,37,181,1.0,1.0,"first part of sentence cut out (""Acid burns""); low buzz at end",2.0
+p58845,RC,2,126,3.0,3.0,"first word ""The"" cut out; click at beginning",3.0
+p58845,RC,19,181,5.0,5.0,"first half of sentence cut out (""Acid burns holes""); add word ""the"" after word ""in""; loud click near middle; no pain rating given so copied down rather than up",4.0
+p58845,RW,14,17,1.0,1.0,"first part of first word cut out (""S"" in ""Smoky""); click near middle",3.0
+p58845,RW,18,95,1.0,1.0,"first word ""The"" cut out; slight scrape at end",2.0
+p58845,RW,24,79,1.0,1.0,"first word ""The"" cut out; slight stutter after word ""pearl""",1.0
+p58845,RW,33,147,1.0,1.0,"first word ""The"" cut out ",0.0
+p59330,LC,1,95,7.0,7.0,"first word ""The"" cut out; slight click near middle",2.0
+p59330,LC,6,99999,7.0,7.0,"majorty of sentence cut out (""On a scale of 1-10 the pain I feel right now is s-"")",2.0
+p59330,LW,14,103,1.0,1.0,"first word ""The"" cut out",0.0
+p59330,RW,4,65,1.0,1.0,"first word ""A"" cut out; click at end",3.0
+p59330,RW,41,99999,1.0,1.0,"majority of sentence cut out (""1-10 the pain I feel right now is X""); no pain rating given so copied down rather than up",2.0
+p59520,LC,11,99999,3.0,3.0,"first word ""On"" cut out",0.0
+p59520,LC,21,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p59520,LC,31,99999,4.0,4.0,"first word ""On"" cut out",0.0
+p59520,LC,39,44,4.0,4.0,"last part of last word cut out (""n"" in ""sun""); no pain rating given so copied down rather than up",0.0
+p59520,RC,6,99999,2.0,2.0,"first word ""On"" cut out; slight click near beginning",2.0
+p59520,RC,13,152,4.0,4.0,"first word ""A"" cut out; slight click at end",2.0
+p59520,RC,27,171,5.0,5.0,"first part of first word cut out (""St"" from ""Steam"")",0.0
+p59520,RC,31,99999,5.0,5.0,"first word ""On"" cut out",0.0
+p59520,RC,41,99999,5.0,5.0,"majority of sentence cut out (""On...10 the pain I feel right now is X""); no pain rating given so copied down rather than up",2.0
+p59520,RW,21,99999,1.0,1.0,"first word ""On"" cut out",0.0
+p60145,LC,2,19,6.0,6.0,"first word ""The"" cut out; says ""ocean"" instead of ""sea""",1.0
+p60145,LC,9,152,7.0,7.0,"first part of sentence cut out (""A sp-""); speaker makes ""uh"" sound at end; scrape at end",3.0
+p60145,LC,19,115,7.0,7.0,"first word ""Burn"" cut out",0.0
+p60145,LC,31,99999,5.0,5.0,"first part of sentence cut out (""On a s-"")",1.0
+p60145,LC,41,99999,5.0,5.0,"first part of sentence cut out (""On a s-"")",1.0
+p60145,LW,14,21,1.0,1.0,"first word ""The"" cut out; stutters after word ""gnawed""",1.0
+p60145,LW,15,114,1.0,1.0,"first part of sentence cut out (""Split the"")",1.0
+p60145,LW,21,99999,1.0,1.0,"first part of sentence cut out (""On a s-"")",1.0
+p60145,LW,35,175,1.0,1.0,"first part of sentence cut out (""Torn s-""); slight click at end",2.0
+p60145,LW,42,173,1.0,1.0,"least part of sentence cut out (""leaves outside""); no pain rating given so copied down rather than up",1.0
+p60145,RC,4,25,4.0,4.0,"majoirty of sentence cut out (""The beauty of the view stunned"")",2.0
+p60145,RC,6,99999,4.0,4.0,"majoirty of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p60145,RC,37,152,6.0,6.0,"first part of sentence cut out (""A s-""); speaker makes ""uh"" sound at end; no pain rating given so copied down rather than up",1.0
+p60145,RW,15,1,1.0,1.0,"last word ""planks"" cut out ",0.0
+p60145,RW,22,171,1.0,1.0,"first part of first word cut out (""S"" in ""Steam"")",0.0
+p60145,RW,42,69,1.0,1.0,"last part of sentence cut out (""edge of the water""); no pain rating given so copied down rather than up",1.0
+p61160,LC,11,99999,9.0,9.0,"first word ""On"" cut out; misses word ""of"" in between ""scale"" and ""one""; no pain rating given so copied down rather than up",0.0
+p61395,LC,3,139,4.0,4.0,"majority of sentence cut out (""We frown when events"")",2.0
+p61395,LC,6,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); click at end",3.0
+p61395,LC,11,99999,4.0,4.0,"last part of sentence cut out (""[pain rating]""); no pain rating given so copied down rather than up",0.0
+p61395,LC,16,99999,7.0,7.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); static at end",3.0
+p61395,LC,31,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); slight click at end",2.0
+p61395,LW,15,148,1.0,1.0,"first part of sentence cut out (""The s-"")",1.0
+p61395,RC,36,99999,3.0,3.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p61395,RC,41,99999,3.0,3.0,"last word of sentence cut out (""[pain rating]""); no pain rating given so copied down rather than up",0.0
+p61395,RW,3,114,1.0,1.0,"first part of first word cut out (""S"" in ""Split"")",0.0
+p61395,RW,8,34,1.0,1.0,"first word ""Wipe"" cut out",0.0
+p61395,RW,11,99999,1.0,1.0,"first part of sentence cut out (""On a s-"")",1.0
+p61395,RW,29,148,1.0,1.0,"first part of sentence cut out (""The s-"")",1.0
+p61395,RW,32,61,1.0,1.0,"first part of sentence cut out (""We talked"")",1.0
+p61395,RW,41,99999,1.0,1.0,"last part of sentence cut out (""pain I feel right now is X""); no pain rating given so copied down rather than up",1.0
+p62650,LC,5,132,,,"majority of sentence cut out (""He said the same phrase""); no pain rating given",
+p62650,LW,35,65,1.0,1.0,"majority of sentence cut out (""cut across the field""); no pain rating given so copied down rather than up",2.0
+p62650,RC,36,99999,5.0,5.0,"majority of sentence cut out (""the pain I feel right now is X""); no pain rating given so copied down rather than up",2.0
+p62650,RW,27,114,1.0,1.0,"first part of first word cut out (""S"" in ""Split"")",0.0
+p62650,RW,32,32,1.0,1.0,"first half of sentence cut out (""Take the winding path"")",1.0
+p62650,RW,35,168,1.0,1.0,"last part of last word cut out (""ess"" in ""actress"")",0.0
+p64560,LC,1,24,5.0,5.0,"first word ""The"" cut out",0.0
+p64560,LC,3,167,5.0,5.0,"first word ""The"" cut out; slight click at end",2.0
+p64560,LC,23,78,5.0,5.0,"first word ""The"" cut out",0.0
+p64560,LC,27,67,4.0,4.0,"first word ""The"" cut out",0.0
+p64560,LC,34,128,3.0,3.0,"first word ""The"" cut out; click at end",3.0
+p64560,LC,36,99999,3.0,3.0,"first word ""On"" cut out",0.0
+p64560,LW,12,172,1.0,1.0,"first word ""The"" cut out; click at end",3.0
+p64560,LW,34,133,1.0,1.0,"first part of first word cut out (""pl"" in ""pluck""); buzz at end",3.0
+p64560,LW,38,84,1.0,1.0,"last half of sentence cut out (""wide and too droopy""); no pain rating given so copied down rather than up",1.0
+p64560,RC,6,99999,4.0,4.0,"first word ""On"" cut out",0.0
+p64560,RC,14,95,5.0,5.0,"first word ""The"" cut out",0.0
+p64560,RC,23,11,6.0,6.0,"first word ""The"" cut out; stutters on word ""sun""",1.0
+p64560,RC,34,124,5.0,5.0,"first word ""The"" cut out; pronounces ""spilled"" like ""spli""",1.0
+p64560,RC,38,77,5.0,5.0,"pronounces ""horn"" like ""corn""; click at end; last part of sentence cut out (""the sleeping cop""); no pain rating given so copied down rather than up",3.0
+p64560,RW,8,21,1.0,1.0,"first word ""The"" cut out; click at end",3.0
+p64560,RW,14,20,1.0,1.0,"first word ""The"" cut out; clank near beginning",3.0
+p64560,RW,20,172,1.0,1.0,"first word ""The"" cut out",0.0
+p64560,RW,27,174,1.0,1.0,"first word ""The"" cut out",0.0
+p64560,RW,35,24,1.0,1.0,"first word ""The"" cut out",0.0
+p65330,LW,37,137,1.0,1.0,"majority of sentence cut out (""-te to the friend you cherish""); no pain rating given so copied down rather than up",2.0
+p65330,RC,27,145,8.0,8.0,"first word ""These"" cut out; stutters on word ""thistles""; misses word ""a"" in between ""in"" and ""high""",1.0
+p65330,RC,38,30,8.0,8.0,"majority of sentence cut out (-se out loud for pleasure""); no pain rating given so copied down rather than up",2.0
+p65330,RW,37,167,1.0,1.0,"majority of sentence cut out (""was a dull, sad tan""); no pain rating given so copied down rather than up",2.0
+p65870,LC,24,61,7.0,7.0,"first part of sentence cut out (""We talked""); click at end",3.0
+p65870,RC,5,28,2.0,2.0,"first word ""The"" cut out; airy noise at end",3.0
+p65870,RC,10,135,3.0,3.0,"first part of sentence cut out (""The glow deepened""); slight airy noise at end",2.0
+p65870,RC,13,76,3.0,3.0,"first word ""A"" cut out",0.0
+p65870,RC,25,51,4.0,4.0,"first word ""The"" cut out; click and airy noise at end",3.0
+p65870,RW,7,124,1.0,1.0,"first word ""The"" cut out; airy noise at end",3.0
+p65870,RW,13,119,1.0,1.0,"majority of sentence cut out (""A lame back kept""); slight airy noise at end",2.0
+p66385,LC,6,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is "")",2.0
+p66385,LC,9,17,4.0,4.0,"first word ""Smoky"" cut out; no pain rating given so copied down rather than up",0.0
+p66385,LW,6,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10 the"")",1.0
+p66385,LW,14,79,1.0,1.0,"first word ""The"" cut out",0.0
+p66385,RW,6,99999,1.0,1.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is "")",2.0
+p66385,RW,39,145,1.0,1.0,"first part of sentence cut out (""These thistles"")",1.0
+p68215,LC,6,99999,5.0,5.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is "")",2.0
+p68215,LC,16,99999,6.0,6.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is ""); click at end",3.0
+p68215,LC,21,99999,7.0,7.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is ""); click at end",3.0
+p68215,LC,39,129,7.0,7.0,"majority of sentence cut out (""the weak dying flame"")",2.0
+p68340,LC,5,168,2.0,2.0,"last word ""actress"" cut out",0.0
+p68340,LC,10,176,2.0,2.0,"first part on first word cut out (""S"" in ""Sunday""); click at end",3.0
+p68340,LC,17,152,3.0,3.0,"first part of sentence cut out (""A s-""); click at end",3.0
+p68340,LC,42,14,3.0,3.0,"majority of sentence cut out (""straight and follow through""); no pain rating given so copied down rather than up",2.0
+p68340,LW,28,65,1.0,1.0,"first word ""A"" cut out",0.0
+p68340,LW,33,82,1.0,1.0,"first part of first word cut out (""S"" in ""See""); slight short airy noise at end",2.0
+p68340,RC,2,114,3.0,3.0,"first part of first word cut out (""S"" in ""Split"")",0.0
+p68340,RC,3,29,3.0,3.0,"first part of sentence cut out (""It s-""); click near beginning",3.0
+p68340,RC,6,99999,3.0,3.0,"first part of sentence cut out (""On a s-""); click near end",3.0
+p68340,RC,19,82,4.0,4.0,"first part of first word cut out (""S"" in ""See"")",0.0
+p68340,RC,31,99999,3.0,3.0,"first part of sentence cut out (""On a s-"")",1.0
+p68340,RW,24,176,1.0,1.0,"first part of first word cut out (""S"" in ""Sunday"")",0.0
+p68340,RW,31,99999,1.0,1.0,"first part of sentence cut out (""On a s-"")",1.0
+p68340,RW,33,31,1.0,1.0,"first word ""Hoist"" cut out",0.0
+p68340,RW,34,126,1.0,1.0,"first part of sentence cut out (""The s-""); click at beginning",3.0
+p68340,RW,40,65,1.0,1.0,"first part of sentence cut out (""A s-""); no pain rating given so copied down rather than up",0.0
+p68625,LC,1,178,4.0,4.0,"first word ""The"" cut out; slight click at end",2.0
+p68625,LC,16,99999,9.0,9.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is""); click in middle",3.0
+p68625,LC,19,97,9.0,9.0,"first word ""The"" cut out; slight click at end",2.0
+p68625,LC,24,13,9.0,9.0,"first word ""The"" cut out; scrape at end",3.0
+p68625,LC,34,54,6.0,6.0,"first word ""The"" cut out; slight click at end",2.0
+p68625,LC,41,99999,6.0,6.0,"last word cut out (""[pain rating]""); no pain rating given so copied down rather than up",0.0
+p68625,LW,5,156,1.0,1.0,"first word ""The"" cut out",0.0
+p68625,LW,8,177,1.0,1.0,"first word ""The"" cut out",0.0
+p68625,LW,21,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10 the"")",1.0
+p68625,LW,26,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10 the""); click near middle",3.0
+p68625,LW,27,10,1.0,1.0,"first word ""A"" cut out",0.0
+p68625,LW,31,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10 the"")",1.0
+p68625,LW,35,51,1.0,1.0,"first word ""The"" cut out",0.0
+p68625,LW,36,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10 the"")",1.0
+p68625,LW,37,24,1.0,1.0,"first word ""The"" cut out; no pain rating given so copied down rather than up",0.0
+p68625,LW,40,159,1.0,1.0,"last half of sentence cut out; (""-n coat quite neatly""); no pain rating given so copied down rather than up",1.0
+p68625,RW,2,39,1.0,1.0,"majority of sentence cut out (""The meal was cooked before the""); click near end",3.0
+p68625,RW,36,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10 the"")",1.0
+p68870,LC,4,130,8.0,8.0,"first word ""The"" cut out; click at end",3.0
+p68870,LC,7,28,9.0,9.0,"first part of sentence cut out (""The colt""); pronounces ""threw"" like ""true""",1.0
+p68870,LC,10,16,9.0,9.0,"first part of sentence cut out (""A p-""); airy noise at end",3.0
+p68870,LC,16,99999,8.0,8.0,"first part of sentence cut out (""On a""); slight click near end",2.0
+p68870,LC,29,73,6.0,6.0,"first half of sentence cut out (""The ink stain dried"")",1.0
+p68870,LW,11,99999,1.0,1.0,"first word ""On"" cut out",0.0
+p68870,LW,16,99999,1.0,1.0,"first word ""On"" cut out",0.0
+p68870,LW,21,99999,1.0,1.0,"first word ""On"" cut out; slight click at end",2.0
+p68870,RC,19,151,9.0,9.0,"majority of sentence cut out (""The empty flask stood on"")",2.0
+p68870,RC,36,99999,6.0,6.0,"majority of sentence cut out (""of 1-10 the pain I feel right now is X""); no pain rating given so copied down rather than up",2.0
+p68870,RW,29,136,1.0,1.0,"first part of first word cut out (""Br"" ""Bring"")",0.0
+p68870,RW,30,157,1.0,1.0,"first part of sentence cut out (""The p-""); click at end",3.0
+p68870,RW,35,145,1.0,1.0,"majoirty of sentence cut out (""thistles bend in a high wind""); no pain rating given so copied down rather than up",2.0
+p71740,LC,2,114,3.0,3.0,"first part of first word cut out (""S"" in ""Split"")",0.0
+p71740,RC,38,157,9.0,9.0,"first word ""The"" cut out",0.0
+p71740,RC,42,88,9.0,9.0,"last part of sentence cut out (""get rich""); no pain rating given so copied down rather than up",1.0
+p71740,RW,3,14,1.0,1.0,"first word ""Kick"" cut out",0.0
+p71740,RW,12,29,1.0,1.0,"first word ""It"" cut out",0.0
+p71740,RW,13,148,1.0,1.0,"first part of sentence cut out (The s-""); hum at end",3.0
+p71740,RW,37,127,1.0,1.0,"last half of sentence cut out (""paw in a rusty trap""); no pain rating given so copied down rather than up",1.0
+p72315,LC,2,79,5.0,5.0,"first word ""The"" cut out; slight click at end",2.0
+p72315,LC,13,80,7.0,7.0,"first word ""The"" cut out; click in middle; slight click at end",3.0
+p72315,LC,14,21,7.0,7.0,"first word ""The"" cut out; clicks throughout",3.0
+p72315,LC,15,171,7.0,7.0,"first part of first word cut out (""S"" in ""Steam""); slight click near middle",2.0
+p72315,LC,16,99999,7.0,7.0,"first part of sentence cut out (""On a s-""); click near middle and end",3.0
+p72315,LC,37,44,6.0,6.0,"first word ""The"" cut out; slight click at end; no pain rating given so copied down rather than up",2.0
+p72315,LC,38,161,6.0,6.0,"last part of sentence cut out (""of the wide chair""); click at end; no pain rating given so copied down rather than up",3.0
+p72315,LW,17,95,2.0,2.0,"first word ""The"" cut out",0.0
+p72315,LW,36,99999,2.0,2.0,"last part of sentence cut out (""now is X""); no pain rating given so copied down rather than up",1.0
+p72315,RC,20,148,6.0,6.0,"first word ""The"" cut out",0.0
+p72315,RC,32,68,6.0,6.0,"first word ""This"" cut out; no pain rating given so copied down rather than up",0.0
+p72315,RC,34,113,6.0,6.0,"first word ""The"" cut out; no pain rating given so copied down rather than up",0.0
+p72315,RW,12,13,2.0,2.0,"first word ""The"" cut out",0.0
+p72315,RW,24,170,2.0,2.0,"first word ""A"" cut out",0.0
+p72315,RW,29,16,2.0,2.0,"first word ""A"" cut out",0.0
+p72315,RW,33,160,2.0,2.0,"first word ""The"" cut out; click at end",3.0
+p72315,RW,35,72,2.0,2.0,"first word ""The"" cut out; click at end",3.0
+p74405,LC,5,27,3.0,3.0,"first word ""Her"" cut out",0.0
+p74405,LC,15,29,4.0,4.0,"first word ""It"" cut out",0.0
+p74405,LW,29,3,0.0,1.0,"first word ""It's"" cut out",0.0
+p74405,LW,39,151,0.0,1.0,"majority of sentence cut out (""stood on the tin tray""); no pain rating given so copied down rather than up",2.0
+p74405,RW,29,134,0.0,1.0,"first part of sentence cut out (""Two plus"")",1.0
+p74405,RW,33,19,0.0,1.0,"first half of sentence cut out (""The salt breeze came a-"")",1.0
+p74405,RW,39,174,0.0,1.0,"last part of sentence cut out (""bright blue""); no pain rating given so copied down rather than up",1.0
+p77220,LC,11,99999,8.0,8.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p77220,LW,11,99999,2.0,2.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p77220,LW,16,99999,3.0,3.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p77220,LW,22,99,4.0,4.0,"first part of sentence cut out (""Ten pins""); click in middle",3.0
+p77220,LW,25,31,4.0,4.0,"first part of sentence cut out (""Hoist the load"")",1.0
+p77220,RW,2,8,2.0,2.0,"majority of sentence cut out (""The hogs were fed chopped"")",2.0
+p77220,RW,30,64,4.0,4.0,"majority of sentence cut out (""The clock struck to mark"")",2.0
+p77560,RC,21,99999,5.0,5.0,"majority of sentence cut out (""On a scale of 1-10 the apin I feel right now is"")",2.0
+p77560,RW,34,120,3.0,3.0,"last part of last word cut out (""s"" in ""things""); no pain rating given so copied down rather than up",0.0
+p79550,LC,38,132,7.0,7.0,"mistakenly starts with ""He paid"", then corrects to ""He said""; majority of sentence cut out (""the same phrase thirty times""); no pain rating given so copied down rather than up",2.0
+p79550,RW,6,99999,1.0,1.0,"last word cut out (""[pain rating]""); no pain rating given so copied up from p79550.RW.11.92",0.0
+p79665,LC,6,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is "")",2.0
+p79665,LC,11,99999,5.0,5.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is "")",2.0
+p79665,LC,18,49,5.0,5.0,"first word ""The"" cut out; clicks near middle and end",3.0
+p79665,LC,20,184,5.0,5.0,"first word ""The"" cut out; slight click at end",2.0
+p79665,LC,21,99999,5.0,5.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is "")",2.0
+p79665,LC,36,99999,6.0,6.0,"majority of sentence cut out (""1-10 the pain I feel right now is X ""); no pain rating given so copied down rather than up",2.0
+p79665,LW,2,148,1.0,1.0,"last part of last word cut out (""k"" in ""ink""); click at end",3.0
+p79665,LW,7,157,1.0,1.0,"first word ""The"" cut out; stutters on word ""seized""; click at end",3.0
+p79665,LW,8,22,1.0,1.0,"first word ""The"" cut out; click at end",3.0
+p79665,LW,36,99999,1.0,1.0,"last half of sentence cut out (""I feel right now is X""); no pain rating given so copied down rather than up",1.0
+p79665,RC,25,22,6.0,6.0,"first word ""The"" cut out",0.0
+p79665,RC,27,135,6.0,6.0,"first word ""The"" cut out",0.0
+p79665,RW,4,3,1.0,1.0,"first word ""It's"" cut out",0.0
+p79665,RW,20,64,1.0,1.0,"first word ""The"" cut out; slight click near middle",2.0
+p79665,RW,25,79,1.0,1.0,"first word ""The"" cut out",0.0
+p79665,RW,28,51,1.0,1.0,"first word ""The"" cut out",0.0
+p79665,RW,35,83,1.0,1.0,"last part of last word cut out (""re"" in ""here""); no pain rating given so copied down rather than up",0.0
+p80330,LW,12,150,1.0,1.0,"first word ""The"" cut out",0.0
+p80330,LW,41,99999,1.0,1.0,"last part of sentence cut out (""right now is X""); no pain rating given so copied down rather than up",1.0
+p80330,RC,29,162,4.0,4.0,"first part of sentence cut out (""At that"")",1.0
+p80330,RW,8,94,1.0,1.0,"first word ""The"" cut out",0.0
+p80330,RW,22,160,1.0,1.0,"first word ""The"" cut out; click at end",3.0
+p86910,LC,3,148,7.0,7.0,"first word ""The"" cut out; audible exhale at end",0.0
+p86910,LC,10,137,8.0,8.0,"first half of sentence cut out (""Write a fond note""); click at end; audible exhale at end",3.0
+p86910,LC,13,21,9.0,9.0,"first part of sentence cut out (""The small pup"");  starts sentence with ""uh""; adds word ""on"" after ""gnawed""; says ""um"" after word ""hole""; click at end",3.0
+p86910,LW,33,128,1.0,1.0,"majority of sentence cut out (""The wharf could be seen at""); click at end; no pain rating given so copied down rather than up",3.0
+p86910,LW,35,78,1.0,1.0,"last half of sentence cut out (""and with firm strokes""); no pain rating given so copied down rather than up",1.0
+p86910,RC,3,1,4.0,4.0,"first word ""The"" cut out; pronounces ""slid"" like ""slide""; click in middle",3.0
+p86910,RC,5,103,4.0,4.0,"first word ""The"" cut out; click near middle and end; buzz at end",3.0
+p86910,RC,13,21,6.0,6.0,"first part of sentence cut out (""The small pup""); says ""um"" before ""gnawed""; pronounces ""gnawed"" like ""g-nowed""; adds word ""in"" after ""gnawed""; says ""um"" after ""hole""; stutters on word ""sock"", then corrects by repeating phrase ""in the sock""; clicks at end",3.0
+p86910,RC,22,167,8.0,8.0,"majority of sentence cut out (""The office paint was a dull, sad tan""); click",3.0
+p86910,RC,29,19,7.0,7.0,"first part of sentence cut out (""The s-""); click near middle and end; audible exhale at end",3.0
+p86910,RW,2,65,1.0,1.0,"mjority of sentence cut out; (""A small creek cut across""); pronounces ""field"" like ""filled""; clicks",3.0
+p86910,RW,7,127,1.0,1.0,"first word ""It"" cut out; pronounces ""hind"" like ""heend""; misses word ""a"" before ""rusty""; click at end",3.0
+p86910,RW,9,55,1.0,1.0,"first part of sentence cut out (""A s-""); says ""um"" after ""tool""",1.0
+p86910,RW,35,70,1.0,1.0,"says ""uh"" after ""words""; pronounces ""cue"" like ""coo""; says ""um"" after"" ""for""; last word ""leave"" cut out; no pain rating given so copied down rather than up",1.0
+p88575,LC,35,150,7.0,7.0,"first word ""The"" cut out",0.0
+p88575,LC,38,93,7.0,7.0,"first word ""A"" cut out",0.0
+p88575,LC,40,152,7.0,7.0,"first word ""A"" cut out; click at end",3.0
+p88575,LC,44,52,7.0,7.0,"majority of sentence cut out (""failed to fool the mouse""); no pain rating given so copied down rather than up",2.0
+p88575,LW,8,60,1.0,1.0,"first word ""Both"" cut out",0.0
+p88575,RC,42,113,8.0,8.0,"first word ""The"" cut out; missed word ""when"" after ""waved""; no pain rating given so copied down rather than up",1.0
+p88575,RW,16,99999,1.0,1.0,"first part of sentence cut out (""On a s-"")",1.0
+p88575,RW,33,157,1.0,1.0,"first word ""The"" cut out",0.0
+p88775,LW,4,182,3.0,3.0,"first half of sentence cut out (""Fairy tales should""); slight click at end",2.0
+p88775,LW,5,34,3.0,3.0,"first word ""Wipe"" cut out; adds ""wipe"" at end",1.0
+p88775,LW,15,66,3.0,3.0,"majority of sentence cut out (""Cars and busses stalled in"")",2.0
+p88775,LW,27,21,2.0,2.0,"first half of sentence cut out (""The small pup gnawed"")",1.0
+p88775,LW,28,119,2.0,2.0,"first part of sentence cut out (""A lame back"")",1.0
+p88775,LW,39,47,2.0,2.0,"majority of sentence cut out (""the seven books at once"")",2.0
+p88775,RW,3,98,2.0,2.0,"majority of sentence cut out (""A tusk is used to make costly"")",2.0
+p88775,RW,4,65,2.0,2.0,"first half of sentence cut out (""A small creek cut""); stutters on word ""across""",1.0
+p88775,RW,18,23,3.0,3.0,"first half of sentence cut out (""Press the pants and sew"")",1.0
+p88775,RW,22,153,2.0,2.0,"majority of sentence cut out (""He broke a new shoelace"")",2.0
+p88775,RW,37,179,2.0,2.0,"majority of sentence cut out (""felt gay when the ship arrived in port""); no pain rating given so copied down rather than up",2.0
+p91315,LC,4,79,4.0,4.0,"first word ""The"" cut out; slight click at end",2.0
+p91315,LC,16,99999,5.0,5.0,"first part of sentence cut out (""On a s-"")",1.0
+p91315,LC,19,5,4.0,4.0,"majority of sentence cut out (""Rice is often served"")",2.0
+p91315,LW,3,142,1.0,1.0,"first word ""Guess"" cut out; humming at end",3.0
+p91315,LW,6,99999,1.0,1.0,"first part of sentence cut out (""On a s-""); hum at end",3.0
+p91315,LW,20,143,1.0,1.0,"first word ""A"" cut out",0.0
+p91315,RC,6,99999,3.0,3.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p91315,RC,10,152,6.0,6.0,"first word ""A"" cut out; loud water noise at end",4.0
+p91315,RC,27,29,6.0,6.0,"first word ""It"" cut out",0.0
+p91315,RC,34,90,5.0,5.0,"first part of sentence cut out (""He lay prone"")",1.0
+p91315,RC,36,99999,5.0,5.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p91315,RW,5,152,1.0,1.0,"first word ""A"" cut out; click at end",3.0
+p91315,RW,6,99999,1.0,1.0,"first part of sentence cut out (""On a scale of 1-10"")",1.0
+p91315,RW,29,23,1.0,1.0,"first word ""Press"" cut out",0.0
+p93975,LC,24,114,8.0,8.0,"first part of first word cut out (""S"" in ""Split"")",0.0
+p93975,LC,39,176,7.0,7.0,"first part of first word cut out (""S"" in ""Sunday"")",0.0
+p93975,LW,20,142,1.0,1.0,"first word ""Guess"" cut out",0.0
+p93975,LW,29,46,1.0,1.0,"first word ""Lift"" cut out",0.0
+p93975,LW,32,34,1.0,1.0,"first word ""Wipe"" cut out; loud whistle at end",4.0
+p93975,RC,4,162,6.0,6.0,"majority of sentence cut out (""high level the air is pure"")",2.0
+p93975,RC,5,133,6.0,6.0,"first part of first word cut out (""Pl"" in ""Pluck"")",0.0
+p93975,RC,28,43,8.0,8.0,"first part of first word cut out (""S"" in ""Sickness""); sharp hum at end",3.0
+p93975,RW,9,3,1.0,1.0,"first word ""It's"" cut out",0.0
+p93975,RW,40,26,1.0,1.0,"last part of sentence cut out (""the tank""); voice sounds electronic at end",3.0
+p94215,LC,40,38,3.0,3.0,"majority of sentence cut out (""-l gave no clear response""); no pain rating given so copied down rather than up",2.0
+p94215,RC,41,99999,4.0,4.0,"last part of sentence cut out (""is [pain rating]""); no pain rating given so copied down rather than up",1.0
+p94215,RW,41,99999,1.0,1.0,"last word of sentence cut out (""[pain rating]""); buzz at end; no pain rating given so copied down rather than up",3.0
+p97630,LC,6,99999,2.0,2.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now is"")",2.0
+p97630,LC,11,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now""); slight click at end",2.0
+p97630,LC,31,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now"")",2.0
+p97630,LW,30,95,1.0,1.0,"first word ""The"" cut out; slight click near middle",2.0
+p97630,LW,36,99999,1.0,1.0,"last part of last word cut out (""ne"" in ""one"")",0.0
+p97630,RC,1,102,3.0,3.0,"first part of sentence cut out (""Cats and dogs"")",1.0
+p97630,RC,24,150,4.0,4.0,"first word ""The"" cut out",0.0
+p97630,RC,36,99999,4.0,4.0,"majority of sentence cut out (""On a scale of 1-10 the pain I feel right now"")",2.0
+p97630,RW,8,159,1.0,1.0,"majority of sentence cut out (""She sewed the torn coat"")",2.0
+p97630,RW,35,15,1.0,1.0,"first word ""Help"" cut out; slight click at end; no pain rating given so copied down rather than up",2.0
+p97630,RW,36,99999,1.0,1.0,"majority of sentence cut out (""the pain I feel right now is X""); no pain rating given so copied down rather than up",2.0

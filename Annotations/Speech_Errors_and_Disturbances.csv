@@ -1,0 +1,496 @@
+PID,COND,UTTNUM,UTTID,PAIN LEVEL,REVISED PAIN,NOTES,ACTION LABEL
+p10085,LC,27,115,4.0,4.0,"mistakenly starts with the word ""burnt"", then reads assigned sentence ",1.0
+p10085,LW,5,179,1.0,1.0,"stutters the word ""they"" and ""ship""",1.0
+p10085,LW,25,52,1.0,1.0,"mistakenly says ""to move the mouse"", then corrects to ""to fool the mouse""",1.0
+p10085,RC,5,1,4.0,4.0,"stutters the word ""planks""",1.0
+p10085,RC,18,171,4.0,4.0,"pronounces ""valve"" like ""volve""",1.0
+p10085,RC,24,131,6.0,6.0,"slight stutter on ""swim""; slight static at end",2.0
+p10555,LW,24,100,1.0,1.0,"stutters the word ""the""; clicks at end",3.0
+p10555,RC,29,60,3.0,3.0,"stutters the word ""raging""",1.0
+p10555,RC,38,82,2.0,2.0,"first part of first word cut out (""S"" in ""See""); stutters the word ""cat""; no pain rating given so copied down rather than up",1.0
+p11085,LC,8,22,4.0,4.0,"slight stutter on word ""turned""; click at end",3.0
+p11085,LC,17,6,5.0,5.0,"audible inhale at beginning; adds word ""the"" in between ""makes"" and ""fine""",0.0
+p11085,LC,22,156,4.0,4.0,"slight stutter on word ""pencils""",1.0
+p11085,LW,19,63,1.0,1.0,"says ""this"" instead of ""the""",0.0
+p11085,RC,20,181,5.0,5.0,"pronounces ""wool"" like ""wood""; static at end",3.0
+p11085,RW,3,161,1.0,1.0,"slight stutter after word ""hung""",1.0
+p11085,RW,7,152,1.0,1.0,"stutters before word ""this""; click at end",3.0
+p12385,LC,27,136,4.0,4.0,"pronounces ""chief"" like ""chef""",1.0
+p12385,LC,37,2,3.0,3.0,"stutters the word ""background""; slight click at end; no pain rating given so copied down rather than up",2.0
+p12385,LW,34,24,1.0,1.0,"stutters the word ""perfect""",1.0
+p12385,RC,15,147,3.0,3.0,"mistakenly says ""tree trop"", then corrects to ""tree top""",1.0
+p12385,RC,30,180,3.0,3.0,"slight stutter on word ""store's""; click at end",3.0
+p12385,RW,1,42,1.0,1.0,"stutters in between ""sharp"" and ""reef""",1.0
+p12385,RW,15,8,1.0,1.0,"adds word ""chip"" in between ""fed"" and chopped""",1.0
+p12385,RW,37,24,1.0,1.0,"mistakenly says ""far too"", then corrects to ""far short""; click at end; no pain rating given so copied down rather than up",3.0
+p12460,LC,2,106,4.0,4.0,"stutters the word ""who""",1.0
+p12460,LC,4,99,4.0,4.0,"stutters the word ""in""; airy noise at end",3.0
+p12460,LC,10,177,6.0,6.0,"slight stutter before word ""these""",1.0
+p12460,LC,25,50,8.0,8.0,"adds word ""the"" after ""keeps""",1.0
+p12460,LC,26,99999,8.0,8.0,"misses phrase ""right now""; static at end",3.0
+p12460,LC,29,108,8.0,8.0,"slight stutter on word ""orders""",1.0
+p12460,LC,30,102,8.0,8.0,"first part of sentence cut out (""cats and dogs""); pronounces ""each"" like ""eat""; slight stutter after word ""hate""; tap near beginning",3.0
+p12460,LW,16,99999,1.0,1.0,"stumbles on phrase ""I feel""; click at end",3.0
+p12460,LW,23,188,1.0,1.0,"stutters on word ""is""",1.0
+p12460,LW,33,8,1.0,1.0,"stutters word ""the""; click at end",3.0
+p12460,LW,34,61,1.0,1.0,"stutters word ""circus""; slight static at end",2.0
+p12460,RC,20,32,8.0,8.0,"mistakenly says ""winning"", then corrects to ""winding""; click at end",3.0
+p12460,RW,5,127,1.0,1.0,"pronounces ""hind"" like ""hin-d""",1.0
+p12460,RW,7,28,1.0,1.0,"slows speech on word ""tall""; tap at end",3.0
+p12460,RW,12,147,1.0,1.0,"pronounces ""tree"" like ""three""",1.0
+p12460,RW,20,11,1.0,1.0,"mistakenly says ""rose sun"", then corrects to ""sun rose""",1.0
+p15965,LC,28,54,7.0,7.0,"first word ""The"" cut out; missing word ""a"" after ""was""",0.0
+p15965,LW,15,188,2.0,2.0,"stutters word ""inches""",1.0
+p15965,RC,3,151,5.0,5.0,"stutters ""tin""",1.0
+p18355,LC,9,162,5.0,5.0,"pronounces ""at"" like ""all""",1.0
+p18355,LC,13,85,5.0,5.0,"stumbles on word ""case""; no pain rating given so copied down rather than up",1.0
+p18355,LC,14,115,5.0,5.0,"pronounces ""logs"" like ""docks""; no pain rating given so copied down rather than up",1.0
+p18355,LW,3,12,1.0,1.0,"pronounces ""catch"" like ""cash""; stumbles on word ""salmon""",1.0
+p18355,LW,7,65,1.0,1.0,"says ""cross"" instead of ""across""; stumbles on end of word ""the""",1.0
+p18355,LW,19,145,1.0,1.0,"pronounces ""thistles"" like ""sizzles""; click at end",3.0
+p18355,LW,28,20,1.0,1.0,"pronounces ""sold"" like ""scold"" and ""bonds"" like ""bon""; no pain rating given so copied down rather than up",1.0
+p18355,RC,10,50,7.0,7.0,"stutters the word ""chicks""; click at end",3.0
+p18355,RC,12,25,7.0,7.0,"stutters in between ""the"" and ""young""; no pain rating given so copied down rather than up",1.0
+p18355,RC,14,106,7.0,7.0,"humming noise; stutters ""friends""; no pain rating given so copied down rather than up",3.0
+p18355,RW,14,31,1.0,1.0,"misses word ""the""; stutter in between ""load"" and ""to""; no pain rating given so copied down rather than up",1.0
+p18355,RW,17,84,1.0,1.0,"stutters word ""droopy""",1.0
+p18355,RW,22,21,1.0,1.0,"first part of sentence cut out (""The small""); pronouces ""pup"" like ""gup""",1.0
+p18785,LC,2,91,5.0,5.0,"prounoucnes ""slush"" like ""lush""",1.0
+p18785,LC,9,110,8.0,8.0,"pronounces ""vat"" like ""wat""",1.0
+p18785,LC,10,33,8.0,8.0,"pronouces ""note"" like ""not""",1.0
+p18785,LC,11,99999,8.0,8.0,"stutters word ""pain""",1.0
+p18785,LC,12,108,10.0,10.0,"pronouces ""on"" like ""or"" and ""orders"" like ""olders""; audible exhale at end",1.0
+p18785,LC,16,99999,10.0,10.0,speaker laughs at end of sentence,4.0
+p18785,RC,10,117,5.0,5.0,"pronounces ""weave"" like ""wave""; zip at end; no pain rating given so copied down rather than up",3.0
+p18785,RC,14,41,10.0,10.0,"misses the word ""the"" in between ""in"" and ""early""",0.0
+p20960,LC,5,44,3.0,3.0,"pronounces ""shimmered"" like ""skimmered""",1.0
+p20960,LC,17,91,6.0,6.0,"stutters on word ""slush""",1.0
+p20960,LC,37,94,7.0,7.0,"misread sentence (supposed to say ""and cut the clear water"" but says ""and the cut was clear water""); no pain rating given so copied down rather than up",1.0
+p20960,LC,40,24,7.0,7.0,"stutters after word ""dive""; no pain rating given so copied down rather than up",1.0
+p20960,LW,12,64,1.0,1.0,"stutters after word ""to""; slight static at end",2.0
+p20960,LW,23,146,1.0,1.0,"has difficulty pronouncing ""poodles""; static at end",3.0
+p20960,LW,35,133,1.0,1.0,"mispronounces ""rose"" as ""nose"", but then corrects; static at end",3.0
+p20960,RC,14,25,7.0,7.0,"stutters word ""young""",1.0
+p20960,RC,29,59,8.0,8.0,"says ""rose board"" instead of ""rose bush""; stutters when saying ""rose board""; click near middle; airy noise at end",3.0
+p20960,RW,7,149,1.0,1.0,"pronounces ""his"" like ""this""",1.0
+p20960,RW,15,188,1.0,1.0,"pronounces ""flood"" like ""food""",1.0
+p20960,RW,20,28,1.0,1.0,"adds word ""his"" after ""threw""",1.0
+p20960,RW,33,18,1.0,1.0,"voice crack on word ""broke""",1.0
+p21425,LC,3,1,7.0,7.0,"first part of sentence cut out (""The birch""); stutters word ""canoe""; pronounces ""slid"" like ""sleet""",1.0
+p21425,LC,6,99999,7.0,7.0,"says ""the"" instead of ""a""; audible inhale after ""now""; sharp audible inhale at end",0.0
+p21425,LC,8,165,8.0,8.0,"pronounces ""not"" like ""nah""",1.0
+p21425,LC,15,135,8.0,8.0,"slight stutter on word ""sweet""",1.0
+p21425,LC,18,145,9.0,9.0,"first word ""These"" cut out; pronounces ""thistles"" like ""this those""",1.0
+p21425,LC,24,163,9.0,9.0,"pronounces ""figures"" like ""fears""",1.0
+p21425,LW,5,127,1.0,1.0,"first part of sentence cut out (""It caught its""); pronounces ""hind"" like ""hide""; slight click at end",2.0
+p21425,LW,8,90,1.0,1.0,"pronounces ""prone"" like ""prawn""",1.0
+p21425,LW,20,21,1.0,1.0,"first part of sentence cut out (""The small pup""); pronounces ""gnawed"" like ""nowed""",1.0
+p21425,LW,24,125,1.0,1.0,"stumbles on word ""brass""; pronounces ""brass"" like ""brace""; click at end",3.0
+p21425,RC,4,90,5.0,5.0,"pronounces ""prone"" like ""prawn""; click at end",3.0
+p21425,RC,12,166,7.0,7.0,"pronounces ""toys"" as ""toy""; slight click in middle and end",2.0
+p21425,RC,17,172,8.0,8.0,"pronounces ""hurt"" like ""her""",1.0
+p21425,RC,22,7,8.0,8.0,"pronounces ""box"" like ""bucks"" and ""parked"" like ""park""",1.0
+p21425,RC,27,150,8.0,8.0,"pronounces ""cigar"" like ""ci-ger""; no pain rating given so copied down rather than up",1.0
+p21425,RC,29,122,8.0,8.0,"prononunces first word ""he"" as ""the""; no pain rating given so copied down rather than up",0.0
+p21425,RC,30,46,8.0,8.0,"stumbles over word ""the"" then repeats the sentence; latter half of sentence cut out (""over the fence""); no pain rating given so copied down rather than up",1.0
+p21425,RW,1,172,1.0,1.0,"pronounces ""hurt"" like ""her""",1.0
+p21425,RW,3,137,1.0,1.0,"pronounces ""fond"" like ""fun""",1.0
+p21425,RW,8,23,1.0,1.0,"slight click at beginning and end; pronounces ""sew"" like ""saw""",2.0
+p21425,RW,19,15,1.0,1.0,"pronounces ""get"" like ""got""",1.0
+p21425,RW,25,4,1.0,1.0,"stumbles slightly on second word ""a""",1.0
+p21425,RW,28,71,1.0,1.0,"pronounces ""slid"" like ""slick""; no pain rating given so copied down rather than up",1.0
+p22250,LC,15,86,5.0,5.0,"stumbles on word ""grass""; click at end",3.0
+p22250,LC,24,150,6.0,6.0,"half of sentence cut out (""The cigar burned""); misspeaks slightly in between ""a"" and ""hole""",1.0
+p22250,LW,18,181,1.0,1.0,"stumbles on word ""wool""",1.0
+p22250,RC,20,181,4.0,4.0,"mistakenly says ""wood cloth"", then corrects to ""wool cloth""",1.0
+p22250,RC,31,99999,6.0,6.0,"stumbles on word ""pain""",1.0
+p22250,RC,36,99999,6.0,6.0,"first part of sententce cut out (""On a sc-""); stumbles on word ""pain""",1.0
+p22250,RC,41,99999,6.0,6.0,"stumbles on word ""pain""; last word of sentence cut out (""[pain rating]""); no pain rating given so copied down rather than up",1.0
+p22250,RW,2,26,1.0,1.0,"stumbles on word ""swam"", interrupting with ""um""",1.0
+p22250,RW,24,95,1.0,1.0,"stutters word ""dull""; buzz in middle and end",3.0
+p23900,LC,2,128,10.0,10.0,"audible inhale at beginning; pronounces ""wharf"" like ""werf""; stutters word ""could""; slight click in middle",2.0
+p23900,LC,5,51,10.0,10.0,"pronounces ""the coat"" like ""thier coats""",1.0
+p23900,LC,10,11,10.0,10.0,"pronounces ""boy"" like ""bow""; click at end",3.0
+p23900,LC,17,6,9.0,9.0,"stumbles on word ""fine""",1.0
+p23900,LC,31,99999,8.0,8.0,"slight clicks near beginning and end; clears throat after word ""ten""; audible inhale near end",4.0
+p23900,LW,14,167,1.0,1.0,"misses word ""a"" in between ""was"" and ""dull""",0.0
+p23900,LW,15,175,1.0,1.0,"stutters heavily on word ""stone""; pronounces ""stone"" like ""store""",1.0
+p23900,LW,20,37,1.0,1.0,"stutters words ""The stray""",1.0
+p23900,LW,32,44,1.0,1.0,"mispronounces ""sun"", interrupts sentence with ""i mean"", then says ""sun""; click at end",3.0
+p23900,LW,34,9,1.0,1.0,"stutters on ""four hours""",1.0
+p23900,LW,35,20,1.0,1.0,"pronounces ""booth"" like ""buth""",1.0
+p23900,RC,1,98,8.0,8.0,"audible inhale at beginning; stutters on word ""costly""",1.0
+p23900,RC,4,68,8.0,8.0,"pronounces ""grand season"" like ""ground sizin""",1.0
+p23900,RC,6,99999,8.0,8.0,"stutters word ""ten""; slight click at end",2.0
+p23900,RC,7,86,10.0,10.0,"pronounces ""post"" like ""paw-st""",1.0
+p23900,RC,14,94,10.0,10.0,"audible inhale at beginning; mistakenly says ""and the cut the clear w-"", then corrects to ""and cut the clear water""",1.0
+p23900,RC,20,145,10.0,10.0,"audible inhale at beginning; pronounces ""thistles"" like ""thristles""",1.0
+p23900,RC,33,91,9.0,9.0,"audible inhale at beginning; pronounces ""deep"" like ""dip""; slight click at end",2.0
+p23900,RC,38,1,9.0,9.0,"mispronounces ""slid"" as ""slide"", then corrects to ""slid""; no pain rating given so copied down rather than up",1.0
+p23900,RW,4,80,1.0,1.0,"adds word ""the"" in between ""in"" and ""slices""",0.0
+p23900,RW,9,82,1.0,1.0,"stutters word ""scared""; click at end",3.0
+p23900,RW,12,26,1.0,1.0,"reads first word as ""The"" instead of ""Two""; audible exhale at end",0.0
+p23900,RW,19,38,1.0,1.0,"reads first word as ""A"" instead of ""The""",0.0
+p23900,RW,22,79,1.0,1.0,"stutters on word ""worn""; slight audible exhale at end",1.0
+p23900,RW,35,71,1.0,1.0,"stutters on word ""slid""",1.0
+p28030,LC,1,57,3.0,3.0,"mistakenly says ""we are about to start oh"" prior to reading assigned sentence",4.0
+p28030,LC,4,44,3.0,3.0,"mistakenly says ""pluck mm"" prior to reading assigned sentence",4.0
+p28030,LC,23,127,5.0,5.0,"mistakenly says ""it is"" prior to reading assigned sentence; click at end",3.0
+p28030,LC,25,77,5.0,5.0,"stumbles on word ""sleeping""",1.0
+p28030,LW,40,38,1.0,1.0,"stutters word ""gave""",1.0
+p28030,RW,3,141,1.0,1.0,"says ""type out three lists of orders"" and audibly inhales prior to reading assigned sentence",4.0
+p28030,RW,18,133,1.0,1.0,"says first word, clears throat, then reiterates; sniff at end",4.0
+p31855,LC,7,120,9.0,9.0,"says ""ouch"" at the end; no pain rating given so copied down rather than up",3.0
+p31855,LW,2,171,2.0,2.0,"pronounces ""valve"" like ""value""",1.0
+p31855,LW,7,37,2.0,2.0,"pronounces ""stray"" like ""story""",1.0
+p31855,LW,14,48,3.0,3.0,"pronounces ""hop"" like ""hope"" and ""plunge"" like ""plung""",1.0
+p31855,LW,17,52,3.0,3.0,"pronounces ""crooked"" like ""croaked"" and ""fool"" like ""feel""",1.0
+p31855,LW,23,168,3.0,3.0,"stutters of word ""the""",1.0
+p31855,LW,25,132,3.0,3.0,"pronounces ""thirty"" like ""thirsty"" and ""times"" like ""time""",1.0
+p31855,LW,28,108,5.0,5.0,"pronounces ""these"" like ""this""",0.0
+p31855,LW,30,128,5.0,5.0,"pronounces ""shore"" like ""shoe""",1.0
+p31855,LW,33,17,5.0,5.0,"adds word ""A"" in front of assigned sentence; no pain rating given so copied down rather than up",0.0
+p31855,RC,4,81,9.0,9.0,"pronounces ""navy"" like ""nah-vy""",1.0
+p31855,RC,5,105,9.0,9.0,"pronounces ""sum"" like ""sun"" and ""these"" like ""those""; mispronounces ""product"" then corrects by repitition",1.0
+p31855,RW,4,52,1.0,1.0,"pronounces ""crooked"" like ""croaked"" and ""fool"" like ""feel""",1.0
+p31855,RW,8,138,1.0,1.0,"first word ""Clothes"" cut out; pronounces ""lodging"" like ""lugging""",1.0
+p31855,RW,24,175,1.0,1.0,"pronounces ""stone"" like ""ston""",1.0
+p37540,LC,18,108,4.0,4.0,"pronounces ""these"" like ""those""",1.0
+p37540,LW,8,21,1.0,1.0,"first part of sentence cut out (""The small pup""); add word ""on"" in between ""gnawed"" and ""a""",1.0
+p37540,LW,25,71,1.0,1.0,"stutters on word ""around""",1.0
+p37540,RC,24,164,4.0,4.0,"pronounces ""filing"" like ""filling""",1.0
+p37540,RW,24,16,1.0,1.0,"pronounces ""evening"" like ""eve-dee""",1.0
+p38510,LC,1,170,5.0,5.0,"says ""we're about oh"" prior to reading assigned sentence; pronounces ""shower"" like ""sour""",4.0
+p38510,LC,4,14,5.0,5.0,"stutters word ""follow""",1.0
+p38510,LC,7,113,6.0,6.0,"pronounces ""waved"" like ""worked""",1.0
+p38510,LC,14,138,7.0,7.0,"pronounces ""lodging"" like ""lozing""",1.0
+p38510,LC,16,99999,7.0,7.0,"adds phrase ""close to"" before giving pain rating",1.0
+p38510,LC,17,135,7.0,7.0,"interrupts sentences with ""uh"" at the beginning and in between words ""of"" and ""the""; no pain rating given so copied down rather than up",1.0
+p38510,LW,13,91,1.0,1.0,"pronounces ""slush"" like ""slus""",1.0
+p38510,LW,23,181,1.0,1.0,"mispronounces ""wool"" as ""wood"", then corrects",1.0
+p38510,LW,27,110,1.0,1.0,"pronounces ""the"" like ""that""",0.0
+p38510,LW,29,23,1.0,1.0,"pronounces ""sew"" like ""shoe""",1.0
+p38510,RC,1,94,5.0,5.0,"pronounces ""sharp"" like ""sarp""",1.0
+p38510,RC,10,107,6.0,6.0,"pronounces ""age"" like ""aze""",1.0
+p38510,RC,12,95,7.0,7.0,"pronounces ""dull"" like ""tall""",1.0
+p38510,RW,6,99999,1.0,1.0,"slight stutter on word ""pain""",1.0
+p38510,RW,10,72,1.0,1.0,"pronounces ""met"" like ""mit""",1.0
+p38510,RW,13,91,1.0,1.0,"pronounces ""slush"" like ""slus""",1.0
+p38510,RW,14,169,1.0,1.0,"rolls ""r"" in ""rag""",1.0
+p38510,RW,15,145,1.0,1.0,"pronounces ""thistles"" like ""tis-toes""",1.0
+p38510,RW,22,67,1.0,1.0,"pronounces ""crash"" like ""crass""",1.0
+p38510,RW,33,107,1.0,1.0,"pronounces ""age"" like ""aze""",1.0
+p38510,RW,39,58,1.0,1.0,"pronounces ""fudge"" like ""fuzz""; click at end; no pain rating given so copied down rather than up",3.0
+p40505,LC,1,119,5.0,5.0,"click near beginning; pronounces ""score"" like ""scro""",3.0
+p40505,LC,7,172,7.0,7.0,"pronounces ""child"" like ""shal""; click in middle",3.0
+p40505,LC,8,47,7.0,7.0,"reads first word as ""A"" instead of ""The""; adds word ""be"" in between ""will"" and bind""; clicks at end",3.0
+p40505,LC,20,8,8.0,8.0,"pronounces ""hogs"" like ""hals""; adds words ""the"" in between ""were"" and ""fed""",1.0
+p40505,LC,23,31,9.0,9.0,"pronounces ""load"" like ""lord""; slight click at end",2.0
+p40505,LC,25,2,9.0,9.0,"add word ""to"" in between ""glue"" and ""the""",0.0
+p40505,LC,32,6,10.0,10.0,"stutters after ""makes"", then corrects with repetition of ""makes""",1.0
+p40505,LC,38,48,10.0,10.0,"pronounces ""fence"" like ""fench""; no pain rating given so copied down rather than up",1.0
+p40505,LW,12,23,1.0,1.0,"first word ""Press"" cut out; pronounces ""sew"" like ""sue"" and ""vest"" like ""west""",1.0
+p40505,LW,25,20,1.0,1.0,"first word ""The"" cut out; pronounces ""booth"" like ""bottom""; humming throughout",3.0
+p40505,RC,4,7,6.0,6.0,"pronounces ""box"" like ""bock""",1.0
+p40505,RC,5,164,6.0,6.0,"first word ""A"" cut out; pronounces ""filing"" like ""failing""; static throughout; clinking at end",3.0
+p40505,RC,8,56,9.0,9.0,"stutters on word ""oiled"", then corrects by repeating ""oiled""; static at end",3.0
+p40505,RC,13,181,10.0,10.0,"loud shuffing throughout; pronounces ""cloth"" like ""cut""",4.0
+p40505,RC,14,160,10.0,10.0,"first word ""The"" cut out; pronounces ""soft"" like ""sofa"";",1.0
+p40505,RC,15,114,10.0,10.0,"first word ""Split"" cut out; pronounces ""quick"" like ""quirk""; slight click at end",2.0
+p40505,RC,17,98,10.0,10.0,"pronounces ""tusk"" like ""toast""",1.0
+p40505,RC,19,171,10.0,10.0,"pronounces ""valve"" like ""val""; click at end",3.0
+p40505,RC,29,32,10.0,10.0,"first word ""Take"" cut out; stumbles on word ""winding""; pronounces ""winding"" like ""wind-ing""; static at end",3.0
+p40505,RC,34,23,10.0,10.0,"first word ""Press"" cut out; pronounces ""sew"" like""sue"" and ""vest"" like ""west""",1.0
+p40505,RW,10,56,2.0,2.0,"stutters phrase ""The wagon""; pronounces ""wagon"" like ""way-gon""; loud static at end",4.0
+p40505,RW,20,118,1.0,1.0,"stutters word ""found"" and ""tropics""",1.0
+p40505,RW,35,7,1.0,1.0,"pronounces ""box"" like ""bock"" and ""thrown"" like ""shr-own""",1.0
+p40505,RW,38,181,1.0,1.0,"pronounces ""cloth"" like ""clothes""; no pain rating given so copied down rather than up",1.0
+p47080,LC,10,43,8.0,8.0,"stutters on word ""sickness""",1.0
+p47080,LC,15,102,9.0,9.0,"leaves out word ""each""; slight click at end",2.0
+p47080,LC,20,6,8.0,8.0,"slight stutter on word ""makes""",1.0
+p47080,LW,16,99999,1.0,1.0,"leaves out word ""right""; slight static at end",2.0
+p47080,RC,36,99999,7.0,7.0,"leaves out ""of 1-10""",1.0
+p47080,RC,43,147,8.0,8.0,"pronounces ""tree"" like ""tee""; no pain rating given so copied down rather than up",1.0
+p50580,LW,12,183,1.0,1.0,"stutters after word ""burned""; then repeats word ""burned""",1.0
+p50580,LW,32,164,1.0,1.0,"mispronounces ""filing"" as ""filling"", then corrects to ""filing""",1.0
+p50580,RC,5,101,5.0,5.0,"stutters on word ""is""",1.0
+p50580,RC,6,99999,5.0,5.0,"stutters on word ""pain""",1.0
+p50580,RC,15,60,6.0,6.0,"mispronounces ""raging"" as ""ranging"", then corrects to ""raging""",1.0
+p50580,RC,27,52,6.0,6.0,"pronounces ""crooked"" like ""crook-ed""; clanking at end",3.0
+p50580,RC,31,99999,6.0,6.0,"mistakenly says ""pain right now"" then corrects to ""pain I feel right now""; slight click at end",2.0
+p50580,RC,39,142,6.0,6.0,"mistakenly says ""from the top"", then corrects to ""from the first""",1.0
+p50580,RW,3,119,1.0,1.0,"stutters in between ""his"" and ""score""; slight click at end",2.0
+p50580,RW,22,28,1.0,1.0,"pronounces ""tall"" like ""tail""",1.0
+p50635,LC,6,99999,8.0,8.0,"stumbles on word ""pain""",1.0
+p50635,RC,1,75,8.0,8.0,"pronounces ""lease"" like ""leeze""",1.0
+p50635,RW,28,159,1.0,1.0,"stutters on word ""she""; clears throat loudly at end",4.0
+p52610,LC,6,99999,5.0,5.0,"slight stutter of word ""feel""; airy noise at end",3.0
+p52610,LW,19,164,1.0,1.0,"elongates ""f"" in ""filing""; click at end",3.0
+p52610,LW,38,44,1.0,1.0,"mistakenly reads ""The road"", then corrects to ""The wide road""; slight click at end",2.0
+p52610,RW,18,102,1.0,1.0,"says ""hate each other"" instead of ""each hate the other""; click at end",3.0
+p52610,RW,28,185,1.0,1.0,"stutters on word ""suffer""; click at end",3.0
+p52610,RW,37,55,1.0,1.0,"stutters on word ""making""; no pain rating given so copied down rather than up",1.0
+p52610,RW,38,150,1.0,1.0,"stutters on word ""cigar""; no pain rating given so copied down rather than up",1.0
+p58845,LC,11,99999,4.0,4.0,"first word ""On"" cut out; slight stutter after word ""of"" and on word ""four""",1.0
+p58845,LC,13,21,5.0,5.0,"first part of sentence cut out (""The small pup""); stumbles in between word ""gnawed"" and ""hole""; creaking at end",3.0
+p58845,LC,14,99,5.0,5.0,"mistakenly says ""tennis"" then corrects to ""ten pins""",1.0
+p58845,LC,18,108,6.0,6.0,"mistakenly says ""will great"" then corrects to ""with great""; clank at end",3.0
+p58845,LC,23,180,6.0,6.0,loudly sniffs at beginning,4.0
+p58845,LC,30,0,6.0,6.0,"says ""white colors"" instead of ""white light""",1.0
+p58845,LC,37,151,5.0,5.0,"stutters on word ""tin""",1.0
+p58845,LW,15,16,1.0,1.0,"stutters heavily on ""to pass""",1.0
+p58845,LW,24,167,1.0,1.0,"misses word ""a"" after word ""was""",0.0
+p58845,LW,27,75,1.0,1.0,"stutters on word ""in""",1.0
+p58845,LW,35,127,1.0,1.0,"pronounces ""hind"" like ""hin""; slight click at end",2.0
+p58845,RC,6,99999,3.0,3.0,"misses phrase ""one to""",1.0
+p58845,RC,8,169,4.0,4.0,"pronounces ""rag"" like ""rage""; click at end",3.0
+p58845,RC,11,99999,4.0,4.0,"mistakenly says ""scale of 10"", then corrects to ""scale of 1 to 10""; click in middle; static at end",3.0
+p58845,RC,16,99999,5.0,5.0,"loud clicks at beginning; mistakenly says ""scale of 10"", then corrects to ""1 to 10""",4.0
+p58845,RC,17,73,5.0,5.0,"mistakenly says ""strain"", then corrects to ""stain""; static throughout; no pain rating given so copied down rather than up",3.0
+p58845,RC,19,181,5.0,5.0,"first half of sentence cut out (""Acid burns holes""); add word ""the"" after word ""in""; loud click near middle; no pain rating given so copied down rather than up",4.0
+p58845,RW,7,1,1.0,1.0,"stutters on word ""planks""",1.0
+p58845,RW,22,117,1.0,1.0,"pronounces ""weave"" like ""wave""; sharp airy noise at end",3.0
+p58845,RW,24,79,1.0,1.0,"first word ""The"" cut out; slight stutter after word ""pearl""",1.0
+p58845,RW,34,18,1.0,1.0,"stutters on word ""soft""; slight beep at end",2.0
+p59330,LW,1,159,1.0,1.0,"pronounces ""sewed"" like ""sued""",1.0
+p59330,LW,6,99999,1.0,1.0,"pronounces ""feel"" like ""here""; airy noise at end",3.0
+p59330,LW,10,102,1.0,1.0,"mistakenly says ""dogs hate"", then corrects to ""dogs each hate""; says word ""each"" instead of ""the"" before word ""others""",1.0
+p59330,LW,24,137,1.0,1.0,"pronounces ""the"" like ""that"" and ""cherish"" like ""cheris""; sharp static at end",3.0
+p59330,LW,30,177,1.0,1.0,"pronounces ""doctor"" like ""buck-ter"" and ""with"" like ""while""; airy noise at end",3.0
+p59330,RW,8,78,1.0,1.0,"pronounces ""strokes"" like ""strucks""",1.0
+p59330,RW,13,180,1.0,1.0,"says ""an"" before reading assigned sentence; slight click at end",2.0
+p59330,RW,17,121,1.0,1.0,"adds word ""these"" after word ""out""",1.0
+p59330,RW,18,23,1.0,1.0,"pronounces ""sew"" like ""sue""",1.0
+p59330,RW,24,25,1.0,1.0,"stutters on word ""boy""",1.0
+p59330,RW,30,159,1.0,1.0,"pronounces ""sewed"" like ""sued""",1.0
+p59330,RW,40,83,1.0,1.0,"stutters ""there are""; no pain rating given so copied down rather than up",1.0
+p59520,RW,12,38,1.0,1.0,"stutters on word ""gave""",1.0
+p60145,LC,1,98,6.0,6.0,"speaker makes ""uh"" sound at end",1.0
+p60145,LC,2,19,6.0,6.0,"first word ""The"" cut out; says ""ocean"" instead of ""sea""",1.0
+p60145,LC,5,70,6.0,6.0,"loud static at beginning; speaker makes ""uh"" sound at end",4.0
+p60145,LC,9,152,7.0,7.0,"first part of sentence cut out (""A sp-""); speaker makes ""uh"" sound at end; scrape at end",3.0
+p60145,LC,10,176,7.0,7.0,"loud scrape at beginning; speaker makes ""uh"" sound at end",4.0
+p60145,LC,13,177,8.0,8.0,"speaker makes ""uh"" sound at end",1.0
+p60145,LC,24,146,6.0,6.0,"speaker makes ""uh"" sound at end",1.0
+p60145,LC,27,166,5.0,5.0,"speaker makes ""uh"" sound at end",1.0
+p60145,LC,29,73,5.0,5.0,"speaker makes ""uh"" sound at end",1.0
+p60145,LC,30,165,5.0,5.0,"speaker makes ""uh"" sound at end",1.0
+p60145,LW,10,47,1.0,1.0,"speaker makes ""uh"" sound at end",1.0
+p60145,LW,14,21,1.0,1.0,"first word ""The"" cut out; stutters after word ""gnawed""",1.0
+p60145,LW,18,170,1.0,1.0,"says ""fell from the"" twice; slight static at end",2.0
+p60145,RC,5,70,4.0,4.0,"speaker makes ""uh"" sound at end",1.0
+p60145,RC,7,27,6.0,6.0,"loud scraping near middle; speaker makes ""uh"" sound at end",4.0
+p60145,RC,15,77,7.0,7.0,"adds word ""up"" after ""woke""",1.0
+p60145,RC,18,73,7.0,7.0,"speaker makes ""uh"" sound at end",1.0
+p60145,RC,29,132,6.0,6.0,"speaker makes ""uh"" sound at end",1.0
+p60145,RC,34,66,6.0,6.0,"speaker makes ""uh"" sound at end",1.0
+p60145,RC,37,152,6.0,6.0,"first part of sentence cut out (""A s-""); speaker makes ""uh"" sound at end; no pain rating given so copied down rather than up",1.0
+p60145,RC,38,38,6.0,6.0,"speaker makes ""uh"" sound at end; no pain rating given so copied down rather than up",1.0
+p60145,RW,32,184,1.0,1.0,"speaker makes ""uh"" sound at end",1.0
+p61160,LC,1,56,6.0,6.0,"slight stutter on word ""well""; shuffling at end",3.0
+p61160,LC,4,67,6.0,6.0,"says ""chinas"" instead of ""china""",1.0
+p61160,LC,8,160,9.0,9.0,"misses word ""and"" in between word ""red"" and ""of""",1.0
+p61160,LC,11,99999,9.0,9.0,"first word ""On"" cut out; misses word ""of"" in between ""scale"" and ""one""; no pain rating given so copied down rather than up",0.0
+p61160,LC,12,91,9.0,9.0,"loud water noise at end; says ""k"" after saying assigned sentence; static at end; no pain rating given so copied down rather than up",4.0
+p61160,LW,15,82,1.0,1.0,"stutters on word ""scared""; slight low click at end",2.0
+p61160,LW,20,141,1.0,1.0,"stutters on word ""gate""; click at end",3.0
+p61160,LW,25,100,1.0,1.0,"stutters on word ""third""",1.0
+p61160,RW,2,80,1.0,1.0,"stutters word ""peel"", then repeats sentence from start",1.0
+p61160,RW,18,94,1.0,1.0,"stutters on word ""water""",1.0
+p61160,RW,24,89,1.0,1.0,"slight stutter after word ""the""",1.0
+p61160,RW,25,105,1.0,1.0,"slight stutter on word ""the""",1.0
+p61395,LC,14,105,7.0,7.0,"stutters on word ""Add""",1.0
+p61395,LW,8,102,0.0,1.0,"says ""hate each other"" instead of ""each hate the other""; slight static at end",2.0
+p61395,LW,14,50,1.0,1.0,"pronounces ""mesh"" like ""men""",1.0
+p61395,LW,24,159,1.0,1.0,"starts sentence with ""The"" instead of ""She""; pronounces ""neatly"" like ""nearly"", starts to correct the mispronounciation but then audio cuts off",1.0
+p61395,RC,35,159,3.0,3.0,"stutters on word ""coat""; click at end",3.0
+p61395,RW,19,141,1.0,1.0,"pronounces ""rusty"" like ""rusky"", then corrects to ""rusty""",1.0
+p62650,LC,2,9,,,"says ""Four"" three times; no pain rating given",
+p62650,LW,4,181,1.0,1.0,"pronounces ""Acid"" like ""Ay-sid""",1.0
+p62650,LW,7,108,1.0,1.0,"pronounces ""orders"" like ""otters""",1.0
+p62650,LW,8,59,1.0,1.0,"pronounces ""rose"" like ""low-se"" and ""porch"" like ""porsh""",1.0
+p62650,LW,12,84,1.0,1.0,"pronounces ""was"" like ""werse"" and ""droopy"" like ""drop-y""",1.0
+p62650,LW,22,131,1.0,1.0,"pronounces ""swim"" like ""sweem""; slight click at end",2.0
+p62650,LW,32,61,1.0,1.0,"stutters on word ""circus""; no pain rating given so copied down rather than up",1.0
+p62650,LW,34,56,1.0,1.0,"pronounces ""wagon"" like ""way-gon""; no pain rating given so copied down rather than up",1.0
+p62650,RC,8,119,9.0,9.0,"stutters on word ""his""",1.0
+p62650,RC,13,78,8.0,8.0,"says ""Two blue fish"" before reading assigned sentence",4.0
+p62650,RC,29,182,5.0,5.0,"pronounces ""fairy tales"" as ""fair tales"", then corrects to ""fairy tales""",1.0
+p62650,RC,33,167,5.0,5.0,"pronounces ""dull"" like ""dall""; no pain rating given so copied down rather than up",1.0
+p62650,RW,7,58,1.0,1.0,"pronounces ""fudge"" like ""fuge""",1.0
+p62650,RW,10,150,1.0,1.0,"slight stutter on word ""desk""",1.0
+p62650,RW,14,127,1.0,1.0,"stutters after word ""caught""; pronounces ""hind"" like ""hin""",1.0
+p62650,RW,23,16,1.0,1.0,"pronounces ""tea"" like ""sea""",1.0
+p64560,LC,40,150,3.0,3.0,"stutters word ""desk""; no pain rating given so copied down rather than up",1.0
+p64560,LW,8,109,1.0,1.0,"Says ""A"" instead of ""The""",0.0
+p64560,LW,22,147,1.0,1.0,"mistakenly begins sentence with ""three""",1.0
+p64560,RC,23,11,6.0,6.0,"first word ""The"" cut out; stutters on word ""sun""",1.0
+p64560,RC,25,59,6.0,6.0,"pronounces ""bush"" like ""brush""",1.0
+p64560,RC,34,124,5.0,5.0,"first word ""The"" cut out; pronounces ""spilled"" like ""spli""",1.0
+p64560,RC,35,150,5.0,5.0,"pronounces ""cigar"" like ""ciger"" and ""the"" like ""this""; click at end",3.0
+p64560,RC,38,77,5.0,5.0,"pronounces ""horn"" like ""corn""; click at end; last part of sentence cut out (""the sleeping cop""); no pain rating given so copied down rather than up",3.0
+p65330,LC,15,164,5.0,5.0,"pronounces ""filing"" like ""filling""",1.0
+p65330,LW,8,151,1.0,1.0,"stumbles on word ""tin"", then repeats phrase ""on the tin""",1.0
+p65330,LW,13,86,1.0,1.0,"pronounces ""grass"" like ""glass""",1.0
+p65330,LW,16,99999,1.0,1.0,"stutters on word ""pain""",1.0
+p65330,RC,27,145,8.0,8.0,"first word ""These"" cut out; stutters on word ""thistles""; misses word ""a"" in between ""in"" and ""high""",1.0
+p65330,RW,22,102,1.0,1.0,"stutters word ""each""; says ""hate each other"" instead of ""hate the other""",1.0
+p65330,RW,32,151,1.0,1.0,"stutters word ""tin""",1.0
+p65870,LC,2,79,2.0,2.0,"adds word ""with"" after word ""worn""; airy noise at end",3.0
+p65870,LW,18,132,1.0,1.0,"pronounces ""phrase"" like ""phase""",1.0
+p65870,LW,19,150,1.0,1.0,"pronounces ""cigar"" like ""ciger""",1.0
+p65870,RC,4,47,2.0,2.0,"stutters on word ""bind""",1.0
+p65870,RC,12,21,3.0,3.0,"stutters on word ""sock""; airy click at end",3.0
+p65870,RC,17,163,4.0,4.0,"pronounces ""figures"" like ""fingers""; airy noise at end",3.0
+p65870,RW,14,157,1.0,1.0,"pronounces ""pirates"" like ""pirace""; slight stutter after word ""the""",1.0
+p65870,RW,17,141,1.0,1.0,"stutters on word ""gate""; slight airy noise at end",2.0
+p65870,RW,20,138,1.0,1.0,"pronounces ""clothes"" like ""clotes""; slight click near middle",2.0
+p66385,LW,38,52,1.0,1.0,"pronounces ""crooked"" like ""crook-ed""; no pain rating given so copied down rather than up",1.0
+p66385,LW,39,160,1.0,1.0,"stumbles on word ""sofa"", then starts sentence from beginning to correct; no pain rating given so copied down rather than up",1.0
+p66385,RC,18,80,7.0,7.0,"says ""thin"" instead of ""thick""",1.0
+p66385,RW,40,161,1.0,1.0,"slight background voice near middle; says ""car"" instead of ""chair""",3.0
+p68215,LC,4,102,5.0,5.0,"adds word ""hate"" in between ""dogs"" and ""each""",1.0
+p68215,LC,15,135,6.0,6.0,"says ""The c-"" before reading assigned sentence",1.0
+p68340,LC,18,128,3.0,3.0,"pronounces ""farther"" like ""further""",1.0
+p68340,LW,12,145,1.0,1.0,"pronounces ""These"" like ""Those""",1.0
+p68340,RC,34,74,3.0,3.0,"click at beginning; pronounces ""walled"" like ""wild""",3.0
+p68340,RW,29,0,1.0,1.0,"initially says ""division of light"", then corrects to ""division of white light""",1.0
+p68625,LC,4,48,4.0,4.0,"stutters on word ""over"", then repeats sentence to correct",1.0
+p68625,LC,27,30,8.0,8.0,"pronounces ""pleasure"" like ""preasure""",1.0
+p68625,RC,1,149,4.0,4.0,"begins sentence with ""duh""; click near middle",3.0
+p68625,RC,4,42,4.0,4.0,"says ""Hoist the load to"" before reading assigned sentence",4.0
+p68870,LC,7,28,9.0,9.0,"first part of sentence cut out (""The colt""); pronounces ""threw"" like ""true""",1.0
+p68870,LC,8,31,9.0,9.0,"says ""the"" instead of ""your""",0.0
+p68870,LC,19,152,8.0,8.0,"pronounces ""A speedy"" like ""I speed""",1.0
+p68870,LW,1,84,1.0,1.0,"squeak at end; pronounces ""droopy"" like ""droppy""",3.0
+p68870,LW,5,27,1.0,1.0,"pronounces ""useless"" like ""eeless""",1.0
+p68870,LW,24,106,1.0,1.0,"pronounces ""thieves"" like ""teeves""; slight click at end",2.0
+p68870,RC,1,79,7.0,7.0,"pronounces ""pearl"" like ""pur""; static near middle",3.0
+p68870,RC,9,84,8.0,8.0,"pronounces ""droopy"" like ""droppy""",1.0
+p68870,RC,12,167,8.0,8.0,"slight click near beginning; misses word ""a"" in betwee ""was"" and ""dull""; loud click at end",4.0
+p68870,RC,25,120,8.0,8.0,"pronounces ""things"" like ""fangs""",1.0
+p68870,RC,27,127,6.0,6.0,"pronounces ""hind"" like ""h-in-d"" and ""rusty"" like ""russ""",1.0
+p68870,RW,2,32,1.0,1.0,"pronounces ""winding"" like ""wind-in""; audible exhale at end",1.0
+p68870,RW,14,106,1.0,1.0,"pronounces ""thieves"" like ""teeves""",1.0
+p68870,RW,19,47,1.0,1.0,"pronounces ""rope will bind"" like ""hope will blind""; click near middle",3.0
+p68870,RW,27,164,1.0,1.0,"pronounces ""filing"" llke ""feeling""",1.0
+p71740,LW,22,64,1.0,1.0,"mistakenly says ""to the"", then corrects to ""to mark""",1.0
+p71740,RC,18,160,10.0,10.0,"mistakenly says ""and light"", then corrects to ""and of light""; loud click at end",4.0
+p71740,RC,36,99999,10.0,10.0,"stutters on word ""pain""",1.0
+p74405,LW,1,125,0.0,1.0,"stutters heavily on word ""most""",1.0
+p74405,RC,33,181,5.0,5.0,"adds word ""the"" in between ""in"" and ""wool""",0.0
+p74405,RC,37,64,5.0,5.0,"stutters on word ""clock""; no pain rating given so copied down rather than up",1.0
+p77220,LC,12,118,8.0,8.0,"misses word ""the"" before ""tropics""; no pain rating given so copied down rather than up",0.0
+p77220,LW,14,52,3.0,3.0,"pronounces ""crooked"" like ""crook-ed""",1.0
+p77220,LW,19,37,4.0,4.0,"says ""the"" twice",1.0
+p77220,LW,21,99999,4.0,4.0,"says ""ten"" twice",1.0
+p77220,LW,23,95,4.0,4.0,"stutters on word ""seems""; click at end",3.0
+p77220,LW,28,101,5.0,5.0,"pronounces ""shade"" like ""shades""",0.0
+p77220,LW,29,71,5.0,5.0,"stutters on word ""around""; click at end",3.0
+p77220,LW,35,177,5.0,5.0,"mistakenly says ""with the"", then corrects to ""with these""",1.0
+p77220,RC,10,183,9.0,9.0,"begins sentence with ""uh""",1.0
+p77220,RW,12,181,3.0,3.0,"says ""uh"" after word ""burns""",1.0
+p77220,RW,21,99999,4.0,4.0,"stutters on word ""ten""",1.0
+p77220,RW,23,60,4.0,4.0,"stutters on word ""storm""",1.0
+p77220,RW,25,31,4.0,4.0,"pronounces ""hoist"" like ""host""",1.0
+p77560,LC,2,169,3.0,3.0,"stutters on word ""spilled""",1.0
+p77560,LC,17,20,5.0,5.0,"stutters on word ""sold""",1.0
+p77560,LC,24,54,6.0,6.0,"stutters on word ""flop""; click at end",3.0
+p77560,LC,37,71,6.0,6.0,"says ""A yacht"" twice; no pain rating given so copied down rather than up",1.0
+p77560,LW,20,33,2.0,2.0,"says ""Note closely the"" twice; click at end",3.0
+p77560,LW,21,99999,2.0,2.0,"says ""uh"" before giving pain rating",1.0
+p77560,LW,28,89,2.0,2.0,"says ""right"" instead of ""tight""; click at end",3.0
+p77560,RC,8,146,4.0,4.0,"says ""pure"" twice",1.0
+p77560,RC,30,56,6.0,6.0,"stutters on word ""moved""; slight static at end",2.0
+p77560,RW,10,152,1.0,1.0,"stutters on word ""track""",1.0
+p77560,RW,28,19,3.0,3.0,"misses word ""from"" after ""across""; click at end",3.0
+p79550,LC,37,152,7.0,7.0,"says ""beat his this"" instead of ""beat this""; no pain rating given so copied down rather than up",1.0
+p79550,LC,38,132,7.0,7.0,"mistakenly starts with ""He paid"", then corrects to ""He said""; majority of sentence cut out (""the same phrase thirty times""); no pain rating given so copied down rather than up",2.0
+p79550,LW,10,179,1.0,1.0,"whispers ""sorry"" and laughs before reading assigned sentence",4.0
+p79550,LW,12,46,1.0,1.0,"laughs while saying ""over the fence""",4.0
+p79550,RC,10,137,6.0,6.0,"laughs while saying word ""Write""",4.0
+p79550,RC,32,159,7.0,7.0,"says ""the coat"", then corrects to ""the torn coat""; no pain rating given so copied down rather than up",1.0
+p79665,LW,7,157,1.0,1.0,"first word ""The"" cut out; stutters on word ""seized""; click at end",3.0
+p79665,RC,13,32,7.0,7.0,"pronounces ""winding"" like ""wind-ing""; click at end",3.0
+p79665,RC,34,159,6.0,6.0,"stutters on word ""coat""; no pain rating given so copied down rather than up",1.0
+p80330,LW,40,26,1.0,1.0,"stutters on word ""fish""; click at end; no pain rating given so copied down rather than up",3.0
+p80330,RC,8,185,5.0,5.0,"click at beginning and end; pronounces ""fright"" like ""fried""",3.0
+p80330,RC,33,7,4.0,4.0,"pronounces ""truck"" like ""trunk""; click at end",3.0
+p80330,RC,35,70,4.0,4.0,"mistaenly says ""to the"", then corrects to ""for the""",1.0
+p80330,RW,10,102,1.0,1.0,"mistakenly says ""hate each hate each other"", then starts to correct , saying ""hate the"", then audio cuts out; static at end",3.0
+p80330,RW,30,118,1.0,1.0,"adds word ""the"" in between ""in"" and ""parts""; static at end",3.0
+p86910,LC,1,68,7.0,7.0,"pronounces ""season"" like ""session""",1.0
+p86910,LC,5,179,7.0,7.0,"crinkling at beginning; says ""um"" after word ""when""; shuffling near end; audible exhale at end",3.0
+p86910,LC,13,21,9.0,9.0,"first part of sentence cut out (""The small pup"");  starts sentence with ""uh""; adds word ""on"" after ""gnawed""; says ""um"" after word ""hole""; click at end",3.0
+p86910,LW,4,157,1.0,1.0,"says ""eh"" before word ""crew""; misses word ""the"" before word ""lost"";  click at end",3.0
+p86910,LW,5,26,1.0,1.0,"pronounces ""blue"" like ""woo""; click at end",3.0
+p86910,LW,7,29,1.0,1.0,"stumbles heavily after word ""hailed""; scraping at end",3.0
+p86910,LW,14,149,1.0,1.0,"says ""on the front"" twice, seperated by an ""um""; slight click at end",2.0
+p86910,LW,15,168,1.0,1.0,"says ""a"" instead of ""the""; click near end",3.0
+p86910,LW,25,23,1.0,1.0,"says ""uh"" after word ""and"", pronounces ""sew"" like ""sue""; slight click at end",2.0
+p86910,LW,29,161,1.0,1.0,"says ""um"" before word ""back""; slight click at end",2.0
+p86910,LW,30,115,1.0,1.0,"stutters on word ""give""",1.0
+p86910,LW,34,80,1.0,1.0,"says ""slice"" instead of ""slices""; click at end; no pain rating given so copied down rather than up",3.0
+p86910,RC,3,1,4.0,4.0,"first word ""The"" cut out; pronounces ""slid"" like ""slide""; click in middle",3.0
+p86910,RC,4,32,4.0,4.0,"pronounces ""winding"" like ""wind-ing""; static at end",3.0
+p86910,RC,7,71,5.0,5.0,"pronounces ""yacht"" like ""yatch; says ""um"" after ""slid""; click at end",3.0
+p86910,RC,10,146,5.0,5.0,"pronounces ""poodles"" like ""puddles"" and ""curls"" like ""cures""; slight click near end",2.0
+p86910,RC,12,26,6.0,6.0,"slight whir near beginning; stutters before word ""tank""; clicks at end",3.0
+p86910,RC,13,21,6.0,6.0,"first part of sentence cut out (""The small pup""); says ""um"" before ""gnawed""; pronounces ""gnawed"" like ""g-nowed""; adds word ""in"" after ""gnawed""; says ""um"" after ""hole""; stutters on word ""sock"", then corrects by repeating phrase ""in the sock""; clicks at end",3.0
+p86910,RC,19,133,8.0,8.0,"pronounces ""pluck"" like ""plunk""; airy noise and click at end",3.0
+p86910,RC,24,6,8.0,8.0,"stutters on word ""makes""; clicks throughout",3.0
+p86910,RC,27,3,7.0,7.0,"says ""um"" after ""tell""; stutters heavily on ""of a""; click near middle and end; airy noise at end",3.0
+p86910,RC,33,135,7.0,7.0,"mistakenly says ""sweat girl"", then corrects to ""sweet girl""; clicks at end; no pain rating given so copied down rather than up",3.0
+p86910,RC,34,168,7.0,7.0,"begins sentence with ""He knew he um s-""; says ""a"" instead of ""the""; clicks near beginning and end; no pain rating given so copied down rather than up",3.0
+p86910,RW,2,65,1.0,1.0,"mjority of sentence cut out; (""A small creek cut across""); pronounces ""field"" like ""filled""; clicks",3.0
+p86910,RW,4,5,1.0,1.0,"stutters on word ""bowls""; click at end",3.0
+p86910,RW,6,99999,1.0,1.0,"stutters after word ""feel""; clicks near end",3.0
+p86910,RW,7,127,1.0,1.0,"first word ""It"" cut out; pronounces ""hind"" like ""heend""; misses word ""a"" before ""rusty""; click at end",3.0
+p86910,RW,9,55,1.0,1.0,"first part of sentence cut out (""A s-""); says ""um"" after ""tool""",1.0
+p86910,RW,12,56,1.0,1.0,"says ""um"" after word ""moved""",1.0
+p86910,RW,15,137,1.0,1.0,"begins sentence with ""Write a fo- um""; slight click at end",2.0
+p86910,RW,22,35,1.0,1.0,"says ""um"" after ""coat""; slight airy noise at end",2.0
+p86910,RW,23,136,1.0,1.0,"pronounces ""chief"" like ""chef""",1.0
+p86910,RW,25,165,1.0,1.0,"says ""start"" twice, interrupted by an ""um""; slight click near end",2.0
+p86910,RW,27,68,1.0,1.0,"mistakenly says ""session"", then corrects to ""season""; slight click at end",2.0
+p86910,RW,30,159,1.0,1.0,"pronounces ""sewed"" like ""sued""; slight click near middle;  mistakenly says ""nicely"" then correccts to ""neatly""",2.0
+p86910,RW,33,109,1.0,1.0,"begins sentence with ""The hog craw- uh""; click at end; no pain rating given so copied down rather than up",4.0
+p86910,RW,35,70,1.0,1.0,"says ""uh"" after ""words""; pronounces ""cue"" like ""coo""; says ""um"" after"" ""for""; last word ""leave"" cut out; no pain rating given so copied down rather than up",1.0
+p88575,LC,20,91,9.0,9.0,"pronounces ""slush"" like ""slushie""",1.0
+p88575,LW,25,182,1.0,1.0,"says ""mm"" before ""fun""; slight click at end",2.0
+p88575,LW,33,170,1.0,1.0,"adds word ""the"" before ""dirt""",0.0
+p88575,RC,12,102,9.0,9.0,"says ""hate each other"" instead of ""hate the other""",1.0
+p88575,RC,18,74,9.0,9.0,"stutters on word ""seized""",1.0
+p88575,RC,42,113,8.0,8.0,"first word ""The"" cut out; missed word ""when"" after ""waved""; no pain rating given so copied down rather than up",1.0
+p88575,RW,5,102,1.0,1.0,"says ""the"" twice",1.0
+p88575,RW,19,8,1.0,1.0,"pronnounces ""chopped"" like ""chomped""",1.0
+p88575,RW,22,17,1.0,1.0,"pronounces ""heat"" like ""heart""",1.0
+p88575,RW,34,144,1.0,1.0,"says ""victim"" instead of ""verdict""",1.0
+p88775,LC,8,149,7.0,7.0,"says ""oh"" at end; obvious water noise at end; no pain rating given so copied down rather than up",4.0
+p88775,LW,5,34,3.0,3.0,"first word ""Wipe"" cut out; adds ""wipe"" at end",1.0
+p88775,LW,12,45,3.0,3.0,"mistakenly says ""coal"", then corrects to ""cool""",1.0
+p88775,RC,3,36,6.0,6.0,"says ""stained"" instead of ""strained""",1.0
+p88775,RC,4,162,6.0,6.0,"says ""the"" instead of ""that""",0.0
+p88775,RC,5,80,6.0,6.0,"stutters on word ""fruit""; shuffle near middle; mistakenly says ""thin"", then corrects to ""thick""",3.0
+p88775,RC,7,3,6.0,6.0,"stutters on word ""well""; no pain rating given so copied down rather than up",1.0
+p88775,RC,8,150,6.0,6.0,"whispers ""ow sorry"" at end; obvious water noise at end; no pain rating given so copied down rather than up",4.0
+p88775,RW,4,65,2.0,2.0,"first half of sentence cut out (""A small creek cut""); stutters on word ""across""",1.0
+p88775,RW,6,99999,2.0,2.0,"mistakenly says ""my pain right now I feel"", then corrects to ""the pain I feel right now""",1.0
+p88775,RW,12,172,2.0,2.0,"stutters on word ""the"" and ""dog""; click at end",3.0
+p88775,RW,15,138,2.0,2.0,"pronounces ""clothes"" like ""clothe""; adds word ""the"" before ""lodging""; clatter at end",3.0
+p88775,RW,27,66,2.0,2.0,"stutter after word ""snow""",1.0
+p88775,RW,28,32,2.0,2.0,"pronounces ""winding"" like ""wind-ing"" and ""path"" like ""pain""",1.0
+p88775,RW,29,41,2.0,2.0,"click near middle and end; mistakenly says ""in ear-"", then corrects to ""in the early""",3.0
+p91315,LC,18,29,4.0,4.0,"stutters word ""and""; slight static at end",2.0
+p91315,LW,8,8,1.0,1.0,"stutters on word ""fed""",1.0
+p91315,LW,28,90,1.0,1.0,"slight stumble on ""prone""; click at end",3.0
+p91315,RC,23,140,6.0,6.0,"adds word ""The"" at beginning",0.0
+p91315,RC,33,36,5.0,5.0,"mistakenly says ""was strained and"", then corrects to ""was badly strained and""",1.0
+p91315,RW,17,165,1.0,1.0,"says ""The"" instead of ""An""",0.0
+p91315,RW,25,167,1.0,1.0,"mistakenly says ""was dull"", then corrects to ""was a dull""",1.0
+p91315,RW,27,137,1.0,1.0,"mistakenly says ""to your"", then corrects to ""to the""",1.0
+p93975,RC,38,2,8.0,8.0,"pronounces ""background"" like ""blackground""; click at end",3.0
+p93975,RW,18,30,1.0,1.0,"stutters on word ""pleasure""",1.0
+p93975,RW,40,26,1.0,1.0,"last part of sentence cut out (""the tank""); voice sounds electronic at end",3.0
+p97630,LC,29,136,4.0,4.0,"stutters on word ""chief""",1.0
+p97630,RC,19,162,4.0,4.0,"pronounces ""air"" like ""ear""",1.0
